@@ -11,7 +11,7 @@ amendment = element amendment {(text | section |collective_sovereignty | separat
 
 collective_sovereignty = element collective_sovereignty {attribute type { "popular_sovereignty" | "majority_rule" | "community" }, text}
 consent_of_governed = element consent_of_governed {attribute type { "right_to_petition" | "elections" | "amendment_process" | "representative_government" }, text}
-eligibility = element eligibility {attribute type { "age" | "gender" | "race" | "nationality" | "residency_status" }, text}
+eligibility = element eligibility {attribute type {"religion" | "age" | "gender" | "race" | "nationality" | "residency_status" }, text}
 limits_of_power = element limits_of_power {attribute type { "fixed_terms" | "veto" | "impeachment" | "judicial_review" }, text}
 power_of_president = element justice {attribute type { "commander_in_chief" | "executive_orders" | "veto_power" | "appointment_power" | "pardon_power" }, text}
 natural_rights = element natural_rights {attribute type { "life" | "liberty" | "pursuit_of_happiness" | "property" | "equality" | "freedom_of_speech" | "bear_arms" }, text}
