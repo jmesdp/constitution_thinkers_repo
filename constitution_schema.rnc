@@ -3,23 +3,23 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = element constitutiontext {constitution, amendments}
 constitution = element constitution {(text |preamble | article | section)*}
 amendments = element amendments {( text | preamble | bill_of_rights | amendment)*}
-preamble = element preamble {(text |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship)*}
-article = element article {(text | section | collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship)*}
-section = element section {(text |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship)*}
+preamble = element preamble {(text |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law)*}
+article = element article {(text | section | collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law)*}
+section = element section {(text |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law)*}
 bill_of_rights = element bill_of_rights {(text |amendment)+}
-amendment = element amendment {(text | section |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship)*}
+amendment = element amendment {(text | section |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law)*}
 
 collective_sovereignty = element collective_sovereignty {attribute type { "popular_sovereignty" | "majority_rule" | "community" }, text}
-consent_of_governed = element consent_of_governed {attribute type { "right_to_petition" | "elections" | "amendment_process" | "representative_government" }, text}
+consent_of_governed = element consent_of_governed {attribute type { "right_to_petition" | "elections" | "amendment_process" | "representative_government" | "laws_passed" }, text}
 eligibility = element eligibility {attribute type {"religion" | "age" | "gender" | "race" | "nationality" | "residency_status" }, text}
-limits_of_power = element limits_of_power {attribute type { "fixed_terms" | "veto" | "impeachment" | "judicial_review" }, text}
-power_of_president = element justice {attribute type { "commander_in_chief" | "executive_orders" | "veto_power" | "appointment_power" | "pardon_power" }, text}
+limits_of_power = element limits_of_power {attribute type { "fixed_terms" | "veto" | "impeachment" | "judicial_review" | "state_powers" }, text}
+power_of_president = element power_of_president {attribute type { "commander_in_chief" | "executive_orders" | "veto_power" | "appointment_power" | "pardon_power" | "presidential_limits" | "oath" }, text}
 natural_rights = element natural_rights {attribute type { "life" | "liberty" | "pursuit_of_happiness" | "property" | "equality" | "freedom_of_speech" | "bear_arms" }, text}
-justice = element justice {attribute type { "due_process" | "trial_by_jury" | "habeas_corpus" | "speedy_trial" | "cruel_and_unusual_punishment" | "double_jeopardy" | "self_incrimination" | "legal_representation" | "warrants" }, text}
-taxes = element taxes {attribute type { "income_tax" | "sales_tax" | "property_tax" | "consent_to_tax" }, text}
+justice = element justice {attribute type { "due_process" | "trial_by_jury" | "habeas_corpus" | "speedy_trial" | "cruel_and_unusual_punishment" | "double_jeopardy" | "self_incrimination" | "legal_representation" | "warrants" | "treason_or_espionage" }, text}
+taxes = element taxes {attribute type { "income_tax" | "sales_tax" | "property_tax" | "consent_to_tax" | "tax_results"}, text}
 citizenship = element citizenship {attribute type { "naturalization" | "revocation" | "dual_citizenship" }, text}
 separation_of_powers = element separation_of_powers {attribute type { "executive" | "legislative" | "judicial" }, text}
-
+purposes_of_law = element purposes_of_law {attribute type { "individual_rights" | "betterment_of_community" | "strengthen_previous_law" | "foreign_relationships" | "declarations" }, text}
 #collective_sovereignty #people, as the collective entity are the sole source of power in a society.
 #seperation_of_powers #principle that divides the governement into three branches. executive. judicial. legislative
 #eligibility #explicit requirement/qualified to participate in political processes. gender. race. age. nationality. residency_status
