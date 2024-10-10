@@ -3,11 +3,11 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = element constitutiontext {constitution, amendments}
 constitution = element constitution {(text |preamble | article | section)*}
 amendments = element amendments {( text | preamble | bill_of_rights | amendment)*}
-preamble = element preamble {(text |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law)*}
-article = element article {(text | section | collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law)*}
-section = element section {(text |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law)*}
+preamble = element preamble {(text |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials)*}
+article = element article {(text | section | collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials)*}
+section = element section {(text |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials)*}
 bill_of_rights = element bill_of_rights {(text |amendment)+}
-amendment = element amendment {(text | section |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law)*}
+amendment = element amendment {(text | section |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials)*}
 
 collective_sovereignty = element collective_sovereignty {attribute type { "popular_sovereignty" | "majority_rule" | "community" }, text}
 consent_of_governed = element consent_of_governed {attribute type { "right_to_petition" | "elections" | "amendment_process" | "representative_government" | "laws_passed" }, text}
@@ -20,6 +20,9 @@ taxes = element taxes {attribute type { "income_tax" | "sales_tax" | "property_t
 citizenship = element citizenship {attribute type { "naturalization" | "revocation" | "dual_citizenship" }, text}
 separation_of_powers = element separation_of_powers {attribute type { "executive" | "legislative" | "judicial" }, text}
 purposes_of_law = element purposes_of_law {attribute type { "individual_rights" | "betterment_of_community" | "strengthen_previous_law" | "foreign_relationships" | "declarations" | "upholding_natural_rights" | "general_assembly" }, text}
+legal_documents = element legal_documents {attribute type { "constitutional" | "bill_of_rights" | "amendments" | "statutes" | "articles"},text}
+bodies_of_government = element bodies_of_government {attribute type { "congress" | "house" | "senate" | "supreme_court" | "courts" | "president" | "vice_president" },text}
+government_officials = element government_officials {attribute type { "senator" | "representative" | "president" | "elector" | "judge" | "congressman" },text}
 #collective_sovereignty #people, as the collective entity are the sole source of power in a society.
 #seperation_of_powers #principle that divides the governement into three branches. executive. judicial. legislative
 #eligibility #explicit requirement/qualified to participate in political processes. gender. race. age. nationality. residency_status

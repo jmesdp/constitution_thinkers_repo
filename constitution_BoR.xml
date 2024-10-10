@@ -2,55 +2,55 @@
 <?xml-model href="constitution_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <constitutiontext>
     <constitution>
-        <preamble> We the <collective_sovereignty type="community">People</collective_sovereignty> of the <collective_sovereignty type="community">United States</collective_sovereignty>, in Order to form a more <collective_sovereignty type="community">perfect Union</collective_sovereignty>,
-            establish Justice, insure <natural_rights type="pursuit_of_happiness">domestic Tranquility</natural_rights>, provide for the <natural_rights type="bear_arms">common defence</natural_rights>, promote
-            the <collective_sovereignty type="community">general Welfare</collective_sovereignty>, and secure the <natural_rights type="liberty">Blessings of Liberty</natural_rights> to ourselves and our <natural_rights type="pursuit_of_happiness">Posterity</natural_rights>,
-            do ordain and establish this Constitution for the United States of America. </preamble>
+        <preamble> We the <collective_sovereignty type="community">People</collective_sovereignty> of the <collective_sovereignty type="community">United States</collective_sovereignty>, in Order to form a more perfect <collective_sovereignty type="community">Union</collective_sovereignty>,
+            <purposes_of_law type="betterment_of_community">establish Justice</purposes_of_law>, insure <natural_rights type="pursuit_of_happiness">domestic Tranquility</natural_rights>, provide for the <natural_rights type="bear_arms">common defence</natural_rights>, promote
+            the <natural_rights type="life">general Welfare</natural_rights>, and secure the <natural_rights type="liberty">Blessings of Liberty</natural_rights> to ourselves and our <natural_rights type="pursuit_of_happiness">Posterity</natural_rights>,
+            do ordain and establish this <legal_documents type="constitutional">Constitution</legal_documents> for the United States of America. </preamble>
         <article>I 
-            <section>1 All legislative Powers herein granted shall be vested in a Congress of
-                the United States, which shall consist of a <separation_of_powers type="legislative">Senate</separation_of_powers> and <separation_of_powers type="legislative">House of Representatives</separation_of_powers>.
+            <section>1 <separation_of_powers type="legislative">All legislative Powers herein granted shall be vested in a Congress of
+                the United States</separation_of_powers>, which shall consist of a <bodies_of_government type="congress">Senate and House of Representatives</bodies_of_government>.
                 </section>
-            <section>2 The <separation_of_powers type="legislative">House of Representatives</separation_of_powers> shall be composed of Members
-                chosen every second Year by the <consent_of_governed type="elections">People of the several States</consent_of_governed>, and the Electors in
-                each State shall have the <limits_of_power type="fixed_terms">Qualifications requisite for Electors</limits_of_power> of the most
-                numerous <separation_of_powers type="legislative">Branch of the State Legislature</separation_of_powers>. No Person shall be a Representative who
+            <section>2 The <bodies_of_government type="house">House of Representatives</bodies_of_government> shall be composed of <limits_of_power type="fixed_terms">Members
+                chosen every second Year</limits_of_power> by the <consent_of_governed type="elections">People of the several States</consent_of_governed>, and the Electors in
+                each State shall have the <consent_of_governed type="representative_government">Qualifications requisite for Electors</consent_of_governed> of the most
+                numerous <separation_of_powers type="legislative">Branch of the State Legislature</separation_of_powers>. No Person shall be a <government_officials type="representative">Representative</government_officials> who
                 shall not have attained to the <eligibility type="age">Age of twenty five Years</eligibility>, and been <eligibility type="nationality">seven Years a
                 Citizen of the United States</eligibility>, and who shall not, when elected, be an <eligibility type="residency_status">Inhabitant of
                 that State</eligibility> in which he shall be chosen. [<consent_of_governed type="representative_government">Representatives</consent_of_governed> and <taxes type="consent_to_tax">direct Taxes</taxes> shall be
                 apportioned among the several States which may be included within this<collective_sovereignty type="community"> Union</collective_sovereignty>,
                 according to their respective Numbers, which shall be determined by adding to the
                 whole Number of <collective_sovereignty type="community">free Persons</collective_sovereignty>, including those bound to <limits_of_power type="fixed_terms">Service for a Term of Years</limits_of_power>,
-                and excluding Indians not taxed, three fifths of all other Persons.]* The actual
+                and excluding Indians not taxed, three fifths of all other Persons.]* <limits_of_power type="fixed_terms">The actual
                 Enumeration shall be made within three Years after the first Meeting of the Congress
-                of the United States, and within every subsequent <limits_of_power type="fixed_terms">Term of ten Years</limits_of_power>, in such Manner
-                as they shall by Law direct. The <consent_of_governed type="representative_government">Number of Representatives</consent_of_governed> shall not exceed one for
+                of the United States</limits_of_power>, and within every subsequent <limits_of_power type="fixed_terms">Term of ten Years</limits_of_power>, in such Manner
+                as they shall by Law direct. The Number of <government_officials type="representative">Representatives</government_officials> <limits_of_power type="state_powers">shall not exceed one for
                 every thirty Thousand, but each State shall have at Least one Representative; and
                 until such enumeration shall be made, the State of New Hampshire shall be entitled
                 to chuse three, Massachusetts eight, Rhode-Island and Providence Plantations one,
                 Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one,
                 Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia
-                three. When vacancies happen in the Representation from any State, the <separation_of_powers type="executive">Executive
+                three. When vacancies happen in the Representation from any State,</limits_of_power> the <separation_of_powers type="executive">Executive
                 Authority</separation_of_powers> thereof shall issue Writs of Election to fill such Vacancies. The House of
-                Representatives shall chuse their Speaker and other Officers; and shall have the
+                <consent_of_governed type="elections">Representatives shall chuse their Speaker and other Officers</consent_of_governed>; and shall have the
                 sole <limits_of_power type="impeachment">Power of Impeachment</limits_of_power>. </section>
-            <section>3 The <separation_of_powers type="legislative">Senate</separation_of_powers> of the United States
-                shall be composed of two Senators from each State, [chosen by the Legislature there-
-                of,]* for six Years; and each Senator shall have one Vote. Immediately after they
+            <section>3 The <bodies_of_government type="senate">Senate</bodies_of_government> of the United States
+                shall be <separation_of_powers type="legislative">composed of two Senators from each State, [chosen by the Legislature there-
+                of,]* for six Years; and each Senator shall have one Vote</separation_of_powers>. Immediately after they
                 shall be assembled in <consent_of_governed type="elections">Consequence of the first Election</consent_of_governed>, they shall be divided as
-                equally as may be into three Classes. The <separation_of_powers type="legislative">Seats of the Senators</separation_of_powers> of the first Class
+                equally as may be into three Classes. The Seats of the <government_officials type="senator">Senators</government_officials> of the first Class
                 shall be vacated at the <limits_of_power type="fixed_terms">Expiration</limits_of_power> of the second Year, of the second Class at the
-                <limits_of_power type="fixed_terms">Expiration</limits_of_power> of the fourth Year, and of the third Class at the <limits_of_power type="fixed_terms">Expiration</limits_of_power> of the sixth
-                Year, so that one third may be chosen every second Year; [and if Vacan- cies happen
+                <limits_of_power type="fixed_terms">Expiration of the fourth Year</limits_of_power>, and of the third Class at the <limits_of_power type="fixed_terms">Expiration of the sixth
+                Year, so that one third may be chosen every second Year </limits_of_power>; [and if Vacan- cies happen
                 by Resignation, or otherwise, during the Recess of the Legislature of any State, the
-                Executive thereof may make temporary Appointments until the next Meeting of the
-                Legislature, which shall then fill such Vacancies.]* No Person shall be a <separation_of_powers type="legislative">Senator</separation_of_powers>
+                <power_of_president type="appointment_power">Executive thereof may make temporary Appointments</power_of_president> until the next Meeting of the
+                Legislature, which shall then fill such Vacancies.]* No Person shall be a <government_officials type="senator">Senator</government_officials>
                 who shall not have attained to the <eligibility type="age">Age of thirty Years</eligibility>, and been <eligibility type="nationality">nine Years a
                 Citizen of the United States</eligibility>, and who shall not, when elected, be an <eligibility type="residency_status">Inhabitant of
                 that State</eligibility> for which he shall be chosen The <separation_of_powers type="executive">Vice President</separation_of_powers> of the United States
-                shall be <separation_of_powers type="legislative">President of the Senate</separation_of_powers>, but shall have no Vote, unless they be equally
-                divided. The <separation_of_powers type="legislative">Senate</separation_of_powers> shall chuse their other Officers, and also a President pro
+                shall be President of the Senate, but shall have no Vote, unless they be equally
+                divided. The <bodies_of_government type="senate">Senate</bodies_of_government> shall chuse their other Officers, and also a President pro
                 tempore, in the Absence of the Vice President, or when he shall exercise the <separation_of_powers type="executive">Office
-                of President of the United States</separation_of_powers> The <separation_of_powers type="legislative">Senate</separation_of_powers> shall have the sole Power to try all
+                of President of the United States</separation_of_powers> The <bodies_of_government type="senate">Senate</bodies_of_government> shall have the sole Power to try all
                 <limits_of_power type="impeachment">Impeachments</limits_of_power>. When sitting for that Purpose, they shall be on <justice type="due_process">Oath or Affirmation</justice>.
                 When the <separation_of_powers type="executive">President of the United States</separation_of_powers> is tried, the <separation_of_powers type="judicial">Chief Justice</separation_of_powers> shall preside:
                 And no Person shall be convicted without the<justice type="due_process"> Concurrence of two thirds of the
@@ -79,21 +79,21 @@
                 <separation_of_powers type="legislative">Session of Congress,</separation_of_powers> shall, without the Consent of the other, adjourn for more
                 than three days, nor to any other Place than that in which the two Houses shall be
                 sitting. </section>
-            <section>6 The <separation_of_powers type="legislative">Senators</separation_of_powers> and<separation_of_powers type="legislative"> Representatives </separation_of_powers>shall receive a
+            <section>6 The <government_officials type="congressman">Senators and Representatives</government_officials> shall receive a
                 <natural_rights type="liberty">Compensation for their Services</natural_rights>, to be ascertained by Law, and paid out of the
                 Treasury of the United States. They shall in all Cases, except Treason, Felony and
                 Breach of the Peace, be privileged from Arrest during their Attendance at the Ses-
                 sion of their respective Houses, and in going to and returning from the same; and
                 for any Speech or Debate in either House, they shall not be questioned in any other
-                Place. No Senator or Representative shall, during the Time for which he was elected,
+                Place. No <government_officials type="congressman">Senator or Representative</government_officials> shall, during the Time for which he was elected,
                 be appointed to any <separation_of_powers type="legislative">civil Office</separation_of_powers> under the Authority of the United States, which
                 shall have been created, or the Emoluments whereof shall have been encreased during
                 such time; and no Person holding any Office under the United States, shall be a
                 Member of either House during his Continuance in Office. </section>
             <section>7 All
-                Bills for raising Revenue shall originate in the<separation_of_powers type="legislative"> House of Representatives</separation_of_powers>; but the
-                Senate may propose or concur with Amendments as on other Bills Every <consent_of_governed type="amendment_process">Bill</consent_of_governed> which
-                shall have passed the <separation_of_powers type="legislative">House of Representatives</separation_of_powers> and the <separation_of_powers type="legislative">Senate</separation_of_powers>, shall, before it
+                Bills for raising Revenue shall originate in the <bodies_of_government type="house">House of Representatives</bodies_of_government>; but the
+                <bodies_of_government type="senate">Senate</bodies_of_government> may propose or concur with <legal_documents type="amendments">Amendments</legal_documents> as on other Bills Every <consent_of_governed type="amendment_process">Bill</consent_of_governed> which
+                shall have passed the <bodies_of_government type="congress">House of Representatives and the Senate</bodies_of_government>, shall, before it
                 become a Law, be presented to the<separation_of_powers type="executive"> President of the United States</separation_of_powers>; If he approve he
                 shall sign it, but if not he shall return it, with his <limits_of_power type="veto">Objections</limits_of_power> to that House in
                 which it shall have originated, who shall enter the Objections at large on their
@@ -133,7 +133,7 @@
                 the <limits_of_power type="state_powers">Appointment of the Officers</limits_of_power>, and the <separation_of_powers type="legislative">Authority of training the Militia according
                 to the discipline prescribed by Congress</separation_of_powers>; their Adjournment prevent its Return, in
                 which Case it not be a Law shall Every Order, Resolution, or Vote to which the
-                Concurrence of the <separation_of_powers type="legislative">Senate and House of Representatives</separation_of_powers> may be necessary (except on
+                Concurrence of <bodies_of_government type="congress">the Senate and House of Representatives</bodies_of_government> may be necessary (except on
                 a question of Adjournment) shall be presented to the <separation_of_powers type="executive">President of the United States</separation_of_powers>;
                 and before the Same shall take Effect, <power_of_president type="executive_orders">shall be approved by him, or being
                 disapproved by him</power_of_president>, shall be <separation_of_powers type="legislative">repassed by two thirds of the Senate and House of
@@ -145,9 +145,9 @@
                 Legislature of the State in which the Same shall be, for the Erection of Forts,
                 Maga- zines, Arsenals, dock-Yards and other needful Buildings; -And No State shall,
                 without the Consent of the Congress, lay To make all Laws which shall be necessary
-                and proper for carrying into Execution the foregoing Powers, and all other Powers
-                vested by this Constitution in the Government of the United States, or in any
-                Department or Officer thereof.</purposes_of_law> </section>
+                and proper for carrying into Execution the foregoing Powers,</purposes_of_law> and all other Powers
+                vested by this <legal_documents type="constitutional">Constitution</legal_documents> in the Government of the United States, or in any
+                Department or Officer thereof. </section>
             <section>9. The <collective_sovereignty type="community">Migration or Importation of
                 such Persons as any of the States now existing shall think proper to admit, shall
                 not be prohibited by the Congress prior to the Year one thousand eight hundred and
@@ -210,8 +210,8 @@
                 Bal- lot the Vice President.</consent_of_governed>]* The Congress may determine the <limits_of_power type="fixed_terms">Time of chusing the
                 Electors, and the Day on which they shall give their Votes; which Day shall be the
                 same throughout the United States</limits_of_power>. <eligibility type="nationality">No Person except a natural born Citizen, or a
-                Citizen of the United States, at the time of the Adoption of this Constitution,
-                shall be eligible to the Office of President</eligibility>; <eligibility type="age">neither shall any person be eligible
+                Citizen of the United States,</eligibility> at the time of the Adoption of this <legal_documents type="constitutional">Constitution</legal_documents>,
+                shall be eligible to the Office of President; <eligibility type="age">neither shall any person be eligible
                 to that Office who shall not have attained to the Age of thirty five Years, and been
                 fourteen Years a Resident within the United States</eligibility> <power_of_president type="appointment_power">In Case of the Removal of the
                 President from Office, or of his Death, Resignation, or Inability to discharge the
@@ -266,15 +266,15 @@
                 Times, receive for their Services, a Compensation, which shall not be diminished
                 during their Continuance in Office. </section>
             <section>2 The <separation_of_powers type="judicial">judicial Power shall
-                extend to all Cases, in Law and Equity, arising under this Constitution, the Laws of
+                extend to all Cases, in Law and Equity,</separation_of_powers> arising under this <legal_documents type="constitutional">Constitution</legal_documents>, the Laws of
                 the United States, and Treaties made, or which shall be made, under their Authority;
-                - to all Cases affecting Ambassa- dors, other public Ministers and Consuls; - to all
+                - <separation_of_powers type="judicial">to all Cases affecting Ambassa- dors, other public Ministers and Consuls; - to all
                 Cases of admiralty and maritime Jurisdiction; - to Controversies to which the United
                 States shall be a Party; - to Controversies between two or more States; - [between a
-                State and Citizens of another State;-]* between Citizens of different States, -
+                State and Citizens of another State;-]</separation_of_powers>* between Citizens of different States, -
                 between Citizens of the same State claiming Lands under Grants of different States,
                 [and between a State, or the Citi- zens thereof;- and foreign States, Citizens or
-                Subjects.]* </separation_of_powers>In all Cases affecting Ambassadors, other public Ministers and Consuls,
+                Subjects.]* In all Cases affecting Ambassadors, other public Ministers and Consuls,
                 and those in which a State shall be Party, <separation_of_powers type="judicial">the supreme Court shall have original
                 Jurisdiction</separation_of_powers>. In all the other Cases before mentioned, the supreme Court shall have
                 appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under
@@ -337,17 +337,17 @@
             </consent_of_governed></article><article>VI <collective_sovereignty type="community">All
                 Debts contracted and Engagements entered into, before the Adoption of this
                 Constitution, shall be as valid against the United States under this Constitution,
-                as under the Confederation.</collective_sovereignty> This Constitution, and the Laws
+                as under the Confederation.</collective_sovereignty> This <legal_documents type="constitutional">Constitution</legal_documents>, and the Laws
             of the United States which shall be made in Pursuance thereof; and all Treaties made, or
             which shall be made, under the Authority of the United States, shall be the supreme Law
             of the Land; and the Judges in every State shall be bound thereby, any Thing in the
-            Constitution or Laws of any State to the Contrary notwithstanding. <separation_of_powers
+            <legal_documents type="constitutional">Constitution</legal_documents> or Laws of any State to the Contrary notwithstanding. <separation_of_powers
                 type="legislative">The Senators and Representatives before mentioned, and the
                 Members of the several State Legislatures,</separation_of_powers> and all
                 <separation_of_powers type="executive">executive</separation_of_powers> and
                 <separation_of_powers type="judicial">judicial Officers,</separation_of_powers> both
             of the United States and of the several States, shall be bound by Oath or Affirmation,
-            to support this Constitution; <eligibility type="religion">but no religious Test shall
+            to support this <legal_documents type="constitutional">Constitution</legal_documents>; <eligibility type="religion">but no religious Test shall
                 ever be required as a Qualification to any Office or public Trust under the United
                 States </eligibility></article><article>VII <collective_sovereignty type="community"
                 >The Ratification of the Conventions of nine States, shall be sufficient for the
@@ -377,38 +377,38 @@
                 assenting to, and ratifying the Same, should give Notice thereof to the United
                 States in Congress assembled.</consent_of_governed> Resolved, That it is the Opinion
             of this Convention, that as soon as the Conventions of nine States shall have ratified
-            this Constitution, <consent_of_governed type="elections">the United States in Congress
+            this <legal_documents type="constitutional">Constitution</legal_documents>, <consent_of_governed type="elections">the United States in Congress
                 assembled should fix a Day on which Electors should be appointed by the States which
                 shall have ratified the same,</consent_of_governed> and <consent_of_governed
                 type="elections">a Day on which the Electors should assemble to vote for the Presi-
                 dent,</consent_of_governed> and the Time and Place for commencing Proceedings under
-            this Constitution That after such Publication the Electors should be ap- pointed, and
+            this <legal_documents type="constitutional">Constitution</legal_documents> That after such Publication the Electors should be ap- pointed, and
                 <consent_of_governed type="elections">the Senators and Representatives elected:
             </consent_of_governed>That the Electors should meet on the Day fixed for the Election of
             the President, and should transmit their Votes certified, signed, sealed and directed,
-            as the Constitution requires, to the Secretary of the United States in Congress
+            as the <legal_documents type="constitutional">Constitution</legal_documents> requires, to the Secretary of the United States in Congress
             assembled, that <consent_of_governed type="elections">the Senators and Representatives
                 should convene at the Time and Place assigned; that the Senators should appoint a
                 President of the Senate, for the sole Purpose of receiving, opening and counting the
                 Votes for President;</consent_of_governed> and, that after he shall be chosen, the
             Congress, together with the President, should, without Delay, proceed to execute this
-            Constitution By the unanimous Order of the Convention Go. Washington-Presidt: W. JACKSON
+            <legal_documents type="constitutional">Constitution</legal_documents> By the unanimous Order of the Convention Go. Washington-Presidt: W. JACKSON
             Secretary. </article></constitution>
     <amendments><preamble>THE AMENDMENTS TO THE AS RATIFIED BY THE STATES Preamble to the Bill of
             Rights Congress of the United States begun and held at the City of New-York, on
             Wednesday the fourth of March, THE Conventions of a number of the States, having at the
-            time of their adopting the Constitution, expressed a desire, in order to prevent
+            time of their adopting the <legal_documents type="constitutional">Constitution</legal_documents>, expressed a desire, in order to prevent
             misconstruction or abuse of its powers, that further declaratory and restrictive clauses
             should be added: And as extending the ground of public confidence in the Government,
             will best ensure the beneficent ends of its institution RESOLVED by the Senate and House
-            of Representatives of the United States of America, in Congress assembled, two thirds of
-            both Houses concurring, that the following Articles be proposed to the Legislatures of
-            the several States, as amendments to the Constitution of the United States, all, or any
-            of which Articles, when ratified by three fourths of the said Legislatures, to be valid
-            to all intents and purposes, as part of the said Constitution; viz. ARTICLES in addition
-            to, and Amendment of the Constitution of the United States of America, proposed by
+            of <government_officials type="representative">Representatives</government_officials> of the United States of America, in Congress assembled, two thirds of
+            both <bodies_of_government type="house">Houses</bodies_of_government> concurring, that the following <legal_documents type="articles">Articles</legal_documents> be proposed to the Legislatures of
+            the several States, as <legal_documents type="amendments">amendments</legal_documents> to the <legal_documents type="constitutional">Constitution</legal_documents> of the United States, all, or any
+            of which <legal_documents type="articles">Articles</legal_documents>, when ratified by three fourths of the said Legislatures, to be valid
+            to all intents and purposes, as part of the said <legal_documents type="constitutional">Constitution</legal_documents>; viz. ARTICLES in addition
+            to, and Amendment of the <legal_documents type="constitutional">Constitution</legal_documents> of the United States of America, proposed by
             Congress, and ratified by the Legislatures of the several States, pursuant to the fifth
-            Article of the original Constitution. </preamble><bill_of_rights>
+            <legal_documents type="articles">Article</legal_documents> of the original <legal_documents type="constitutional">Constitution</legal_documents>. </preamble><bill_of_rights>
             <amendment><natural_rights type="freedom_of_speech">I Congress shall make no law
                     respecting an establishment of religion, or prohibiting the free exercise
                     thereof; or abridg- ing the freedom of speech, or of the press, or the right of
@@ -522,7 +522,7 @@
                 among the several States according to their respective numbers, counting the whole
                 number of persons in each State</consent_of_governed>, <eligibility type="race">excluding Indians not taxed</eligibility>. But when the right to
                 vote at any election for the choice of electors for President and Vice President of
-                the United States, Representatives in Congress, the Execu- tive and Judicial
+                the United States, <government_officials type="representative">Representatives</government_officials> in Congress, the <government_officials type="president">Executive</government_officials> and <government_officials type="judge">Judicial</government_officials>
                 officers of a State, or the members of the Legislature thereof, is denied to any of
                 the <eligibility type="gender">male inhabitants</eligibility> of such State, [<limits_of_power type="fixed_terms">being twenty-one years of age</limits_of_power>,]* and <eligibility type="nationality">citizens
                 of the United States, or in any way abridged, except for participation in rebellion,
@@ -544,7 +544,7 @@
                 incurred for payment of pensions and bounties for services in suppressing insurrec-
                 tion or rebellion, shall not be questioned</taxes>. <taxes type="tax_results">But neither the United States nor any
                 State shall assume or pay any debt or obligation incurred in aid of insurrection or
-                rebellion against the United States, or any claim for the loss or eman- cipation of
+                rebellion against the United States, or any claim for the loss or emancipation of
                 any slave; but all such debts, obligations and claims shall be held illegal and
                 void. </taxes></section>
                 <section>5 <separation_of_powers type="legislative">The Congress shall have the power to enforce, by
@@ -584,9 +584,9 @@
                 <section>2 <separation_of_powers type="legislative">The Congress and
                 the several States shall have concurrent power to enforce this article by
                 appropriate legislation</separation_of_powers>. </section>
-                <section>3 This article shall be inoperative
-                unless it shall have been ratified as an amendment to the Constitution by the
-                legislatures of the several States, as provided in the Constitution, <limits_of_power type="fixed_terms">within seven
+                <section>3 This <legal_documents type="articles">article</legal_documents> shall be inoperative
+                unless it shall have been ratified as an amendment to the <legal_documents type="constitutional">Constitution</legal_documents> by the
+                legislatures of the several States, as provided in the <legal_documents type="constitutional">Constitution</legal_documents>, <limits_of_power type="fixed_terms">within seven
                 years from the date of the submission hereof to the States by the Congress</limits_of_power>.
             </section></amendment>
         <amendment>XIX Passed by Congress June 4, 1919. Ratified August
@@ -630,44 +630,44 @@
                 seven years from the date of its submission.</separation_of_powers> </section></amendment>
         <amendment>XXI
             Passed by Congress February 20, 1933. Ratified December 5, 933. <section>1 The
-                eighteenth article of amendment to the Constitution of the United States is hereby
+                eighteenth <legal_documents type="amendments">article of amendment</legal_documents> to the Constitution of the United States is hereby
                 repealed. </section><section>2 The transportation or importation into any State,
                 Territory, or possession of the United States for delivery or use therein of
                 intoxicating liquors, in violation of the laws thereof, is hereby prohibited.
-                </section><section>3 This article shall be inoperative unless it shall have been
-                ratified as an amendment to the Constitution by conven- tions in the several States,
-                as provided in the Constitution, within seven years from the date of the submission
+                </section><section>3 This <legal_documents type="articles">article</legal_documents> shall be inoperative unless it shall have been
+                ratified as an <legal_documents type="amendments">amendment</legal_documents> to the Constitution by conven- tions in the several States,
+                as provided in the <legal_documents type="constitutional">Constitution</legal_documents>, within seven years from the date of the submission
                 hereof to the States by the Congress. </section></amendment><amendment>XXII Passed
             by Congress March 21, 1947. Ratified February 27, 951. <section>1 No person shall be
                 elected to the office of the President more than twice, and no person who has held
                 the office of President, or acted as President, for more than two years of a term to
                 which some other person was elected President shall be elected to the office of
-                President more than once. But this Article shall not apply to any person holding the
-                office of President when this Article was proposed by Con- gress, and shall not
+                President more than once. But this <legal_documents type="articles">Article</legal_documents> shall not apply to any person holding the
+                office of President when this <legal_documents type="articles">Article</legal_documents> was proposed by Con- gress, and shall not
                 prevent any person who may be holding the office of President, or acting as
-                President, during the term within which this Article becomes operative from holding
+                President, during the term within which this <legal_documents type="articles">Article</legal_documents> becomes operative from holding
                 the office of President or acting as President during the remainder of such term.
-                </section><section>2 This article shall be inoperative unless it shall have been
-                ratified as an amendment to the Constitution by the leg- islatures of three-fourths
+                </section><section>2 This <legal_documents type="articles">article</legal_documents> shall be inoperative unless it shall have been
+                ratified as an <legal_documents type="amendments">amendment</legal_documents> to the Constitution by the leg- islatures of three-fourths
                 of the several States within seven years from the date of its submission to the
                 States by the Congress. </section></amendment><amendment>XXIII Passed by Congress
             June 16, 1960. Ratified March 29, 1961. <section>1 The District constituting the seat of
                 Government of the United States shall appoint in such manner as Congress may direct:
                 A number of electors of President and Vice President equal to the whole number of
-                Senators and Representatives in Congress to which the District would be entitled if
+                <government_officials type="congressman">Senators and Representatives</government_officials> in Congress to which the District would be entitled if
                 it were a State, but in no event more than the least populous State; they shall be
                 in addition to those appointed by the States, but they shall be considered, for the
                 purposes of the election of President and Vice President, to be electors appointed
                 by a State; and they shall meet in the District and perform such duties as provided
-                by the twelfth article of amendment. </section><section>2 The Congress shall have
-                power to enforce this article by appropriate legislation.
+                by the twelfth <legal_documents type="amendments">article of amendment</legal_documents>. </section><section>2 The Congress shall have
+                power to enforce this <legal_documents type="articles">article</legal_documents> by appropriate legislation.
             </section></amendment><amendment>XXIV Passed by Congress August 27, 1962. Ratified
             January 23, 1964. <section>1 The right of citizens of the United States to vote in any
                 pri- mary or other election for President or Vice President, for electors for
-                President or Vice President, or for Senator or Representative in Congress, shall not
+                President or Vice President, or for <government_officials type="congressman">Senator or Representative</government_officials> in Congress, shall not
                 be denied or abridged by the United States or any State by reason of failure to pay
                 poll tax or other tax. </section><section>2 The Congress shall have power to enforce
-                this article by appropriate legislation. </section></amendment><amendment>XXV Passed
+                this <legal_documents type="articles">article</legal_documents> by appropriate legislation. </section></amendment><amendment>XXV Passed
             by Congress July 6, 1965. Ratified February 10, 1967. (Note: Article II, Section 1 of
             the Constitution was modified by the 25th Amendment.) <section>1 In case of the removal
                 of the President from office or of his death or resignation, the Vice President
@@ -704,9 +704,9 @@
             ofthe Constitution was modified by Section 1 of the 26th Amendment.) <section>1 The
                 right of citizens of the United States, who are eighteen years of age or older, to
                 vote shall not be denied or abridged by the United States or by any State on account
-                of age. </section><section>2 The Congress shall have power to enforce this article
+                of age. </section><section>2 The Congress shall have power to enforce this <legal_documents type="articles">article</legal_documents>
                 by appropriate legislation. </section></amendment><amendment>XXVII Originally
             proposed Sept. 25, 1789. Ratified May 7, 1992. No law, varying the compensation for the
-            services of the Senators and Representatives, shall take effect, until an elec- tion of
+            services of the <government_officials type="congressman">Senators and Representatives</government_officials>, shall take effect, until an elec- tion of
             representatives shall have intervened. </amendment></amendments>
 </constitutiontext>
