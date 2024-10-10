@@ -629,84 +629,104 @@
                 Constitution by the leg- islatures of three-fourths of the several States within
                 seven years from the date of its submission.</separation_of_powers> </section></amendment>
         <amendment>XXI
-            Passed by Congress February 20, 1933. Ratified December 5, 933. <section>1 The
-                eighteenth <legal_documents type="amendments">article of amendment</legal_documents> to the Constitution of the United States is hereby
-                repealed. </section><section>2 The transportation or importation into any State,
+            Passed by Congress February 20, 1933. <limits_of_power type="state_powers">Ratified December 5, 933</limits_of_power>.
+            <section>1 The
+                eighteenth <legal_documents type="amendments">article of amendment</legal_documents> to the Constitution of the United States is hereby <purposes_of_law type="repeal_previous_law">repealed.</purposes_of_law> </section>
+            <section>2 <taxes type="sales_tax">The transportation or importation into any State,
                 Territory, or possession of the United States for delivery or use therein of
-                intoxicating liquors, in violation of the laws thereof, is hereby prohibited.
-                </section><section>3 This <legal_documents type="articles">article</legal_documents> shall be inoperative unless it shall have been
-                ratified as an <legal_documents type="amendments">amendment</legal_documents> to the Constitution by conven- tions in the several States,
+                intoxicating liquors, in violation of the laws thereof, is hereby prohibited.</taxes>
+                </section>
+            <section>3 This <legal_documents type="articles">article</legal_documents> shall be inoperative unless it shall have been
+                <limits_of_power type="state_powers">ratified</limits_of_power> as an <legal_documents type="amendments">amendment</legal_documents> to the Constitution by conven- tions in the several States,
                 as provided in the <legal_documents type="constitutional">Constitution</legal_documents>, within seven years from the date of the submission
-                hereof to the States by the Congress. </section></amendment><amendment>XXII Passed
-            by Congress March 21, 1947. Ratified February 27, 951. <section>1 No person shall be
+                hereof to t<separation_of_powers type="legislative">he States by the Congress</separation_of_powers>. </section></amendment>
+        <amendment>XXII 
+            Passed by Congress March 21, 1947. <limits_of_power type="state_powers">Ratified February 27, 951.</limits_of_power>
+            <section>1 <limits_of_power type="fixed_terms">No person shall be
                 elected to the office of the President more than twice, and no person who has held
                 the office of President, or acted as President, for more than two years of a term to
                 which some other person was elected President shall be elected to the office of
-                President more than once. But this <legal_documents type="articles">Article</legal_documents> shall not apply to any person holding the
-                office of President when this <legal_documents type="articles">Article</legal_documents> was proposed by Con- gress, and shall not
+                President more than once.</limits_of_power> But this <legal_documents type="articles">Article</legal_documents> shall not apply to any person holding the
+                office of President when this <legal_documents type="articles">Article</legal_documents> <separation_of_powers type="legislative">was proposed by Con- gress</separation_of_powers>, and shall not
                 prevent any person who may be holding the office of President, or acting as
                 President, during the term within which this <legal_documents type="articles">Article</legal_documents> becomes operative from holding
                 the office of President or acting as President during the remainder of such term.
-                </section><section>2 This <legal_documents type="articles">article</legal_documents> shall be inoperative unless it shall have been
-                ratified as an <legal_documents type="amendments">amendment</legal_documents> to the Constitution by the leg- islatures of three-fourths
-                of the several States within seven years from the date of its submission to the
-                States by the Congress. </section></amendment><amendment>XXIII Passed by Congress
-            June 16, 1960. Ratified March 29, 1961. <section>1 The District constituting the seat of
-                Government of the United States shall appoint in such manner as Congress may direct:
+                </section>
+            <section>2 This <legal_documents type="articles">article</legal_documents> shall be inoperative unless it shall have been
+                ratified as an <legal_documents type="amendments">amendment</legal_documents> to the <limits_of_power type="state_powers">Constitution by the leg- islatures of three-fourths
+                of the several States</limits_of_power> within seven years from the date of its submission to the
+                States by the Congress. </section></amendment>
+        <amendment>XXIII
+            Passed by Congress June 16, 1960. <limits_of_power type="state_powers">Ratified March 29, 1961.</limits_of_power> 
+            <section>1 The District constituting the seat of
+                Government of the United States <separation_of_powers type="legislative">shall appoint in such manner as Congress may direct</separation_of_powers>:
                 A number of electors of President and Vice President equal to the whole number of
-                <government_officials type="congressman">Senators and Representatives</government_officials> in Congress to which the District would be entitled if
+                <government_officials type="congressman">Senators and Representatives</government_officials> in Congress <limits_of_power type="state_powers">to which the District would be entitled if
                 it were a State, but in no event more than the least populous State; they shall be
-                in addition to those appointed by the States, but they shall be considered, for the
-                purposes of the election of President and Vice President, to be electors appointed
-                by a State; and they shall meet in the District and perform such duties as provided
-                by the twelfth <legal_documents type="amendments">article of amendment</legal_documents>. </section><section>2 The Congress shall have
-                power to enforce this <legal_documents type="articles">article</legal_documents> by appropriate legislation.
-            </section></amendment><amendment>XXIV Passed by Congress August 27, 1962. Ratified
-            January 23, 1964. <section>1 The right of citizens of the United States to vote in any
-                pri- mary or other election for President or Vice President, for electors for
-                President or Vice President, or for <government_officials type="congressman">Senator or Representative</government_officials> in Congress, shall not
+                in addition to those appointed by the States, but they shall be considered</limits_of_power>, for the
+                <consent_of_governed type="representative_government">purposes of the election of President and Vice President, to be electors appointed
+                by a State;</consent_of_governed> and they shall meet in the District and perform such duties as provided
+                by the twelfth <legal_documents type="amendments">article of amendment</legal_documents>. </section>
+            <section>2 <separation_of_powers type="legislative">The Congress shall have
+                power to enforce this</separation_of_powers> <legal_documents type="articles">article</legal_documents> <consent_of_governed type="laws_passed">by appropriate legislation.</consent_of_governed>
+            </section></amendment>
+        <amendment>XXIV
+            Passed by Congress August 27, 1962. <limits_of_power type="state_powers">Ratified January 23, 1964.</limits_of_power>
+            <section>1 <citizenship type="rights_of_citzens">The right of citizens of the United States to vote</citizenship> in any
+                pri- mary or other election for <consent_of_governed type="elections">President or Vice President, for electors for
+                President or Vice President</consent_of_governed>, or for <government_officials type="congressman">Senator or Representative</government_officials> in Congress, <eligibility type="tax status">shall not
                 be denied or abridged by the United States or any State by reason of failure to pay
-                poll tax or other tax. </section><section>2 The Congress shall have power to enforce
-                this <legal_documents type="articles">article</legal_documents> by appropriate legislation. </section></amendment><amendment>XXV Passed
-            by Congress July 6, 1965. Ratified February 10, 1967. (Note: Article II, Section 1 of
-            the Constitution was modified by the 25th Amendment.) <section>1 In case of the removal
-                of the President from office or of his death or resignation, the Vice President
-                shall become President. </section><section>2 Whenever there is a vacancy in the
-                office of the Vice Presi- dent, the President shall nominate a Vice President who
-                shall take office upon confirmation by a majority vote of both Houses of Congress.
-                </section><section>3 Whenever the President transmits to the President pro tempore
+                poll tax or other tax</eligibility>. </section>
+            <section>2 The Congress shall have power to enforce
+                this <legal_documents type="articles">article</legal_documents> by appropriate legislation. </section></amendment>
+        <amendment>XXV
+            Passed by Congress July 6, 1965. <limits_of_power type="state_powers">Ratified February 10, 1967.</limits_of_power> (Note: Article II, Section 1 of
+            the Constitution was modified by the 25th Amendment.)
+            <section>1 <limits_of_power type="impeachment">In case of the removal
+                of the President from office</limits_of_power> <power_of_president type="vicepresident_powers">or of his death or resignation, the Vice President
+                shall become President</power_of_president>. </section>
+            <section>2 <power_of_president type="appointment_power">Whenever there is a vacancy in the
+                office of the Vice Presi- dent, the President shall nominate a Vice President</power_of_president><limits_of_power type="voting_limitations"> who
+                shall take office upon confirmation by a majority vote</limits_of_power> of <separation_of_powers type="legislative">both Houses of Congress.</separation_of_powers>
+                </section>
+            <section>3 Whenever the President transmits to the <separation_of_powers type="legislative">President pro tempore
                 of the Senate and the Speaker of the House of Representatives his written
                 declaration that he is unable to discharge the powers and duties of his office, and
-                until he transmits to them a written declaration to the contrary, such powers and
-                duties shall be discharged by the Vice President as Acting President.
-                </section><section>4 Whenever the Vice President and a majority of either the
-                principal officers of the executive departments or of such other body as Congress
+                until he transmits to them a written declaration to the contrary</separation_of_powers>, <power_of_president type="vicepresident_powers">such powers and
+                duties shall be discharged by the Vice President as Acting President</power_of_president>.
+                </section>
+            <section>4 <limits_of_power type="voting_limitations">Whenever the Vice President and a majority</limits_of_power> of either the
+                <power_of_president type="appointment_power">principal officers of the executive departments</power_of_president> or <separation_of_powers type="legislative">of such other body as Congress
                 may by law provide, transmit to the President pro tempore of the Senate and the
                 Speaker of the House of Representatives their written declaration that the President
-                is unable to discharge the powers and duties of his office, the Vice President shall
-                immediately assume the powers and duties of the office as Acting President.
-                Thereafter, when the President transmits to the President pro tempore of the Senate
+                is unable to discharge the powers and duties of his office</separation_of_powers>, <power_of_president type="vicepresident_powers">the Vice President shall
+                immediately assume the powers and duties of the office as Acting President.</power_of_president>
+               <separation_of_powers type="legislative"> Thereafter, when the President transmits to the President pro tempore of the Senate
                 and the Speaker of the House of Representatives his written declaration that no
-                inability ex- ists, he shall resume the powers and duties of his office un- less the
+                inability ex- ists</separation_of_powers>, <power_of_president type="presidential_limits">he shall resume the powers and duties of his office un- less the
                 Vice President and a majority of either the principal officers of the executive
                 department or of such other body as Congress may by law provide, transmit within
                 four days to the President pro tempore of the Senate and the Speaker of the House of
                 Representatives their written declaration that the President is unable to discharge
-                the powers and duties of his office. Thereupon Congress shall decide the issue,
+                the powers and duties of his office.</power_of_president> <separation_of_powers type="legislative">Thereupon Congress shall decide the issue,
                 assembling within forty-eight hours for that purpose if not in session. If the
                 Congress, within twenty-one days after receipt of the latter written declaration,
                 or, if Congress is not in session, within twenty-one days after Congress is required
                 to assemble, determines by two-thirds vote of both Houses that the President is
-                unable to discharge the powers and duties of his office, the Vice President shall
-                continue to discharge the same as Acting President; otherwise, the Presi- dent shall
-                resume the powers and duties of his office. </section></amendment><amendment>XXVI
-            Passed by Congress March 23, 1971. Ratified July 1, 1971. (Note: Amendment 14, Section 2
-            ofthe Constitution was modified by Section 1 of the 26th Amendment.) <section>1 The
+                unable to discharge the powers and duties of his office,</separation_of_powers> <power_of_president type="vicepresident_powers">the Vice President shall
+                continue to discharge the same as Acting President</power_of_president>; otherwise, <power_of_president type="executive_orders">the Presi- dent shall
+                resume the powers and duties of his office.</power_of_president> </section></amendment>
+        <amendment>XXVI
+            Passed by Congress March 23, 1971. <limits_of_power type="state_powers">Ratified July 1, 1971.</limits_of_power> (Note: Amendment 14, Section 2
+            ofthe Constitution was modified by Section 1 of the 26th Amendment.) 
+            <section>1 <eligibility type="age">The
                 right of citizens of the United States, who are eighteen years of age or older, to
                 vote shall not be denied or abridged by the United States or by any State on account
-                of age. </section><section>2 The Congress shall have power to enforce this <legal_documents type="articles">article</legal_documents>
-                by appropriate legislation. </section></amendment><amendment>XXVII Originally
-            proposed Sept. 25, 1789. Ratified May 7, 1992. No law, varying the compensation for the
-            services of the <government_officials type="congressman">Senators and Representatives</government_officials>, shall take effect, until an elec- tion of
+                of age.</eligibility> </section>
+            <section>2 The Congress shall have power to enforce this <legal_documents type="articles">article</legal_documents>
+                <consent_of_governed type="laws_passed">by appropriate legislation</consent_of_governed>. </section></amendment>
+        <amendment>XXVII 
+            Originally proposed Sept. 25, 1789. <limits_of_power type="state_powers">Ratified May 7, 1992.</limits_of_power> 
+            No law, varying the compensation for the services of the <government_officials type="congressman">Senators and Representatives</government_officials>, shall take effect, until an elec- tion of
             representatives shall have intervened. </amendment></amendments>
 </constitutiontext>
