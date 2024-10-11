@@ -1,8 +1,8 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = element constitutiontext {constitution, amendments}
-constitution = element constitution {(text |preamble | article | section)*}
-amendments = element amendments {( text | preamble | bill_of_rights | amendment)*}
+constitution = element constitution {(text | preamble | article | section )*}
+amendments = element amendments {( text | preamble | bill_of_rights | amendment )*}
 preamble = element preamble {(text |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials)*}
 article = element article {(text | section | collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials)*}
 section = element section {(text |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials)*}

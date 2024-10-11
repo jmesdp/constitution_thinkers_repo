@@ -2,6 +2,7 @@
 <?xml-model href="constitution_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <constitutiontext>
     <constitution>
+        
         <preamble> We the <collective_sovereignty type="community">People</collective_sovereignty> of the <collective_sovereignty type="community">United States</collective_sovereignty>, in Order to form a more perfect <collective_sovereignty type="community">Union</collective_sovereignty>,
             <purposes_of_law type="betterment_of_community">establish Justice</purposes_of_law>, insure <natural_rights type="pursuit_of_happiness">domestic Tranquility</natural_rights>, provide for the <natural_rights type="bear_arms">common defence</natural_rights>, promote
             the <natural_rights type="life">general Welfare</natural_rights>, and secure the <natural_rights type="liberty">Blessings of Liberty</natural_rights> to ourselves and our <natural_rights type="pursuit_of_happiness">Posterity</natural_rights>,
@@ -393,8 +394,13 @@
                 Votes for President;</consent_of_governed> and, that after he shall be chosen, the
             Congress, together with the President, should, without Delay, proceed to execute this
             <legal_documents type="constitutional">Constitution</legal_documents> By the unanimous Order of the Convention Go. Washington-Presidt: W. JACKSON
-            Secretary. </article></constitution>
-    <amendments><preamble>THE AMENDMENTS TO THE AS RATIFIED BY THE STATES Preamble to the Bill of
+            Secretary. </article>
+    
+    </constitution>
+    
+    <amendments>
+        
+        <preamble>THE AMENDMENTS TO THE AS RATIFIED BY THE STATES Preamble to the Bill of
             Rights Congress of the United States begun and held at the City of New-York, on
             Wednesday the fourth of March, THE Conventions of a number of the States, having at the
             time of their adopting the <legal_documents type="constitutional">Constitution</legal_documents>, expressed a desire, in order to prevent
@@ -728,5 +734,7 @@
         <amendment>XXVII 
             Originally proposed Sept. 25, 1789. <limits_of_power type="state_powers">Ratified May 7, 1992.</limits_of_power> 
             No law, varying the compensation for the services of the <government_officials type="congressman">Senators and Representatives</government_officials>, shall take effect, until an elec- tion of
-            representatives shall have intervened. </amendment></amendments>
+            representatives shall have intervened. </amendment>
+        
+    </amendments>
 </constitutiontext>
