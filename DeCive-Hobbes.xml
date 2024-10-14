@@ -1,52 +1,53 @@
+<?xml-model href="constitution_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <title>De Cive</title>
-by <author>Thomas Hobbes</author>
+<author>Thomas Hobbes</author>
 <subheading>Philosophicall Elements of a true Citizen.
 Liberty</subheading>
 
 <excerpt>
-    <chapter>Chapter I. Of the state of men without Civill Society</chapter>
+    <chapter>Chapter I. Of the state of men without <collective_sovereignty type="community">Civill Society</collective_sovereignty></chapter>
     
 <section>I.</section> 
-    The faculties of Humane nature may be reduc'd unto four kinds; Bodily strength, Experience, Reason, Passion.
+    The faculties of <natural_rights type="life">Humane nature</natural_rights> may be reduc'd unto four kinds; Bodily strength, Experience, Reason, Passion.
 Taking the beginning of this following Doctrine from these, we will declare in the first place what manner of
 inclinations men who are endued with these faculties bare towards each other, and whether, and by what faculty,
-they are born apt for Society, and so preserve themselves against mutuall violence; then proceeding, we will shew
-what advice was necessary to be taken for this businesse, and what are the conditions of Society, or of Humane
-Peace; that is to say, (changing the words onely) what are the fundamentall Lawes of Nature.
+they are born apt for <collective_sovereignty type="community">Society</collective_sovereignty>, and so preserve themselves against <natural_rights type="bear_arms">mutuall violence</natural_rights>; then proceeding, we will shew
+what advice was necessary to be taken for this businesse, and what are the conditions of <collective_sovereignty type="community">Society</collective_sovereignty>, or of <natural_rights type="pursuit_of_happiness">Humane
+Peace</natural_rights>; that is to say, (changing the words onely) what are the fundamentall <natural_rights type="life">Lawes of Nature</natural_rights>.
 
 <section>II.</section> 
-    The greatest part of those men who have written ought concerning Commonwealths, either suppose, or require
-us, or beg of us to believe, That Man is a Creature born fit [1] for Society: The Greeks call him Zoon politikon,
-and on this foundation they so build up the Doctrine of Civill Society, as if for the preservation of Peace, and the
-Government of Man−kind there were nothing else necessary, than that Men should agree to make certaine
-Covenants and Conditions together, which themselves should then call Lawes. Which Axiom, though received by
-most, is yet certainly False, and an Errour proceeding from our too slight contemplation of Humane Nature; for
-they who shall more narrowly look into the Causes for which Men come together, and delight in each others
+    The greatest part of those men who have written ought concerning <collective_sovereignty type="community">Commonwealths</collective_sovereignty>, either suppose, or require
+us, or beg of us to believe, That <natural_rights type="life">Man is a Creature born fit [1] for Society</natural_rights>: The Greeks call him Zoon politikon,
+and on this foundation they so build up the Doctrine of <collective_sovereignty type="community">Civill Society</collective_sovereignty>, as if for the <natural_rights type="pursuit_of_happiness">preservation of Peace</natural_rights>, and the
+<consent_of_governed type="representative_government">Government of Man−kind</consent_of_governed> there were nothing else necessary, than that Men should agree to make certaine
+<consent_of_governed type="laws_passed">Covenants and Conditions</consent_of_governed> together, which themselves should then call Lawes. Which Axiom, though received by
+most, is yet certainly False, and an Errour proceeding from our too slight contemplation of <natural_rights type="life">Humane Nature</natural_rights>; for
+they who shall more narrowly look into the <purposes_of_law type="betterment_of_community">Causes for which Men come together</purposes_of_law>, and delight in each others
 company, shall easily find that this happens not because naturally it could happen no otherwise, but by Accident:
-For if by nature one Man should Love another (that is) as Man, there could no reason be return'd why every Man
-should not equally Love every Man, as being equally Man, or why he should rather frequent those whose Society
-affords him Honour or Profit. We doe not therefore by nature seek Society for its own sake, but that we may
-receive some Honour or Profit from it; these we desire Primarily, that Secondarily: How by what advice Men doe
+For if <natural_rights type="life">by nature one Man should Love another</natural_rights> (that is) as Man, there could no reason be return'd why every Man
+should not <natural_rights type="equality">equally Love every Man</natural_rights>, as being equally Man, or why he should rather frequent those whose <collective_sovereignty type="community">Society</collective_sovereignty>
+affords him <natural_rights type="pursuit_of_happiness">Honour or Profit</natural_rights>. We doe not therefore by nature seek <collective_sovereignty type="community">Society</collective_sovereignty> for its own sake, but that we may
+receive some <natural_rights type="pursuit_of_happiness">Honour or Profit</natural_rights> from it; these we desire Primarily, that Secondarily: How by what advice Men doe
 meet, will be best known by observing those things which they doe when they are met: For if they meet for
-Traffique, it's plaine every man regards not his Fellow, but his Businesse; if to discharge some Office, a certain
-Market−friendship is begotten, which hath more of Jealousie in it than True love, and whence Factions sometimes
-may arise, but Good will never; if for Pleasure, and Recreation of mind, every man is wont to please himself most
-with those things which stirre up laughter, whence he may (according to the nature of that which is Ridiculous) by
+Traffique, it's plaine <natural_rights type="property">every man regards not his Fellow, but his Businesse</natural_rights>; if to discharge some Office, a certain
+<consent_of_governed type="representative_government">Market−friendship</consent_of_governed> is begotten, which hath more of Jealousie in it than True love, and whence Factions sometimes
+may arise, but Good will never; if for Pleasure, and Recreation of mind, <natural_rights type="pursuit_of_happiness">every man is wont to please himself most
+with those things which stirre up laughter</natural_rights>, whence he may (according to the nature of that which is Ridiculous) by
 comparison of another mans Defects and Infirmities, passe the more currant in his owne opinion; and although
 this be sometimes innocent, and without offence; yet it is manifest they are not so much delighted with the
-Society, as their own Vain glory. But for the most part, in these kind of meetings, we wound the absent; their
-whole life, sayings, actions are examin'd, judg'd, condemn'd; nay, it is very rare, but some present receive a fling
-before they part, so as his reason was not ill, who was wont alwayes at parting to goe out last. And these are
-indeed the true delights of Society, unto which we are carryed by nature, (i.e.) by those passions which are
-incident to all Creatures, untill either by sad experience, or good precepts, it so fall out (which in many never
-happens) that the Appetite, of present matters, be dul'd with the memory of things past, without which, the
+<collective_sovereignty type="community">Society</collective_sovereignty>, as their own <natural_rights type="liberty">Vain glory</natural_rights>. But for the most part, in these kind of meetings, we wound the absent; their
+whole life, sayings, actions are <justice type="due_process">examin'd, judg'd, condemn'd</justice>; nay, it is very rare, but some present receive a fling
+before they part, so as <natural_rights type="freedom_of_speech">his reason was not ill</natural_rights>, who was wont alwayes at parting to goe out last. And these are
+indeed the true delights of <collective_sovereignty type="community">Society</collective_sovereignty>, unto which we are carryed by nature, (i.e.) by those passions which are
+incident to all <collective_sovereignty type="community">Creatures</collective_sovereignty>, untill either by sad experience, or good precepts, it so fall out (which in many never
+happens) that the Appetite, of present matters, be dul'd with the <natural_rights type="life">memory of things past</natural_rights>, without which, the
 discourse of most quick and nimble men, on this subject, is but cold and hungry.
-But if it so happen, that being met, they passe their time in relating some Stories, and one of them begins to tell
+But if it so happen, that being met, they passe their time in <natural_rights type="freedom_of_speech">relating some Stories</natural_rights>, and one of them begins to tell
 one which concernes himselfe; instantly every one of the rest most greedily desires to speak of himself too; if one
 relate some wonder, the rest will tell you miracles, if they have them, if not, they'l fein them: Lastly, that I may
-say somewhat of them who pretend to be wiser than others; if they meet to talk of Philosophy, look how many
-men, so many would be esteem'd Masters, or else they not only love not their fellowes, but even persecute them
-with hatred: So clear is it by experience to all men who a little more narrowly consider Humane affaires, that all
+say <natural_rights type="liberty">somewhat of them who pretend to be wiser than others</natural_rights>; if they meet to talk of Philosophy, look how many
+men, so many would be esteem'd Masters, or else they not only love not their fellowes, but even <natural_rights type="freedom_of_speech">persecute them
+with hatred</natural_rights>: So clear is it by experience to all men who a little more narrowly consider Humane affaires, that all
 free congress ariseth either from mutual poverty, or from vain glory, whence the parties met, endeavour to carry
 with them either some benefit, or to leave behind them that same eudokimein, some esteem and honour with
 those, with whom they have been conversant: The same is also collected by reason out of the definitions
