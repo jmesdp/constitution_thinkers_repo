@@ -1,0 +1,33 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = element Spirit_of_Laws_Vol1 {title, book+, text}
+title = element title {text}
+book = element book {(text | heading+ | chapter+ | subheading+ | p+)*}
+
+
+heading = element heading {(text | chapter+)*}
+chapter = element chapter {(text | subheading+ | p+)*}
+subheading = element subheading {(text | p+)*}
+p = element p {(text | natural_law | laws | rationale | driving_factors | religious | collective_sovereignty | consent_of_governed | eligibility | justice | purposes_of_law | bodies_of_government | government_officials | separation_of_powers | checks_and_balances | governments | society | place | legal_documents | rights | characteristics )*}
+
+natural_law = element natural_law {attribute type { "freedoms" | "life" | "liberty" | "property" | "pursuit_of_happiness" | "equality" | "human_nature" | "choice" }, text }
+laws = element laws {attribute type { "general" | "religiously_driven" | "governmental" | "fixed" | "process" }, text }
+rationale = element rationale {attribute type { "logical" | "philosophy" | "political" }, text}
+driving_factors = element driving_factors {attribute type { "physical" | "mental" | "societal" | "international" }, text }
+religious = element religious {attribute type { "idea_or_belief" }, text}
+separation_of_powers = element separation_of_powers {attribute type { "legislative" | "executive" | "judicial" | "generally_referenced" }, text}
+checks_and_balances = element checks_and_balances {attribute type { "practiced" }, text}
+governments = element governments {attribute type { "groups_of_government" | "democratic" | "monarchial" | "republic" | "nationally_governed" | "religiously_governed" | "despotic" | "aristocracy" },text}
+society = element society {attribute type { "state_group" | "city_state" },text}
+place = element place {attribute type { "area" | "city" | "state" },text}
+rights = element rights {attribute type { "individual_rights" | "voting" | "legislative_rights" },text}
+characteristics = element characteristics {attribute type { "ideals" },text}
+collective_sovereignty = element collective_sovereignty {attribute type { "popular_sovereignty" }, text}
+consent_of_governed = element consent_of_governed {attribute type { "elections" | "representative_government" | "laws_passed" }, text}
+eligibility = element eligibility {attribute type { "age" }, text}
+justice = element justice {attribute type { "due_process" | "cruel_and_unusual_punishment" | "legal_representation" | "prosecution" }, text}
+purposes_of_law = element purposes_of_law {attribute type { "individual_rights" | "betterment_of_community" | "general_assembly" }, text}
+legal_documents = element legal_documents {attribute type { "constitutional" },text}
+bodies_of_government = element bodies_of_government {attribute type { "congress" | "courts" | "president" },text}
+government_officials = element government_officials {attribute type { "senator" | "president" | "elector" },text}
+
+# cut out attributes that weren't used
