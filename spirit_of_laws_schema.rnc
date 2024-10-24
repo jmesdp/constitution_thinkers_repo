@@ -1,11 +1,11 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
-start = element SOL {title, book+, text}
+start = element Spirit_of_Laws_Vol1 {title, book+, text}
 title = element title {text}
 book = element book {(text | heading+ | chapter+ | subheading+ | p+)*}
 
 
 heading = element heading {(text | chapter+)*}
-chapter = element chapter {(text | subheading+)*}
+chapter = element chapter {(text | subheading+ | p+)*}
 subheading = element subheading {(text | p+)*}
 p = element p {(text | natural_law | laws | rationale | driving_factors | religious | collective_sovereignty | consent_of_governed | eligibility | justice | purposes_of_law | bodies_of_government | government_officials | separation_of_powers | checks_and_balances | governments | society | place | legal_documents | rights | characteristics )*}
 
@@ -29,3 +29,5 @@ purposes_of_law = element purposes_of_law {attribute type { "individual_rights" 
 legal_documents = element legal_documents {attribute type { "constitutional" },text}
 bodies_of_government = element bodies_of_government {attribute type { "congress" | "courts" | "president" },text}
 government_officials = element government_officials {attribute type { "senator" | "president" | "elector" },text}
+
+# cut out attributes that weren't used
