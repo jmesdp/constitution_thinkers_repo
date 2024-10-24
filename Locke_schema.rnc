@@ -1,0 +1,45 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = element sec_treatise {metadata+, contents, preface, book}
+metadata = element metadata {text}
+contents = element contents {text}
+preface = element contents {(text |collective_sovereignty | same_constit_wording | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials)*}
+book = element book {(text | chapter | section)*}
+chapter = element chapter {(text | section)*}
+section = element section {(text | property | collective_sovereignty | same_constit_wording | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials)*}
+
+collective_sovereignty = element collective_sovereignty {attribute type { "popular_sovereignty" | "majority_rule" | "community" }, text}
+consent_of_governed = element consent_of_governed {attribute type { "right_to_petition" | "protection" | "citizenship_social_contract" | "rebellion" | "elections" | "amendment_process" | "representative_government" | "laws_passed" }, text}
+eligibility = element eligibility {attribute type {"religion" | "age" | "gender" | "race" | "nationality" | "residency_status" | "tax status" | "constitutionally_ineligible" }, text}
+limits_of_power = element limits_of_power {attribute type { "fixed_terms" | "veto" | "impeachment" | "judicial_review" | "state_powers" | "voting_limitations" }, text}
+power_of_president = element power_of_president {attribute type { "commander_in_chief" | "executive_orders" | "veto_power" | "appointment_power" | "pardon_power" | "presidential_limits" | "oath" | "vicepresident_powers" }, text}
+natural_rights = element natural_rights {attribute type { "life" | "forfeit_rights" | "slavery" | "war" | "natural_duty" | "liberty" | "pursuit_of_happiness" | "property" | "equality" | "freedom_of_speech" | "bear_arms" | "preserve_rights"}, text}
+justice = element justice {attribute type { "due_process" | "trial_by_jury" | "habeas_corpus" | "speedy_trial" | "cruel_and_unusual_punishment" | "double_jeopardy" | "self_incrimination" | "legal_representation" | "warrants" | "treason_or_espionage" | "bail" | "fines" | "prosecution" }, text}
+taxes = element taxes {attribute type { "income_tax" | "sales_tax" | "property_tax" | "consent_to_tax" | "tax_results" | "federal_taxation" }, text}
+citizenship = element citizenship {attribute type { "naturalization" | "revocation" | "dual_citizenship" | "rights_of_citzens" }, text}
+separation_of_powers = element separation_of_powers {attribute type { "executive" | "legislative" | "judicial" }, text}
+purposes_of_law = element purposes_of_law {attribute type { "individual_rights" | "betterment_of_community" | "strengthen_previous_law" | "repeal_previous_law" | "foreign_relationships" | "declarations" | "upholding_natural_rights" | "general_assembly" }, text}
+legal_documents = element legal_documents {attribute type { "constitutional" | "bill_of_rights" | "amendments" | "statutes" | "articles"},text}
+bodies_of_government = element bodies_of_government {attribute type { "congress" | "house" | "senate" | "supreme_court" | "courts" | "president" | "vice_president" },text}
+government_officials = element government_officials {attribute type { "senator" | "representative" | "president" | "elector" | "judge" | "congressman" | "not_above_law" },text}
+same_constit_wording = element same_constit_wording {attribute type {"life_liberty"}, text}
+property = element property {attribute type {"labor" | "land" | "plenty_share" | "money"}, text}
+#collective_sovereignty #people, as the collective entity are the sole source of power in a society.
+#seperation_of_powers #principle that divides the governement into three branches. executive. judicial. legislative
+#eligibility #explicit requirement/qualified to participate in political processes. gender. race. age. nationality. residency_status
+#limits_of_power #checks and parameters that limit the extent of the government's power. fixed_terms (of presidents). veto. impeachment. supreme_court_election.
+#consent_of_governed #mentions of general public explicitly sanctioning government's reach. elections. right_to_petition. amendment_process. representative_government
+#power_of_president #the degree of control that the president (or King) has over their people. commander_in_chief (of military). executive_orders.  veto_power. appointment_power. pardon_power.
+#natural_rights #the rights everyone in a society is automatically granted/implicitly has. life. liberty. pursuit_of_happiness. property. equality. self_governance. freedom_of_speech. bare_arms.
+#justice #mentions of how crimes will be abjudicated. due_process. trial_by_jury. habeas_corpus. speedy_trial. cruel_and_unusual_punishment. double_jeopardy. self_incrimination. legal_representation. warrants.
+#taxes #types of tax, right of government to tax, consent to tax.
+#citizenship #how citizenship is granted or revoked. procedure.
+#Natural duty is if you want your natural rights repsected must respect the natural rights of other
+#Should I mark up elements of religion
+
+#Forfeit rights if break social contract of rights
+
+#Citizenship social contract means government protects citizens laws and citizen follows government rules
+
+#For property each person takes only their share of what they can use without spoil. God provided plenty for all
+#Mention Locke talking about a state of war and how humans can preserve life when law can't get there in time and there are no reparations 
