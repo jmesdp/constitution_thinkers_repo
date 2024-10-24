@@ -28,6 +28,9 @@ laws = element laws {attribute type { "general" | "religiously_driven" | "govern
 amendment_connection = element amendment_connection {attribute type { "1st" | "2nd" | "3rd" | "4th" | "5th" | "6th" | "7th" | "8th" | "9th" | "10th" | "11th" | "12th" | "13th" | "14th" | "15th" | "16th" | "17th" | "18th" | "19th" | "20th" | "21st" | "22nd" | "23rd" | "24th" | "25th" | "26th" | "27th" } }
 
 # amendment tags: 1-27 
+
+
+
 #collective_sovereignty #people, as the collective entity are the sole source of power in a society.
 #seperation_of_powers #principle that divides the governement into three branches. executive. judicial. legislative
 #eligibility #explicit requirement/qualified to participate in political processes. gender. race. age. nationality. residency_status
