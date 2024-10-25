@@ -5,9 +5,9 @@ book = element book {(text | heading+ | chapter+ | subheading+ | p+)*}
 
 
 heading = element heading {(text | chapter+)*}
-chapter = element chapter {(text | subheading+ | p+)*}
-subheading = element subheading {(text | p+)*}
-p = element p {(text | natural_law | laws | rationale | driving_factors | religious | collective_sovereignty | consent_of_governed | eligibility | justice | purposes_of_law | bodies_of_government | government_officials | separation_of_powers | checks_and_balances | governments | society | place | legal_documents | rights | characteristics )*}
+chapter = element chapter {(text | subheading+ | p+ | amendment_connection )*}
+subheading = element subheading {(text | p+ | amendment_connection )*}
+p = element p {(text | natural_law | laws | rationale | driving_factors | religious | collective_sovereignty | consent_of_governed | eligibility | justice | purposes_of_law | bodies_of_government | government_officials | separation_of_powers | checks_and_balances | governments | society | place | legal_documents | rights | characteristics | amendment_connection )*}
 
 natural_law = element natural_law {attribute type { "freedoms" | "life" | "liberty" | "property" | "pursuit_of_happiness" | "equality" | "human_nature" | "choice" }, text }
 laws = element laws {attribute type { "general" | "religiously_driven" | "governmental" | "fixed" | "process" }, text }
@@ -29,5 +29,31 @@ purposes_of_law = element purposes_of_law {attribute type { "individual_rights" 
 legal_documents = element legal_documents {attribute type { "constitutional" },text}
 bodies_of_government = element bodies_of_government {attribute type { "congress" | "courts" | "president" },text}
 government_officials = element government_officials {attribute type { "senator" | "president" | "elector" },text}
+amendment_connection = element amendment_connection {attribute type { "1st" | "2nd" | "3rd" | "4th" | "5th" | "6th" | "7th" | "8th" | "9th" | "10th" | "11th" | "12th" | "13th" | "14th" | "15th" | "16th" | "17th" | "18th" | "19th" | "20th" | "21st" | "22nd" | "23rd" | "24th" | "25th" | "26th" | "27th" }, text }
 
 # cut out attributes that weren't used
+
+# 1st Amendment: Protects freedom of speech, religion, press, assembly, and petition.
+# 2nd Amendment: Protects the right to keep and bear arms.
+# 3rd Amendment: Prohibits the forced quartering of soldiers in homes during peacetime.
+# 4th Amendment: Protects against unreasonable searches and seizures.
+# 5th Amendment: Ensures due process, prohibits double jeopardy, and protects against self-incrimination.
+# 6th Amendment: Guarantees the right to a fair trial, an impartial jury, and legal counsel.
+# 7th Amendment: Guarantees the right to a jury trial in civil cases.
+# 8th Amendment: Prohibits excessive bail and cruel and unusual punishment.
+# 9th Amendment: Affirms that rights not listed in the Constitution are retained by the people.
+# 10th Amendment: States that powers not delegated to the federal government are reserved for the states or the people.
+# 11th Amendment: Limits suits against states in federal courts.
+# 12th Amendment: Revises the procedure for electing the President and Vice President.
+# 13th Amendment: Abolishes slavery and involuntary servitude.
+# 14th Amendment: Grants citizenship to all persons born or naturalized in the U.S. and ensures equal protection under the law.
+# 15th Amendment: Prohibits denying the right to vote based on race, color, or previous servitude.
+# 16th Amendment: Allows Congress to levy an income tax.
+# 17th Amendment: Establishes the direct election of Senators.
+# 18th Amendment: Prohibits the manufacture and sale of alcohol (later repealed).
+# 19th Amendment: Grants women the right to vote.
+# 20th Amendment: Changes the dates for presidential and congressional terms.
+# 21st Amendment: Repeals the 18th Amendment, ending prohibition.
+# 22nd Amendment: Limits the President to two terms.
+# 24th Amendment: Prohibits poll taxes in federal elections.
+# 25th Amendment: Sets procedures for presidential succession and disability.

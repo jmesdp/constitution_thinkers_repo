@@ -1015,6 +1015,7 @@
         <chapter>CHAP. II.
             <subheading>Of The Liberty Of The Subject.</subheading>
         <p>
+            <amendment_connection type="6th"/>
             <natural_law type="choice">PHILOSOPHICAL liberty consists in the free exercise of the will; or, at least, if we must speak agreeably to all systems, in an opinion that we have the free exercise of our will.</natural_law> <natural_law type="liberty">Political liberty consists in security; or, at least, in the opinion that we enjoy security.</natural_law>
             This security is never more dangerously attacked than in public or private accusations. It is therefore on the goodness of criminal laws that the liberty of the subject principally depends.
             Criminal laws did not receive their full perfection all at once. Even in places where liberty has been most sought after it has not been always found. Aristotle* informs us, that, at Cumæ, the parents of the accuser might be witnesses. So imperfect was the law, under the kings of Rome, that Servius Tullus pronounced sentence against the children of Ancus Martius, who were charged with having assassinated the king his father-in-law† . 
@@ -1028,6 +1029,7 @@
         <chapter>CHAP. IV.
             <subheading>That Liberty Is Favoured By The Nature And Proportion Of Punishments.</subheading>    
         <p>
+            <amendment_connection type="5th"/>
             <natural_law type="liberty">LIBERTY is in its highest perfection when criminal laws derive each punishment from the particular nature of the crime.</natural_law> There are then no arbitrary decisions; <justice type="cruel_and_unusual_punishment">the punishment does not flow from the capriciousness of the legislator</justice>, but from the very nature of the thing; and man uses no violence to man.
             There are four sorts of crimes. <religious type="idea_or_belief">Those of the first species are prejudicial to religion</religious>; <driving_factors type="mental">the second, to morals</driving_factors>; <purposes_of_law type="betterment_of_community">the third, to the public tranquility</purposes_of_law>; <natural_law type="freedoms">and the fourth, to the security of the subject</natural_law>. 
             The punishments inflicted for these crimes <rationale type="logical">ought to proceed from the nature of each of these species.</rationale>
@@ -1054,6 +1056,7 @@
         <chapter>CHAP. VI.
             <subheading>Of The Crime Against Nature.</subheading>
         <p>
+            <amendment_connection type="1st"/>
             <natural_law type="life">GOD forbid that I should have the least inclination to diminish the public horror against a crime which religion, morality, and civil government, equally condemn</natural_law>. It ought to be proscribed were it only for its communicating to one sex the weaknesses of the other, and for leading people, by a scandalous prostitution of their youth, to an ignominious old age. 
             What I shall say concerning it will no ways diminish its infamy, being levelled only against the tyranny that may abuse the very horror we ought to have against the vice.
             As a natural circumstance of this crime is secrecy, there are frequent instances of its having been punished by legislators upon the deposition of a child. This was opening a very wide door to calumny. “Justinian (says Procopius* ) published a law against this crime: he ordered an inquiry to be made, not only against those who were guilty of it after the enacting of that law, but even before. 
@@ -1068,6 +1071,7 @@
         <chapter>CHAP. XII.
             <subheading>Of Indiscreet Speeches.</subheading>
         <p>
+            <amendment_connection type="1st"/>
             <purposes_of_law type="individual_rights">NOTHING renders the crime of high-treason more arbitrary than declaring people guilty of it for indiscreet speeches</purposes_of_law>. Speech is so subject to interpretation; there is so great a difference between indiscretion and malice; and frequently so little is there of the latter <natural_law type="freedoms">in the freedom of expression</natural_law>, that the law can hardly subject people to a capital punishment for words, unless it expressly declares what words they are* .
             Words do not constitute an overt act; they remain only in idea. When considered by themselves, they have generally no determinate signification; for this depends on the tone in which they are uttered. It often happens that, in repeating the same words, they have not the same meaning: this depends on their connection with other things; and sometimes more is signified by silence than by any expression whatever. 
             Since there can be nothing so equivocal and ambiguous as all this, how is it possible to convert it into a crime of high-treason? <natural_law type="liberty">Wherever this law is established, there is an end, not only of liberty, but even of its very shadow</natural_law>.
@@ -1084,6 +1088,7 @@
         <chapter>CHAP. XIII.
             <subheading>Of Writings.</subheading>
         <p>
+            <amendment_connection type="1st"/>
             IN writings there is something more permanent than in words; but, when they are no way preparative to high-treason, they cannot amount to that charge.
             And yet Augustus and Tiberius subjected satyrical writers to the same punishment as for having violated the law of majesty; Augustus? , because of some libels that had been written against persons of the first quality; 
             Tiberius, because of those which he suspected to have been written against himself. Nothing was more fatal to Roman liberty. Cremutius Cordus was accused of having called Cassius, in his annals, the last of the Romans¶ .
@@ -1116,13 +1121,14 @@
             Vindex discovered the conspiracy that had been formed in favour of Tarquin; but he was not admitted a witness against the children of Brutus. <natural_law type="life">It was right to give liberty to a person who had rendered so great a service to his country; but it was 
             not given him with a view of enabling him to render this service.</natural_law>
             Hence the emperor Tacitus ordained, that slaves should not be admitted as witnesses against their masters, even in the case of high-treason? : a law which was not inserted in Justinian’s compilement.
-        <!-- 16th amendment -->
+        
         </p>
         </chapter>
         
         <chapter>CHAP. XVIII.
             <subheading>How Dangerous It Is, In Republics, To Be Too Severe In Punishing The Crime Of High-Treason.</subheading>
         <p>
+            <amendment_connection type="8th"/>
             AS soon as a <governments type="republic">republic</governments> has compassed the destruction of those who wanted to subvert it, <purposes_of_law type="betterment_of_community">there should be an end of terrors, punishments, and even of rewards.</purposes_of_law>
             Great punishments, and consequently great changes, <rationale type="political">cannot take place without investing some citizens with an exorbitant power</rationale>. It is therefore more adviseable, in this case, 
             <rationale type="logical">to exceed in lenity, than in severity</rationale>; to banish but few, rather than many; <natural_law type="property">and to leave them their estates</natural_law>, instead of making a vast number of confiscations. Under pretence of avenging 
