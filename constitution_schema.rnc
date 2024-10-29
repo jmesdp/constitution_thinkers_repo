@@ -1,22 +1,19 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
-
-start = element constitutiontext {constitution, amendments}
-constitution = element constitution {(text | preamble | article | section )*}
-amendments = element amendments {( text | preamble | bill_of_rights | amendment )*}
-preamble = element preamble {(text |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials | rationale | laws | amendment_connection )*}
-article = element article {(text | section | collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials | rationale | laws | amendment_connection )*}
-section = element section {(text |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials | rationale | laws | amendment_connection )*}
-bill_of_rights = element bill_of_rights {(text |amendment)+}
-amendment = element amendment {(text | section |collective_sovereignty | separation_of_powers | eligibility | limits_of_power |consent_of_governed | power_of_president | natural_rights | justice | taxes | citizenship | purposes_of_law | legal_documents | bodies_of_government | government_officials | rationale | laws | amendment_connection )*}
-
+start = element content {meta_data?, table_of_contents?, body}
+body = element body {(text | section)*}
+section = element section{(text | section_name| sub_section | consent_of_governed | inherent_rights| criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power)*}
+section_name = element section_name {text}
+sub_section = element sub_section {(text | sub_section_name |consent_of_governed | inherent_rights| criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power)*}
+sub_section_name = element sub_section_name {text}
+meta_data = element meta_data {(title | author | table_of_contents)*}
+title = element title {text}
+author = element author {text}
+table_of_contents = element table_of_contents {(text, section_name)*}
 consent_of_governed = element consent_of_governed {attribute type { "right_to_petition" | "elections" | "amendment_process" | "representative_government" | "laws_passed" | "popular_sovereignty"}, text}
-inherent_rights = element natural_rights {attribute type { "life" | "liberty" | "pursuit_of_happiness" | "property" | "equality" | "freedom_of_speech" | "bear_arms" | "religion" | "voting"}, text}
-#rights of the accused
+inherent_rights = element natural_rights {attribute type { "life" | "liberty" | "pursuit_of_happiness" | "property" | "equality" | "freedom_of_speech" | "bear_arms" | "religion" | "voting" }, text}
 criminal_justice = element justice {attribute type { "due_process" | "trial_by_jury" | "habeas_corpus" | "speedy_trial" | "cruel_and_unusual_punishment" | "double_jeopardy" | "self_incrimination" | "legal_representation" | "warrants" | "bail" }, text}
-citizenship = element citizenship {attribute type { "naturalization" | "revocation" | "dual_citizenship" | "rights_of_citzens" }, text}
-# should turn this into an attribute elsewhere separation_of_powers = element separation_of_powers {attribute type { "executive" | "legislative" | "judicial" }, text}
-purposes_of_law = element purposes_of_law {attribute type {  "strengthen_previous_law" | "repeal_previous_law" | "set_criminal_code" }, text}
-legal_documents = element legal_documents {attribute type { "constitutional" | "bill_of_rights" | "amendments" | "statutes" | "articles"},text}
+purposes_of_law = element purposes_of_law {attribute type {  "strengthen_previous_law" | "repeal_previous_law" | "set_criminal_code"}, text}
+legal_documents = element legal_documents {attribute type { "constitution" | "criminal_code" | "province_laws"},text}
 legislative_body = element legislative_body {attribute type { "propose_laws" | "bicameral" | "amendment_process" | "representative_government" | "laws_passed" | "right_to_tax"}, text}
 judicial_body = element judicial_body{attribute type { "court_hierarchy" | "overule" | "set_precedence"}, text}
 executive_body = element executive_body {attribute type { "veto_power" | "appointment_power" | "pardon_power" | "presidential_limits" | "elected"}, text}
