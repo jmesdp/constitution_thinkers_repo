@@ -15,8 +15,8 @@ subsection_name = element subsection_name {text}
 
 
 consent_of_governed = element consent_of_governed {attribute type { "right_to_petition" | "elections" | "amendment_process" | "representative_government" | "laws_passed" | "popular_sovereignty"}, text}
-inherent_rights = element natural_rights {attribute type { "life" | "liberty" | "pursuit_of_happiness" | "property" | "equality" | "freedom_of_speech" | "bear_arms" | "religion" | "voting" }, text}
-criminal_justice = element justice {attribute type { "due_process" | "trial_by_jury" | "habeas_corpus" | "speedy_trial" | "cruel_and_unusual_punishment" | "double_jeopardy" | "self_incrimination" | "legal_representation" | "warrants" | "bail" }, text}
+inherent_rights = element inherent_rights {attribute type { "life" | "liberty" | "pursuit_of_happiness" | "property" | "equality" | "freedom_of_speech" | "bear_arms" | "religion" | "voting" }, text}
+criminal_justice = element criminal_justice {attribute type { "due_process" | "trial_by_jury" | "habeas_corpus" | "speedy_trial" | "cruel_and_unusual_punishment" | "double_jeopardy" | "self_incrimination" | "legal_representation" | "warrants" | "bail" }, text}
 purposes_of_law = element purposes_of_law {attribute type {  "strengthen_previous_law" | "repeal_previous_law" | "set_criminal_code"}, text}
 legal_documents = element legal_documents {attribute type { "constitution" | "criminal_code" | "province_laws"},text}
 legislative_body = element legislative_body {attribute type { "propose_laws" | "bicameral" | "amendment_process" | "representative_government" | "laws_passed" | "right_to_tax"}, text}
