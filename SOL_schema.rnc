@@ -1,4 +1,5 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
 start = element Spirit_Of_Laws {meta_data?, table_of_contents?, body, text}
 meta_data = element meta_data {(title | author | table_of_contents)*}
 title = element title {text}
@@ -23,15 +24,3 @@ legislative_body = element legislative_body {attribute type { "propose_laws" | "
 judicial_body = element judicial_body{attribute type { "court_hierarchy" | "overule" | "set_precedence"}, text}
 executive_body = element executive_body {attribute type { "veto_power" | "appointment_power" | "pardon_power" | "presidential_limits" | "elected"}, text}
 limits_of_power = element limits_of_power {attribute type { "rebellion" | "impeachment" | "fixed_terms" | "checks_and_balances"}, text}
-
-
-#collective_sovereignty #people, as the collective entity are the sole source of power in a society.
-#seperation_of_powers #principle that divides the governement into three branches. executive. judicial. legislative
-#eligibility #explicit requirement/qualified to participate in political processes. gender. race. age. nationality. residency_status
-#limits_of_power #checks and parameters that limit the extent of the government's power. fixed_terms (of presidents). veto. impeachment. supreme_court_election.
-#consent_of_governed #mentions of general public explicitly sanctioning government's reach. elections. right_to_petition. amendment_process. representative_government
-#power_of_president #the degree of control that the president (or King) has over their people. commander_in_chief (of military). executive_orders.  veto_power. appointment_power. pardon_power.
-#natural_rights #the rights everyone in a society is automatically granted/implicitly has. life. liberty. pursuit_of_happiness. property. equality. self_governance. freedom_of_speech. bare_arms.
-#justice #mentions of how crimes will be abjudicated. due_process. trial_by_jury. habeas_corpus. speedy_trial. cruel_and_unusual_punishment. double_jeopardy. self_incrimination. legal_representation. warrants.
-#taxes #types of tax, right of government to tax, consent to tax.
-#citizenship #how citizenship is granted or revoked. procedure. 
