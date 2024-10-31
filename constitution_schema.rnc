@@ -1,10 +1,10 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
 start = element content {meta_data?, table_of_contents?, body, text}
 meta_data = element meta_data {(title | author | table_of_contents)*}
 title = element title {text}
 author = element author {text}
 table_of_contents = element table_of_contents {(text, section_name)*}
-
 
 body = element body {(text | section)*}
 section = element section {(text | section_name | sub_section | subsection_name | consent_of_governed | inherent_rights| criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power)*}
@@ -12,25 +12,31 @@ section_name = element section_name {( subsection_name | text )*}
 sub_section = element sub_section {(text| subsection_name | consent_of_governed | inherent_rights| criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power)*}
 subsection_name = element subsection_name {text}
 
-
-
-consent_of_governed = element consent_of_governed {attribute type { "right_to_petition" | "elections" | "amendment_process" | "representative_government" | "laws_passed" | "popular_sovereignty"}, text}
+consent_of_governed = element consent_of_governed {attribute type { "right_to_petition" | "elections" | "amendment_process" | "representative_government" | "laws_passed" | "popular_sovereignty" | "eligibility_guidelines" | "state_rights" }, text}
 inherent_rights = element inherent_rights {attribute type { "life" | "liberty" | "pursuit_of_happiness" | "property" | "equality" | "freedom_of_speech" | "bear_arms" | "religion" | "voting" | "freedom_of_religion" | "freedom_of_the_press" | "freedom_of_assembly" | "individual_protection" | "other_amendment_topics" | "free_will" }, text}
-criminal_justice = element criminal_justice {attribute type { "due_process" | "trial_by_jury" | "habeas_corpus" | "speedy_trial" | "cruel_and_unusual_punishment" | "double_jeopardy" | "self_incrimination" | "legal_representation" | "warrants" | "bail"}, text}
+criminal_justice = element criminal_justice {attribute type { "due_process" | "trial_by_jury" | "habeas_corpus" | "speedy_trial" | "cruel_and_unusual_punishment" | "double_jeopardy" | "self_incrimination" | "legal_representation" | "warrants" | "bail" | "slavery" }, text}
 purposes_of_law = element purposes_of_law {attribute type {  "strengthen_previous_law" | "repeal_previous_law" | "set_criminal_code"}, text}
 legal_documents = element legal_documents {attribute type { "constitution" | "criminal_code" | "province_laws"},text}
 legislative_body = element legislative_body {attribute type { "propose_laws" | "bicameral" | "amendment_process" | "representative_government" | "laws_passed" | "right_to_tax"}, text}
 judicial_body = element judicial_body{attribute type { "court_hierarchy" | "overule" | "set_precedence"}, text}
 executive_body = element executive_body {attribute type { "veto_power" | "appointment_power" | "pardon_power" | "presidential_limits" | "elected"}, text}
-limits_of_power = element limits_of_power {attribute type { "rebellion" | "impeachment" | "fixed_terms" | "checks_and_balances"}, text}
+limits_of_power = element limits_of_power {attribute type { "rebellion" | "impeachment" | "fixed_terms" | "checks_and_balances" | "protection_of_the_individual" }, text}
 
-#collective_sovereignty #people, as the collective entity are the sole source of power in a society.
-#seperation_of_powers #principle that divides the governement into three branches. executive. judicial. legislative
-#eligibility #explicit requirement/qualified to participate in political processes. gender. race. age. nationality. residency_status
-#limits_of_power #checks and parameters that limit the extent of the government's power. fixed_terms (of presidents). veto. impeachment. supreme_court_election.
-#consent_of_governed #mentions of general public explicitly sanctioning government's reach. elections. right_to_petition. amendment_process. representative_government
-#power_of_president #the degree of control that the president (or King) has over their people. commander_in_chief (of military). executive_orders.  veto_power. appointment_power. pardon_power.
-#natural_rights #the rights everyone in a society is automatically granted/implicitly has. life. liberty. pursuit_of_happiness. property. equality. self_governance. freedom_of_speech. bare_arms.
-#justice #mentions of how crimes will be abjudicated. due_process. trial_by_jury. habeas_corpus. speedy_trial. cruel_and_unusual_punishment. double_jeopardy. self_incrimination. legal_representation. warrants.
-#taxes #types of tax, right of government to tax, consent to tax.
-#citizenship #how citizenship is granted or revoked. procedure. 
+
+# section_name = Article and Amendment titles
+# subsection_name = Clauses/sections of amendments and articles 
+
+# consent_of_governed = the rights of the people, their relationship with the government and the functions of a democratic government 
+        #right to petition = individual right to call for action, #elections = voting in officials, #amendment_process = creating new constitutional rights, #rep. gov = officials reflected in the people, #laws_passed = enactment of legislation, #popular_sov = majority vote, #eligb = guidelines, #state_rights = powers that the states oversee
+# inherent_rights = natural rights or basic rights given to the people, typically assumed or specifically stated within the constitution
+        #life = allowance of life, #liberty = voting/individualism, #pursuit = choices, #property = own land, #equality = no man over another, #speech = free speech, #bear_arms = gun rights, #religion = practice of religion, #press = writing, #assembly = peaceful gatherings, #individ. prot = safety, #other = anything else, #freewill = choice and abilities 
+# criminal_justice = results of court proceedings, punsihments, and laws, including the rights an accused has prior/during a criminal prosecution 
+        #due_process = individual rights in criminal proceedings, 
+# purposes_of_law = reasoning behind legal processes, amendments, and philosophies, in order to better support the people/government of the US 
+# legal_documents = texts that govern the US, support the people, and provide laws 
+# legislative_body = one of the bodies of government, directly representing of the people, bicameral, propose and enact legislation 
+# judicial_body = one of the bodies of government responsible for examining laws and upholding legislation, including trying criminal and civil cases, split into a hiearchy with the Supreme Court reigning
+# executive_body = one of the bodies of government, elected by the people, serving as a commander in chief, leading the federal government, and collaborating with the other two bodies in supporting individual rights
+# limits_of_power = the extent to which the bodies of government and government officials can use their power, in place to prevent any one body from becoming too powerful, through checks and balances that can halt processes, impeach, and overrule
+
+

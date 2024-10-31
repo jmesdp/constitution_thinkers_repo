@@ -10,8 +10,8 @@
     
 <section>
     <section_name>Preamble</section_name>
-We the people of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence,
-promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
+<inherent_rights type="pursuit_of_happiness">We the people of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence,
+promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</inherent_rights>
 </section>
     
 <section>
@@ -281,49 +281,57 @@ and no Warrants shall issue, but upon probable cause, supported by oath or affir
 
 <section>
     <section_name>Amendment V</section_name>
-No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising
-in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offense to be twice put in jeopardy of life or limb;
-nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use without just compensation.
+<criminal_justice type="trial_by_jury">No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury</criminal_justice>, except in cases arising
+in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; <criminal_justice type="double_jeopardy">nor shall any person be subject for the same offense to be twice put in jeopardy of life or limb;</criminal_justice>
+<criminal_justice type="self_incrimination">nor shall be compelled in any criminal case to be a witness against himself</criminal_justice>,<criminal_justice type="due_process"> nor be deprived of life, liberty, or property, without due process of law</criminal_justice>; nor shall private property be taken for public use without just compensation.
 </section>
+    <!-- protect against self-incrimination, double-jeapordy, due process -->
 
 <section>
     <section_name>Amendment VI</section_name>
-In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district
+<criminal_justice type="speedy_trial">In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial</criminal_justice>, <criminal_justice type="trial_by_jury">by an impartial jury of the State and district</criminal_justice>
 wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature
-and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the assistance of counsel for his defense.
+and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, <criminal_justice type="legal_representation">and to have the assistance of counsel for his defense.</criminal_justice>
 </section>
-
+    <!-- speedy trial, due process, right to an attorney -->
+    
 <section>
     <section_name>Amendment VII</section_name>
-In suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury shall be otherwise re-examined in any court of the United States, than according to the rules of the common law.
+In suits at common law, where the value in controversy shall exceed twenty dollars, <criminal_justice type="trial_by_jury">the right of trial by jury shall be preserved, and no fact tried by a jury shall be otherwise re-examined in any court of the United States, than according to the rules of the common law.</criminal_justice>
 </section>
+    <!-- right to trial by jury in civil cases over 20 dollars -->
 
 <section>
     <section_name>Amendment VIII</section_name>
-Excessive bail shall not be required nor excessive fines imposed, nor cruel and unusual punishments inflicted.
+<criminal_justice type="bail">Excessive bail shall not be required nor excessive fines imposed</criminal_justice>, <criminal_justice type="cruel_and_unusual_punishment">nor cruel and unusual punishments inflicted.</criminal_justice>
 </section>
+    <!-- protect against bail and cruel/unusual punishment -->
 
-<section><section_name>Amendment IX</section_name>
-The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
+<section>
+    <section_name>Amendment IX</section_name>
+<inherent_rights type="liberty">The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.</inherent_rights>
 </section>
+    <!-- can't use the constitution to deny other people of their liberty -->
 
 <section>
     <section_name>Amendment X</section_name>
-The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.
+<legal_documents type="province_laws">The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively</legal_documents>, or to the people.
 </section>
+    <!-- anything not stated in the constitution is for the states to decide  -->
 
 <section>
     <section_name> Amendment XI </section_name>
 Passed by Congress March 4, 1794. Ratified February 7, 1795. (Note: A portion of Article III, sub_section 2 of the Constitution was modifiedbythe11th Amendment.) The
-Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or pros- ecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
+<limits_of_power type="checks_and_balances">Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or pros- ecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.</limits_of_power>
 </section>
+    <!-- judiciary branch can't just overrule the right of the people -->
 
 <section>
     <section_name> Amendment XIII </section_name>
 Passed by Congress January 31, 1865. Ratified December 6, 1865. (Note: A portion of Article IV, sub_section 2 of the Constitution was changed by the 13th Amendment.)
         <sub_section>
             <subsection_name>1</subsection_name>
-    Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
+    <criminal_justice type="slavery">Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.</criminal_justice>
         </sub_section>
         <sub_section>
             <subsection_name>2</subsection_name>
@@ -334,52 +342,57 @@ Passed by Congress January 31, 1865. Ratified December 6, 1865. (Note: A portion
 <section>
     <section_name> Amendment XII </section_name>
 Passed by Congress December 9, 1803. Ratified June 15, 1804. (Note: A portion of Article II, sub_section 1 of the Constitution was changed by the 12th
-Amendment.) The Electors shall meet in their respective states, and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant
-of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President,
-and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which
+Amendment.) The Electors shall meet in their respective states, <consent_of_governed type="elections">and vote by ballot for President and Vice-President</consent_of_governed>, one of whom, at least, <consent_of_governed type="eligibility_guidelines">shall not be an inhabitant
+of the same state with themselves</consent_of_governed>; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President,
+and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, <consent_of_governed type="elections">and of the number of votes for each, which
 lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate;-the President of the
-Senate shall, in the presence of the Senate and House of Represen- tatives, open all the certificates and the votes shall then be counted;-The person having the greatest
-number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then
-from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by
-ballot, the President. But in choos- ing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this
-purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. [And if the House of
+Senate shall, in the presence of the Senate and House of Represen- tatives</consent_of_governed>, open all the certificates and the votes shall then be counted;-<executive_body type="elected">The person having the greatest
+number of votes for President, shall be the President</executive_body>, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then
+from the persons having the highest numbers not exceeding three on the list of those voted for as President, <legislative_body type="representative_government">the House of Representatives shall choose immediately</legislative_body>, by
+ballot, the President. But in choos- ing the President, <consent_of_governed type="state_rights">the votes shall be taken by states, the representation from each state having one vote; a quorum for this
+purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice.</consent_of_governed> [And if the House of
 Representa- tives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the
 Vice-President shall act as President, as in case of the death or other constitutional disability of the President.-]* The person having the greatest number
 of votes as Vice-President, shall be the Vice-Presi- dent, if such number be a majority of the whole number of Electors appointed, and if no person have a
-majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole
+majority, then from the two highest numbers on the list, <legislative_body type="representative_government">the Senate shall choose the Vice-President</legislative_body>; a quorum for the purpose shall consist of two-thirds of the whole
 number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall
 be eligible to that of Vice-President of the United States. *Superseded by sub_section 3 of the 20th Amendment.
 </section>
+    <!-- how the president is elected -->
  
 <section>
     <section_name> AmendmentXIV </section_name>
 Passed by Congress June 13, 1866. Ratified July 9, 1868. (Note: Article I, sub_section 2 ofthe Constitution was modified by sub_section 2 of the 14th Amendment.) 
         <sub_section>
             <subsection_name>1</subsection_name>
-        All persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce
-        any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
+        <consent_of_governed type="eligibility_guidelines">All persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.</consent_of_governed> <limits_of_power type="protection_of_the_individual">No State shall make or enforce
+        any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.</limits_of_power>
         </sub_section>
+    <!-- individual citizenship and protection -->
         <sub_section>
             <subsection_name>2</subsection_name>
         Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to
         vote at any election for the choice of electors for President and Vice President of the United States, Representatives in Congress, the Executive and Judicial
         officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, [being twenty-one years of age,]* and citizens
-        of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the
-        proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.
+        of the United States, or in any way abridged, except for participation in rebellion, or other crime, <consent_of_governed type="representative_government">the basis of representation therein shall be reduced in the
+        proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.</consent_of_governed>
         </sub_section>
+    <!-- representation guidelines -->
         <sub_section>
             <subsection_name>3</subsection_name>
-        No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under
+        <consent_of_governed type="eligibility_guidelines">No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under
         any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an
         executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or
-        given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability.
+        given aid or comfort to the enemies thereof.</consent_of_governed> <legislative_body type="propose_laws">But Congress may by a vote of two-thirds of each House, remove such disability.</legislative_body>
         </sub_section>
+    <!-- eligibility -->
         <sub_section>
             <subsection_name>4</subsection_name>
-        The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrec-
-        tion or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or
+        <legislative_body type="right_to_tax">The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrec-
+        tion or rebellion, shall not be questioned.</legislative_body> But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or
         rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.
         </sub_section>
+    <!-- taxation -->
         <sub_section>
             <subsection_name>5</subsection_name>
         The Congress shall have the power to enforce, by appropriate legislation, the provisions of this article. *Changed by sub_section 1 of the 26th Amendment.
@@ -391,8 +404,9 @@ Passed by Congress June 13, 1866. Ratified July 9, 1868. (Note: Article I, sub_s
 Passed by Congress February 26, 1869. Ratified February 3, 1870. 
         <sub_section>
             <subsection_name>1</subsection_name>
-        The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
+        <inherent_rights type="voting">The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.</inherent_rights>
         </sub_section>
+    <!-- right to vote -->
     <sub_section>
         <subsection_name>2</subsection_name>
         The Congress shall have the power to enforce this article by appropriate legislation.
@@ -401,19 +415,21 @@ Passed by Congress February 26, 1869. Ratified February 3, 1870.
 
 <section>
     <section_name> AmendmentXVI </section_name>
-Passed by Congress July 2, 1909. Ratified February 3, 1913. (Note: Article I, sub_section 9 ofthe Constitution was modified by the 16 h Amendment.) The Congress shall have power to lay and collect taxes on incomes, from
-whatever source derived, without apportion- ment among the several States, and without regard to any census or enumeration.
+Passed by Congress July 2, 1909. Ratified February 3, 1913. (Note: Article I, sub_section 9 ofthe Constitution was modified by the 16 h Amendment.) <legislative_body type="right_to_tax">The Congress shall have power to lay and collect taxes on incomes, from
+whatever source derived, without apportion- ment among the several States, and without regard to any census or enumeration.</legislative_body>
 </section>
+    <!-- right to tax -->
     
 <section>
     <section_name> Amendment XVII </section_name>
-Passed by Congress May 13, 1912. Ratified April 8, 1913. (Note: Article I, sub_section 3 ofthe Constitution was modified by the 17th Amendment.) The Senate of the United States shall be composed of
-two Senators from each State, elected by the people thereof, for six years; and each Senator shall have one vote. The electors in each State shall have the qualifications
-requisite for elec- tors of the most numerous branch of the State legislatures. When vacancies happen in the representation of any State in the Senate, the executive
+Passed by Congress May 13, 1912. Ratified April 8, 1913. (Note: Article I, sub_section 3 ofthe Constitution was modified by the 17th Amendment.) <limits_of_power type="fixed_terms">The Senate of the United States shall be composed of
+two Senators from each State, elected by the people thereof, for six years</limits_of_power>; and each Senator shall have one vote. <consent_of_governed type="eligibility_guidelines">The electors in each State shall have the qualifications
+requisite for elec- tors of the most numerous branch of the State legislatures</consent_of_governed>. When vacancies happen in the representation of any State in the Senate, the executive
 authority of such State shall issue writs of election to fill such vacancies: Provided, That the legislature of any State may empower the executive thereof to make temporary
 appointments until the people fill the vacancies by election as the legislature may direct. This amendment shall not be so construed as to affect the election or term of
 any Senator chosen before it becomes valid as part of the Constitution.
 </section>
+    <!-- legislative powers, elections, eligibility -->
     
 <section>
     <section_name>Amendment XVIII.</section_name>
