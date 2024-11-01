@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="SOL_schema.rnc" type="application/relax-ng-compact-syntax"?>
-
-<Spirit_Of_Laws>
+<?xml-model href="constitution_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
     
     <meta_data>
         <title>THE SPIRIT OF LAWS.</title>
@@ -10,14 +9,14 @@
         <author>Mont.</author>
         
         <table_of_contents> TOC
-            <section_name>Book 1</section_name>
-            <section_name>Book 2</section_name>
-            <section_name>Book 3</section_name>
-            <section_name>Book 4</section_name>
-            <section_name>Book 5</section_name>
-            <section_name>Book 6</section_name>
-            <section_name>Book 11</section_name>
-            <section_name>Book 12</section_name>
+            <section number="1">Book 1</section>
+            <section number="2">Book 2</section>
+            <section number="3">Book 3</section>
+            <section number="4">Book 4</section>
+            <section number="5">Book 5</section>
+            <section number="6">Book 6</section>
+            <section number="11">Book 11</section>
+            <section number="12">Book 12</section>
         </table_of_contents>
     </meta_data>
     
@@ -783,4 +782,4 @@ It is not at all amiss that, in dubious cases, the judges should consult the min
 </section>
     
 </body>
-</Spirit_Of_Laws>
+</content>
