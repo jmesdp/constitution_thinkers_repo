@@ -5,24 +5,24 @@
         <title>De Cive Philosophicall Elements of a true Citizen. Liberty</title>
         <author>by Thomas Hobbes</author>
         <table_of_contents>
-            <section_name>Chapter 1</section_name>
-            <section_name>Chapter 2</section_name>
-            <section_name>Chapter 3</section_name>
-            <section_name>Chapter 4</section_name>
-            <section_name>Chapter 5</section_name>
-            <section_name>Chapter 6</section_name>
-            <section_name>Chapter 7</section_name>
-            <section_name>Chapter 8</section_name>
-            <section_name>Chapter 9</section_name>
-            <section_name>Chapter 10</section_name>
-            <section_name>Chapter 11</section_name>
-            <section_name>Chapter 12</section_name>
-            <section_name>Chapter 13</section_name>
-            <section_name>Chapter 14</section_name>
-            <section_name>Chapter 15</section_name>
-            <section_name>Chapter 16</section_name>
-            <section_name>Chapter 17</section_name>
-            <section_name>Chapter 18</section_name>
+            <section>Chapter 1</section>
+            <section>Chapter 2</section>
+            <section>Chapter 3</section>
+            <section>Chapter 4</section>
+            <section>Chapter 5</section>
+            <section>Chapter 6</section>
+            <section>Chapter 7</section>
+            <section>Chapter 8</section>
+            <section>Chapter 9</section>
+            <section>Chapter 10</section>
+            <section>Chapter 11</section>
+            <section>Chapter 12</section>
+            <section>Chapter 13</section>
+            <section>Chapter 14</section>
+            <section>Chapter 15</section>
+            <section>Chapter 16</section>
+            <section>Chapter 17</section>
+            <section>Chapter 18</section>
         </table_of_contents>
     </meta_data>
     
