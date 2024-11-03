@@ -145,7 +145,7 @@ Agreement or Compact with another State, or with a foreign Power, or engage in W
     </sub_section>
 </section>
 
-<section number="two">
+<section number="2">
     <section_name type="article" id="CONST">Article TWO</section_name>
 
     <sub_section number="1">
@@ -224,48 +224,49 @@ but no Attainder of Treason shall work Corruption of Blood, or Forfeiture except
 
     <sub_section number="1">
         <subsection_name type="section">Section 1</subsection_name>
-Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records, and Proceedings shall be proved, and the Effect thereof.
+<consent_of_governed type="state_rights">Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State.</consent_of_governed> And <legislative_body type="laws_passed">the Congress may by general Laws prescribe the Manner in which such Acts, Records, and Proceedings shall be proved, and the Effect thereof.</legislative_body>
+        <!--Aticle Four essentially states that states must respect the laws of other states, hence the laws_passed tag -->
     </sub_section>
     <sub_section number="2">
         <subsection_name type="section">Section 2</subsection_name>.
-The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States. A Person charged in any State with Treason, Felony, or other Crime,
+<consent_of_governed type="laws_passed">The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States.</consent_of_governed> <criminal_justice type="warrants">A Person charged in any State with Treason, Felony, or other Crime,
 who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority of the State from which he fled, be delivered up, to be removed to the State having
-Jurisdiction of the Crime. No person held to Service or Labor in one State, under the Laws thereof, escaping into another, shall, in Consequence of any Law or Regulation therein,
+Jurisdiction of the Crime.</criminal_justice> No person held to Service or Labor in one State, under the Laws thereof, escaping into another, shall, in Consequence of any Law or Regulation therein,
 be discharged from such Service or Labor, But shall be delivered up on Claim of the Party to whom such Service or Labor may be due.
     </sub_section>
     <sub_section number="3">
         <subsection_name type="section">Section 3</subsection_name>
 New States may be admitted by the Congress into this Union; but no new States shall be formed or erected within the Jurisdiction of any other State; nor any State be formed by the Junction of two
-or more States, or Parts of States, without the Consent of the Legislatures of the States concerned as well as of the Congress. The Congress shall have Power to dispose of and make all needful Rules
-and Regulations respecting the Territory or other Property belonging to the United States; and nothing in this Constitution shall be so construed as to Prejudice any Claims of the United States, or of any particular State.
+or more States, or Parts of States, without the Consent of the Legislatures of the States concerned as well as of the Congress. <legislative_body type="propose_laws">The Congress shall have Power to dispose of and make all needful Rules
+and Regulations respecting the Territory or other Property belonging to the United States;</legislative_body> and nothing in this Constitution shall be so construed as to Prejudice any Claims of the United States, or of any particular State.
     </sub_section>
     <sub_section number="4">
         <subsection_name type="section">Section 4</subsection_name>
-The United States shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
+        <consent_of_governed type="state_rights">The United States shall guarantee to every State in this Union a Republican Form of Government</consent_of_governed>, and <consent_of_governed type="state_rights">shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.</consent_of_governed>
     </sub_section>
 </section>
 
 <section number="five">
     <section_name type="article" id="CONST">Article FIVE</section_name>
-The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of
+<legislative_body type="amendment_process">The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of
 the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents
 and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths
-thereof, as the one or the other Mode of Ratification may be proposed by the Congress; Provided that no Amendment which may be made prior to the
-Year one thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the ninth Section of the first Article; and that no State, without its Consent, shall be deprived of it's equal Suffrage in the Senate.
+thereof, as the one or the other Mode of Ratification may be proposed by the Congress;</legislative_body> <legislative_body type="amendment_process">Provided that no Amendment which may be made prior to the
+Year one thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the ninth Section of the first Article</legislative_body>; and that <consent_of_governed type="state_rights">no State, without its Consent, shall be deprived of it's equal Suffrage in the Senate.</consent_of_governed>
 </section>
 
 <section number="six">
     <section_name type="article" id="CONST">Article SIX</section_name>
 All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.
-This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme
-Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.
+<legal_documents type="constitution">This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme
+Law of the Land;</legal_documents> and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.
 The Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers,
-both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States
+both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but <inherent_rights type="religion">no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States</inherent_rights>
 </section>
 
 <section number="seven">
     <section_name type="article" id="CONST">Article SEVEN</section_name>
-The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.
+<legal_documents type="constitution">The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.</legal_documents>
 Done in Convention by the Unanimous Consent of the States present the Seventeenth Day of September in the Year of our Lord one thousand seven hundred and eighty seven and of the Independence of the United States of America the TwelfthIn Witness whereof We have
 hereunto subscribed our Names, Go. WASHINGTON-- Presid. and deputy from Virginia New Hampshire John Langdon Nicholas Gilman Massachusetts Nathaniel Gorham
 Rufus King Connecticut Wm. Saml. Johnson Roger Sherman New York Alexander Hamilton New Jersey Wil: Livingston David Brearley Wm. Paterson Jona: Dayton Pennsylvania
@@ -276,24 +277,24 @@ Rich'd Dobbs Spaight Hu Williamson South Carolina J. Rutledge Charles Cotesworth
     
 <section number="1">
     <section_name type="amendment" id="BOR">Amendment I</section_name>
-Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech,
-or of the press, or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+<inherent_rights type="religion">Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof;</inherent_rights> or <inherent_rights type="freedom_of_speech">abridging the freedom of speech,</inherent_rights>
+or <inherent_rights type="freedom_of_the_press">of the press,</inherent_rights> or <inherent_rights type="freedom_of_assembly">the right of the people peaceably to assemble</inherent_rights>, and to <inherent_rights type="other_amendment_topics">petition the Government for a redress of grievances.</inherent_rights>
 </section>
 
 <section number="2">
     <section_name type="amendment" id="BOR">Amendment II</section_name>
-A well-regulated militia, being necessary to the security of a free State, the right of the people to keep and bear arms, shall not be infringed.
+A well-regulated militia, being necessary to the security of a free State, <inherent_rights type="bear_arms">the right of the people to keep and bear arms, shall not be infringed.</inherent_rights>
 </section>
 
 <section number="3">
     <section_name type="amendment" id="BOR">Amendment III</section_name>
-No soldier shall, in time of peace be quartered in any house, without the consent of the owner, nor in time of war, but in a manner to be prescribed by law.
+<inherent_rights type="property">No soldier shall, in time of peace be quartered in any house, without the consent of the owner, nor in time of war, but in a manner to be prescribed by law.</inherent_rights>
 </section>
 
 <section number="4">
     <section_name type="amendment" id="BOR">Amendment IV</section_name>
-The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated,
-and no Warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
+<criminal_justice type="warrants">The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated,
+and no Warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.</criminal_justice>
 </section>
 
 <section number="5">
