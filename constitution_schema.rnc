@@ -1,7 +1,7 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = element content {meta_data?, table_of_contents?, body, text}
-meta_data = element meta_data {(title | author | table_of_contents | section)*}
+meta_data = element meta_data {(text | title | author | table_of_contents | section)*}
 title = element title {text}
 author = element author {text}
 table_of_contents = element table_of_contents {(text | section | sub_section )*}
@@ -12,7 +12,7 @@ attribute type { "amendment" | "article" | "preamble" }?, attribute id { "CONST"
 (text | section_name | sub_section | subsection_name | consent_of_governed | inherent_rights| criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power )*}
 
 section_name = element section_name {attribute type { "amendment" | "article" | "preamble" }?, attribute id { "CONST" | "BOR" | "CONST_Amendments" }?, ( subsection_name | text )*}
-sub_section = element sub_section {attribute number { "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" }?, (text| subsection_name | consent_of_governed | inherent_rights| criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power)*}
+sub_section = element sub_section {attribute number { "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" | "11" |  "12" | "13" | "14" | "15" | "16" | "17" | "18" | "19" }?, (text| subsection_name | consent_of_governed | inherent_rights| criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power)*}
 subsection_name = element subsection_name {attribute type { "section" }?, text}
 
 consent_of_governed = element consent_of_governed {attribute type { "right_to_petition" | "elections" | "amendment_process" | "representative_government" | "laws_passed" | "popular_sovereignty" | "eligibility_guidelines" | "state_rights" }?, attribute id { "Hobbes" | "Rosseau" | "Montesquieu" | "Locke" }?, text}
