@@ -4,43 +4,6 @@
     <!-- try NOT to pretty print for easier reading purposes -->
 <meta_data>
     <title>THE CONSTITUTION OF THE UNITED STATES OF AMERICA, 1787</title>
-    <table_of_contents>
-        <section number="0">Preamble</section>
-        <section number="one">Article 1</section>
-        <section number="two">Article 2</section>
-        <section number="three">Article 3</section>
-        <section number="four">Article 4</section>
-        <section number="five">Article 5</section>
-        <section number="six">Article 6</section>
-        <section number="seven">Article 7</section>
-        <section number="1">Amendment 1</section>
-        <section number="2">Amendment 2</section>
-        <section number="3">Amendment 3</section>
-        <section number="4">Amendment 4</section>
-        <section number="5">Amendment 5</section>
-        <section number="6">Amendment 6</section>
-        <section number="7">Amendment 7</section>
-        <section number="8">Amendment 8</section>
-        <section number="9">Amendment 9</section>
-        <section number="10">Amendment 10</section>
-        <section number="11">Amendment 11</section>
-        <section number="12">Amendment 12</section>
-        <section number="13">Amendment 13</section>
-        <section number="14">Amendment 14</section>
-        <section number="15">Amendment 15</section>
-        <section number="16">Amendment 16</section>
-        <section number="17">Amendment 17</section>
-        <section number="18">Amendment 18</section>
-        <section number="19">Amendment 19</section>
-        <section number="20">Amendment 20</section>
-        <section number="21">Amendment 21</section>
-        <section number="22">Amendment 22</section>
-        <section number="23">Amendment 23</section>
-        <section number="24">Amendment 24</section>
-        <section number="25">Amendment 25</section>
-        <section number="26">Amendment 26</section>
-        <section number="27">Amendment 27</section>
-    </table_of_contents>
 </meta_data>
     
 <body>
@@ -299,7 +262,7 @@ and no Warrants shall issue, but upon probable cause, supported by oath or affir
 
 <section number="5">
     <section_name type="amendment" id="BOR">Amendment V</section_name>
-<criminal_justice type="trial_by_jury">No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury</criminal_justice>, except in cases arising
+<criminal_justice type="trial_by_jury" person="Montesquieu">No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury</criminal_justice>, except in cases arising
 in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; <criminal_justice type="double_jeopardy">nor shall any person be subject for the same offense to be twice put in jeopardy of life or limb;</criminal_justice>
 <criminal_justice type="self_incrimination">nor shall be compelled in any criminal case to be a witness against himself</criminal_justice>,<criminal_justice type="due_process"> nor be deprived of life, liberty, or property, without due process of law</criminal_justice>; nor shall private property be taken for public use without just compensation.
 </section>
@@ -307,7 +270,7 @@ in the land or naval forces, or in the Militia, when in actual service in time o
 
 <section number="6">
     <section_name type="amendment" id="BOR">Amendment VI</section_name>
-<criminal_justice type="speedy_trial">In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial</criminal_justice>, <criminal_justice type="trial_by_jury">by an impartial jury of the State and district</criminal_justice>
+<criminal_justice type="speedy_trial" person="Montesquieu">In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial</criminal_justice>, <criminal_justice type="trial_by_jury">by an impartial jury of the State and district</criminal_justice>
 wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature
 and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, <criminal_justice type="legal_representation">and to have the assistance of counsel for his defense.</criminal_justice>
 </section>
@@ -315,13 +278,13 @@ and cause of the accusation; to be confronted with the witnesses against him; to
     
 <section number="7">
     <section_name type="amendment" id="BOR">Amendment VII</section_name>
-In suits at common law, where the value in controversy shall exceed twenty dollars, <criminal_justice type="trial_by_jury">the right of trial by jury shall be preserved, and no fact tried by a jury shall be otherwise re-examined in any court of the United States, than according to the rules of the common law.</criminal_justice>
+In suits at common law, where the value in controversy shall exceed twenty dollars, <criminal_justice type="trial_by_jury" person="Montesquieu">the right of trial by jury shall be preserved, and no fact tried by a jury shall be otherwise re-examined in any court of the United States, than according to the rules of the common law.</criminal_justice>
 </section>
     <!-- right to trial by jury in civil cases over 20 dollars -->
 
 <section number="8">
     <section_name type="amendment" id="BOR">Amendment VIII</section_name>
-<criminal_justice type="bail">Excessive bail shall not be required nor excessive fines imposed</criminal_justice>, <criminal_justice type="cruel_and_unusual_punishment">nor cruel and unusual punishments inflicted.</criminal_justice>
+<criminal_justice type="bail" person="Montesquieu">Excessive bail shall not be required nor excessive fines imposed</criminal_justice>, <criminal_justice type="cruel_and_unusual_punishment">nor cruel and unusual punishments inflicted.</criminal_justice>
 </section>
     <!-- protect against bail and cruel/unusual punishment -->
 
@@ -348,11 +311,11 @@ Passed by Congress March 4, 1794. Ratified February 7, 1795. (Note: A portion of
     <section_name type="amendment" id="CONST_Amendments"> Amendment XIII</section_name>
 Passed by Congress January 31, 1865. Ratified December 6, 1865. (Note: A portion of Article IV, sub_section 2 of the Constitution was changed by the 13th Amendment.)
         <sub_section number="1">
-            <subsection_name type="section">1</subsection_name>
+            <subsection_name type="section">Section 1</subsection_name>
     <criminal_justice type="slavery">Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.</criminal_justice>
         </sub_section>
         <sub_section number="2">
-            <subsection_name type="section">2</subsection_name>
+            <subsection_name type="section">Section 2</subsection_name>
     Congress shall have power to enforce this article by appropriate legislation.
         </sub_section>
 </section>
@@ -382,13 +345,13 @@ be eligible to that of Vice-President of the United States. *Superseded by sub_s
     <section_name type="amendment" id="CONST_Amendments">Amendment XIV</section_name>
 Passed by Congress June 13, 1866. Ratified July 9, 1868. (Note: Article I, sub_section 2 ofthe Constitution was modified by sub_section 2 of the 14th Amendment.) 
         <sub_section number="1">
-            <subsection_name type="section">1</subsection_name>
+            <subsection_name type="section">Section 1</subsection_name>
         <consent_of_governed type="eligibility_guidelines">All persons born or naturalized in the United States and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.</consent_of_governed> <limits_of_power type="protection_of_the_individual">No State shall make or enforce
         any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.</limits_of_power>
         </sub_section>
     <!-- individual citizenship and protection -->
         <sub_section number="2">
-            <subsection_name type="section">2</subsection_name>
+            <subsection_name type="section">Section 2</subsection_name>
         Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to
         vote at any election for the choice of electors for President and Vice President of the United States, Representatives in Congress, the Executive and Judicial
         officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, [being twenty-one years of age,]* and citizens
@@ -397,7 +360,7 @@ Passed by Congress June 13, 1866. Ratified July 9, 1868. (Note: Article I, sub_s
         </sub_section>
     <!-- representation guidelines -->
         <sub_section number="3">
-            <subsection_name type="section">3</subsection_name>
+            <subsection_name type="section">Section 3</subsection_name>
         <consent_of_governed type="eligibility_guidelines">No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under
         any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an
         executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or
@@ -405,14 +368,14 @@ Passed by Congress June 13, 1866. Ratified July 9, 1868. (Note: Article I, sub_s
         </sub_section>
     <!-- eligibility -->
         <sub_section number="4">
-            <subsection_name type="section">4</subsection_name>
+            <subsection_name type="section">Section 4</subsection_name>
         <legislative_body type="right_to_tax">The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrec-
         tion or rebellion, shall not be questioned.</legislative_body> But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or
         rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.
         </sub_section>
     <!-- taxation -->
         <sub_section number="5">
-            <subsection_name type="section">5</subsection_name>
+            <subsection_name type="section">Section 5</subsection_name>
         The Congress shall have the power to enforce, by appropriate legislation, the provisions of this article. *Changed by sub_section 1 of the 26th Amendment.
         </sub_section>
 </section>
@@ -421,12 +384,12 @@ Passed by Congress June 13, 1866. Ratified July 9, 1868. (Note: Article I, sub_s
     <section_name type="amendment" id="CONST_Amendments">Amendment XV</section_name>
 Passed by Congress February 26, 1869. Ratified February 3, 1870. 
         <sub_section>
-            <subsection_name type="section">1</subsection_name>
+            <subsection_name type="section">Section 1</subsection_name>
         <inherent_rights type="voting">The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.</inherent_rights>
         </sub_section>
     <!-- right to vote -->
     <sub_section>
-        <subsection_name type="section">2</subsection_name>
+        <subsection_name type="section">Section 2</subsection_name>
         The Congress shall have the power to enforce this article by appropriate legislation.
     </sub_section>
 </section>
@@ -453,16 +416,16 @@ any Senator chosen before it becomes valid as part of the Constitution.
     <section_name type="amendment" id="CONST_Amendments">Amendment XVIII</section_name>
 Passed by Congress December 18, 1917. Ratified January 16, 1919. Repealed by the 21 Amendment, December 5, 1933.
         <sub_section number="1">
-            <subsection_name type="section">1</subsection_name>
+            <subsection_name type="section">Section 1</subsection_name>
         After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation
         thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.
         </sub_section>
         <sub_section number="2">
-            <subsection_name type="section">2</subsection_name>
+            <subsection_name type="section">Section 2</subsection_name>
         The Congress and the several States shall have concurrent power to enforce this article by appropriate legislation.
         </sub_section>
         <sub_section number="3">
-            <subsection_name type="section">3</subsection_name> 
+            <subsection_name type="section">Section 3</subsection_name> 
         This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
         </sub_section>
 </section>
@@ -476,32 +439,32 @@ Passed by Congress June 4, 1919. Ratified August 18, 1920. The right of citizens
     <section_name type="amendment" id="CONST_Amendments">Amendment XX</section_name>
 Passed by Congress March 2, 1932. Ratified January 23, 1933. (Note: Article I, sub_section 4 of the Constitution was modified by sub_section 2 of this Amendment. In addition, a portion of the 12th Amendment was superseded by sub_section 3.) 
         <sub_section number="1">
-            <subsection_name type="section">1</subsection_name> 
+            <subsection_name type="section">Section 1</subsection_name> 
         The terms of the President and the Vice President shall end at noon on the 20th day of January, and the terms of Sena- tors and Representatives at noon on the 3d day of January, of the
         years in which such terms would have ended if this article had not been ratified; and the terms of their succes- sors shall then begin.
         </sub_section>
         <sub_section number="2">
-            <subsection_name type="section">2</subsection_name> 
+            <subsection_name type="section">Section 2</subsection_name> 
         The Congress shall assemble at least once in every year, and such meeting shall begin at noon on the 3d day of January, unless they shall by law appoint a different day.
         </sub_section>
         <sub_section number="3">
-            <subsection_name type="section">3</subsection_name> 
+            <subsection_name type="section">Section 3</subsection_name> 
         If, at the time fixed for the beginning of the term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the time fixed
         for the beginning of his term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President
         shall have qualified; and the Congress may by law provide for the case wherein neither a President elect nor a Vice President shall have qualified, declaring who
         shall then act as President, or the manner in which one who is to act shall be selected, and such person shall act accordingly until a President or Vice President shall have qualified.
         </sub_section> 
         <sub_section number="4">
-            <subsection_name type="section">4</subsection_name> 
+            <subsection_name type="section">Section 4</subsection_name> 
         The Congress may by law provide for the case of the death of any of the persons from whom the House of Representa- tives may choose a President whenever the right of choice shall have devolved upon them, and
         for the case of the death of any of the persons from whom the Senate may choose a Vice President whenever the right of choice shall have devolved upon them.
         </sub_section>
         <sub_section number="5">
-            <subsection_name type="section">5</subsection_name>
+            <subsection_name type="section">Section 5</subsection_name>
         subsections 1 and 2 shall take effect on the 15th day of Octo- ber following the ratification of this article. 
         </sub_section>
         <sub_section number="6">
-            <subsection_name type="section">6</subsection_name> 
+            <subsection_name type="section">Section 6</subsection_name> 
         This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the leg- islatures of three-fourths of the several States within seven years from the date of its submission.
         </sub_section>
 </section>
@@ -510,15 +473,15 @@ Passed by Congress March 2, 1932. Ratified January 23, 1933. (Note: Article I, s
     <section_name type="amendment" id="CONST_Amendments">Amendment XXI</section_name>
 Passed by Congress February 20, 1933. Ratified December 5, 933.
         <sub_section number="1">
-            <subsection_name type="section">1</subsection_name> 
+            <subsection_name type="section">Section 1</subsection_name> 
         The eighteenth article of amendment to the Constitution of the United States is hereby repealed.
         </sub_section> 
         <sub_section number="2">
-            <subsection_name type="section">2</subsection_name> 
+            <subsection_name type="section">Section 2</subsection_name> 
         The transportation or importation into any State, Territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof, is hereby prohibited.
         </sub_section>
         <sub_section number="3">
-            <subsection_name type="section">3</subsection_name>
+            <subsection_name type="section">Section 3</subsection_name>
         This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by conven- tions in the several States,
         as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
         </sub_section>
@@ -528,14 +491,14 @@ Passed by Congress February 20, 1933. Ratified December 5, 933.
     <section_name type="amendment" id="CONST_Amendments">Amendment XXII</section_name>
 Passed by Congress March 21, 1947. Ratified February 27, 951.
         <sub_section number="1">
-            <subsection_name type="section">1</subsection_name> 
+            <subsection_name type="section">Section 1</subsection_name> 
         No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to
         which some other person was elected President shall be elected to the office of President more than once. But this Article shall not apply to any person holding the
         office of President when this Article was proposed by Con- gress, and shall not prevent any person who may be holding the office of President, or acting as
         President, during the term within which this Article becomes operative from holding the office of President or acting as President during the remainder of such term.
         </sub_section>
         <sub_section number="2">
-            <subsection_name type="section">2</subsection_name>
+            <subsection_name type="section">Section 2</subsection_name>
         This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the leg- islatures of three-fourths of the several States within seven years from the date of its submission to the States by the Congress.
         </sub_section>
 </section>
@@ -544,13 +507,13 @@ Passed by Congress March 21, 1947. Ratified February 27, 951.
     <section_name type="amendment" id="CONST_Amendments">Amendment XXIII</section_name>
 Passed by Congress June 16, 1960. Ratified March 29, 1961. 
         <sub_section number="1">
-            <subsection_name type="section">1</subsection_name>
+            <subsection_name type="section">Section 1</subsection_name>
         The District constituting the seat of Government of the United States shall appoint in such manner as Congress may direct: A number of electors of President and Vice President equal to the whole number of
         Senators and Representatives in Congress to which the District would be entitled if it were a State, but in no event more than the least populous State; they shall be
         in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment.
         </sub_section>
         <sub_section number="2">
-            <subsection_name type="section">2</subsection_name>
+            <subsection_name type="section">Section 2</subsection_name>
         The Congress shall have power to enforce this article by appropriate legislation.
         </sub_section>
 </section>
@@ -559,11 +522,11 @@ Passed by Congress June 16, 1960. Ratified March 29, 1961.
     <section_name type="amendment" id="CONST_Amendments">Amendment XXIV</section_name>
 Passed by Congress August 27, 1962. Ratified January 23, 1964.
         <sub_section number="1">
-            <subsection_name type="section">1</subsection_name> 
+            <subsection_name type="section">Section 1</subsection_name> 
         The right of citizens of the United States to vote in any pri- mary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay poll tax or other tax.
         </sub_section> 
         <sub_section number="2">
-            <subsection_name type="section">2</subsection_name> 
+            <subsection_name type="section">Section 2</subsection_name> 
         The Congress shall have power to enforce this article by appropriate legislation.
         </sub_section>
 </section>
@@ -572,20 +535,20 @@ Passed by Congress August 27, 1962. Ratified January 23, 1964.
     <section_name type="amendment" id="CONST_Amendments">Amendment XXV</section_name>
 Passed by Congress July 6, 1965. Ratified February 10, 1967. (Note: Article II, sub_section 1 of the Constitution was modified by the 25th Amendment.)
         <sub_section number="1">
-            <subsection_name type="section">1</subsection_name>
+            <subsection_name type="section">Section 1</subsection_name>
         In case of the removal of the President from office or of his death or resignation, the Vice President shall become President.
         </sub_section> 
         <sub_section number="2">
-            <subsection_name type="section">2</subsection_name> 
+            <subsection_name type="section">Section 2</subsection_name> 
         Whenever there is a vacancy in the office of the Vice Presi- dent, the President shall nominate a Vice President who shall take office upon confirmation by a majority vote of both Houses of Congress.
         </sub_section>
         <sub_section number="3">
-            <subsection_name type="section">3</subsection_name> 
+            <subsection_name type="section">Section 3</subsection_name> 
         Whenever the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that he is unable to discharge the powers and duties of his office, and
         until he transmits to them a written declaration to the contrary, such powers and duties shall be discharged by the Vice President as Acting President.
         </sub_section>
         <sub_section number="4">
-            <subsection_name type="section">4</subsection_name> 
+            <subsection_name type="section">Section 4</subsection_name> 
         Whenever the Vice President and a majority of either the principal officers of the executive departments or of such other body as Congress may by law provide, transmit to the President pro tempore of the Senate and the
         Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office, the Vice President shall
         immediately assume the powers and duties of the office as Acting President. Thereafter, when the President transmits to the President pro tempore of the Senate
@@ -602,11 +565,11 @@ Passed by Congress July 6, 1965. Ratified February 10, 1967. (Note: Article II, 
     <section_name type="amendment" id="CONST_Amendments">Amendment XXVI</section_name>
 Passed by Congress March 23, 1971. Ratified July 1, 1971. (Note: Amendment 14, sub_section 2 ofthe Constitution was modified by sub_section 1 of the 26th Amendment.) 
         <sub_section number="1">
-            <subsection_name type="section">1</subsection_name> 
+            <subsection_name type="section">Section 1</subsection_name> 
         The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age. 
         </sub_section>
         <sub_section number="2">
-            <subsection_name type="section">2</subsection_name> 
+            <subsection_name type="section">Section 2</subsection_name> 
         The Congress shall have power to enforce this article by appropriate legislation.
         </sub_section>
 </section>
