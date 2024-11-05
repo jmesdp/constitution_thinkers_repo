@@ -8,10 +8,10 @@ table_of_contents = element table_of_contents {(text | section_name | sub_sectio
  
 body = element body {(text | section)*}
 section = element section {attribute number { "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" | "11" | "12" | "13" | "14" | "15" | "16" | "17" | "18" | "19" | "20" | "21" | "22" | "23" | "24" | "25" | "26" | "27" | "one" | "two" | "three" | "four" | "five" | "six" | "seven" }?, 
-attribute type { "amendment" | "article" | "preamble" }?, attribute id { "CONST" | "BOR" | "CONST_Amendments" }?,
+attribute type { "amendment" | "article" | "preamble" | "chapter" | "book" | "section" }?, attribute id { "CONST" | "BOR" | "CONST_Amendments" }?,
 (text | section_name | sub_section | subsection_name | consent_of_governed | inherent_rights| criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power )*}
 
-section_name = element section_name {attribute type { "amendment" | "article" | "preamble" }?, attribute id { "CONST" | "BOR" | "CONST_Amendments" }?, ( subsection_name | text )*}
+section_name = element section_name {attribute type { "amendment" | "article" | "preamble" | "chapter" | "book" | "section" }?, attribute id { "CONST" | "BOR" | "CONST_Amendments" }?, ( subsection_name | text )*}
 sub_section = element sub_section {attribute number { "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" | "11" |  "12" | "13" | "14" | "15" | "16" | "17" | "18" | "19" }?, (text| subsection_name | consent_of_governed | inherent_rights| criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power)*}
 subsection_name = element subsection_name {attribute type { "section" }?, text}
 
