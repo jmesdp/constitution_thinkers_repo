@@ -1,0 +1,18 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: white;
+    color: black;
+}
+
+h2 {
+    text-decoration: underline;
+}
+h3 {
+    text-decoration: underline;
+}
+.section {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
