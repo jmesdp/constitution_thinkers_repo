@@ -6,18 +6,7 @@
     <meta_data>
         <title>THE SPIRIT OF LAWS.</title>
         
-        <author>Mont.</author>
-        
-        <table_of_contents> TOC
-            <section number="1">Book 1</section>
-            <section number="2">Book 2</section>
-            <section number="3">Book 3</section>
-            <section number="4">Book 4</section>
-            <section number="5">Book 5</section>
-            <section number="6">Book 6</section>
-            <section number="11">Book 11</section>
-            <section number="12">Book 12</section>
-        </table_of_contents>
+        <author>Montesquieu</author>
     </meta_data>
     
 <body> Spirt of Laws
@@ -63,7 +52,6 @@ Beside the sense or instinct which man possesses in common with brutes, he has t
 <section>BOOK II.
 <section_name>OF LAWS DIRECTLY DERIVED FROM THE NATURE OF GOVERNMENT.</section_name>
 
-    
     <sub_section>CHAP. II.
     <subsection_name>Of The Republican Government, And The Laws Relative To Democracy.</subsection_name>
     
@@ -110,11 +98,10 @@ But the most imperfect of all is that in which the part of the people that obeys
     <sub_section>CHAP. V.
     <subsection_name>Of The Laws Relative To The Nature Of A Despotic Government.</subsection_name>
 
-FROM the nature of despotic power it follows, that the single person, invested with this power, commits the execution of it also to a single person. A man, whom his senses continually inform that he himself is every thing, and his subjects nothing, is naturally lazy, voluptuous, and ignorant. In consequence of this, he neglects the management of public affairs. But, were he to commit the administration to many, there would be continual disputes among them; each would form intrigues to be his first slave, and he would be obliged to take the reins into his own hands. It is, therefore, more natural for him to resign it to a vizir,* and to invest him with the same power as himself. The creation of a vizir is a fundamental law of this government.
+<executive_body>FROM the nature of despotic power it follows, that the single person, invested with this power, commits the execution of it also to a single person.</executive_body> A man, whom his senses continually inform that he himself is every thing, and his subjects nothing, is naturally lazy, voluptuous, and ignorant. In consequence of this, he neglects the management of public affairs. But, were he to commit the administration to many, there would be continual disputes among them; each would form intrigues to be his first slave, and he would be obliged to take the reins into his own hands. It is, therefore, more natural for him to resign it to a vizir,* and to invest him with the same power as himself. The creation of a vizir is a fundamental law of this government.
 It is related of a pope, that he had started an infinite number of difficulties against his election, from a thorough conviction of his incapacity. At length he was prevailed on to accept of the pontificate, and resigned the administration entirely to his nephew. He was soon struck with surprize, and said, “I should never have thought that these things were so easy.” The same may be said of the princes of the East, who, being educated in a prison, where eunuchs corrupt their hearts and debase their understandings, and where they are frequently kept ignorant of their high rank, when drawn forth in order to be placed on the throne, they are at first confounded; but, as soon as they have chosen a vizir, and abandoned themselves in their seraglio to the most brutal passions, pursuing, in the midst of a prostituted court, every capricious extravagance, they could never have dreamt to find matters so easy.
 The more extensive the empire, the larger the seraglio; and consequently the more voluptuous the prince. Hence the more nations such a sovereign has to rule, the less he attends to the cares of government; the more important his affairs, the less he makes them the subject of his deliberations.
     </sub_section>
-    
 </section>
     
 <section>BOOK III.
@@ -129,7 +116,7 @@ Now, laws ought to be no less relative to the principle, than to the nature, of 
     <sub_section>CHAP. II.
     <subsection_name>Of The Principle Of Different Governments.</subsection_name>
         
-I have already observed, that it is the nature of a republican government, that either the collective body of the people or particular families should be possessed of the supreme power: of a monarchy, that the prince should have this power, but, in the execution of it, should be directed by established laws: of a despotic government, that a single person should rule according to his own will and caprice. This enables me to discover their three principles, which are naturally derived from thence. I shall begin with a republican government, and in particular with that of democracy.
+I have already observed, <consent_of_governed type="representative_government">that it is the nature of a republican government, that either the collective body of the people or particular families should be possessed of the supreme power</consent_of_governed>: of a monarchy, that the prince should have this power, but, in the execution of it, should be directed by established laws: of a despotic government, <executive_body type="presidential_powers">that a single person should rule according to his own will and caprice</executive_body>. This enables me to discover their three principles, which are naturally derived from thence. I shall begin with a republican government, and in particular with that of democracy.
     </sub_section>
     
     <sub_section>CHAP. III.
@@ -157,25 +144,6 @@ Now, such a body as this can restrain itself only two ways; either by a very emi
 Moderation is, therefore, the very soul of this government; a moderation, I mean, founded on virtue, not that which proceeds from indolence and pusillanimity.
     </sub_section>
   
-    <sub_section>CHAP. VIII.
-    <subsection_name>That Honour Is Not The Principle Of Despotic Government.</subsection_name>
-    
-HONOUR is far from being the principle of despotic government: mankind being here all upon a level, no one person can prefer himself to another; and as, on the other hand, they are all slaves, they can give themselves no sort of preference.
-Besides, as honour has its laws and rules; as it knows not how to submit; as it depends, in a great measure, on a man’s own caprice, and not on that of another person; it can be found only in countries in which the constitution is fixed, and where they are governed by settled laws.
-How can despotism bear with honour? This glories in the contempt of life, and that is founded in the power of taking it away. How can honour, on the other hand, bear with despotism? The former has its fixed rules and peculiar caprices, but the latter is directed by no rule, and its own caprices are subversive of all others.
-Honour, therefore, a thing unknown in arbitrary governments, some of which have not even a proper word to express it* , is the prevailing principle in monarchies; here it gives life to the whole body politic, to the laws, and even to the virtues themselves.
-    </sub_section>
-    
-    <sub_section>CHAP. IX.
-    <subsection_name>Of The Principle Of Despotic Government.</subsection_name>
-    
-AS virtue is necessary in a republic, and, in a monarchy, honour, so fear is necessary in a despotic government: with regard to virtue, there is no occasion for it, and honour would be extremely dangerous.
-Here, the immense power of the prince is devolved intirely upon those whom he is pleased to intrust with the administration. Persons, capable of setting a value upon themselves, would be likely to create disturbances. Fear must, therefore, depress their spirits, and extinguish even the least sense of ambition.
-A moderate government may, whenever it pleases, and without the least danger, relax its springs: it supports itself by the laws and by its own internal strength. But, when a despotic prince ceases one single moment to lift up his arm, when he cannot instantly demolish those whom he has intrusted with the first employments† , all is over: for, as fear, the spring of this government, no longer subsists, the people are left without a protector.
-It is probably in this sense the Cadis maintained that the Grand Seignior was not obliged to keep his word or oath, when he limited thereby his authority‡ . It is necessary that the people should be judged by laws, and the great men by the caprice of the prince; that the lives of the lowest subjects should be safe, and the bashaw’s head ever in danger. We cannot mention these monstrous governments without horror. The Sophi of Persia, dethroned, in our days, by Mahomet, the son of Miriveis, saw the constitution subverted, before this revolution, because he had been too sparing of blood* .
-History informs us, that the horrid cruelties of Domitian struck such a terror into the governors, that the people recovered themselves a little under his reign§ . Thus a torrent overflows one side of a country, and, on the other, leaves fields untouched, where the eye is refreshed by the prospect of fine meadows.
-    </sub_section>
-    
     <sub_section>CHAP. X.
     <subsection_name>Difference Of Obedience In Moderate And Despotic Governments.</subsection_name>
     
@@ -193,7 +161,6 @@ Though the manner of obeying be different, in these two kinds of government, the
     
 SUCH are the principles of the three sorts of government: which does not imply, that, in a particular republic, they actually are, but that they ought to be, virtuous: nor does it prove, that, in a particular monarchy, they are actuated by honour; or, in a particular despotic government, by fear; but that they ought to be directed by these principles, otherwise the government is imperfect.
     </sub_section>
-    
 </section>
     
 <section>BOOK IV.
@@ -216,8 +183,7 @@ It is not the young people that degenerate: they are not spoilt till those of ma
 INSTITUTIONS of this kind may be proper in republics, because they have virtue for their principle: but, to excite men to honour, in monarchies, or to imprint fear, in despotic governments, less pains are necessary.
 Besides, they cannot take place but in a small state* , in which there is a possibility of a general education, and of training up the body of the people like a single family. The laws of Minos, of Lycurgus, and of Plato, suppose a particular attention and care which the citizens ought to have over one another’s conduct. But an attention of this kind cannot be expected in the confusion and multitude of affairs in which a large nation is intangled.
 In institutions of this kind, money, as we have above observed, must be banished. But, in great societies, the multiplicity, variety, embarrassment, and importance, of affairs, as well as the facility of purchasing, and the slowness of exchange, require a common measure. In order to extend or support our power, we must be possessed of the means to which, by the unanimous consent of mankind, this power is annexed.
-    </sub_section>
-    
+    </sub_section>  
 </section>
     
 <section>BOOK V.
@@ -243,7 +209,7 @@ The good sense and happiness of individuals depend greatly on the mediocrity of 
     <sub_section>CHAP. IV.
     <subsection_name>In What Manner The Love Of Equality And Frugality Is Inspired.</subsection_name>
 
-THE love of equality and of a frugal œconomy is greatly excited by equality and frugality themselves, in societies, where both these virtues are established by law. In monarchies and despotic governments, no body aims at equality; this does not so much as enter their thoughts; they all aspire to superiority. People of the very lowest condition desire to emerge from their obscurity, only to lord it over their fellow- subjects.
+THE love of equality and of a frugal economy is greatly excited by equality and frugality themselves, in societies, where both these virtues are established by law. In monarchies and despotic governments, no body aims at equality; this does not so much as enter their thoughts; they all aspire to superiority. People of the very lowest condition desire to emerge from their obscurity, only to lord it over their fellow- subjects.
 It is the same with respect to frugality. To love it, we must practise and enjoy it. It is not those who are enervated with pleasure that are fond of a frugal life: were this natural and common, Alcibiades would never have been the admiration of the universe. Neither is it those who envy or admire the luxury of the great: people, that have present to their view none but rich men, or men miserable like themselves, detest their wretched condition, without loving or knowing the real term or point of misery.
 A true maxim it is, therefore, that, in order to love equality and frugality in a republic, these virtues must have been previously established by law.
     </sub_section>
@@ -296,15 +262,6 @@ The Roman laws, which accustomed young people to dependence, established a long 
 This very subordination in a republic might make it necessary for the father to continue in the possession of his children’s fortune during life, as was the custom at Rome. But this is not agreeable to the spirit of monarchy.
     </sub_section>
 
-    <sub_section>CHAP. X.
-    <subsection_name>Of The Expedition Peculiar To The Executive Power In Monarchies.</subsection_name>
-
-GREAT is the advantage which a monarchical government has over a republic. As the state is conducted by a single person, the executive power is thereby enabled to act with greater expedition: but, as this expedition may degenerate into rapidity, the laws should use some contrivance to slacken it: they ought not only to favour the nature of each constitution, but likewise to remedy the abuses that might result from this very nature.
-Cardinal Richelieu§ advises monarchs to permit no such things as societies or communities that raise difficulties upon every trifle. If this man’s heart had not been bewitched with the love of despotic power, still these arbitrary notions would have filled his head.
-The bodies, intrusted with the depositum of the laws, are never more obedient than when they proceed slowly, and use that reflection in the prince’s affairs which can scarcely be expected from the ignorance of a court, or from the precipitation of its councils¶ .
-What would have become of the finest monarchy in the world, if the magistrates, by their delays, their complaints, and entreaties, had not checked the rapidity even of their princes virtues, when these monarchs, consulting only the generous impulse of their minds, would fain have given a boundless reward to services performed with an unlimited courage and fidelity?
-    </sub_section>
-    
     <sub_section>CHAP. XIV.
     <subsection_name>In What Manner The Laws Are Relative To The Principles Of Despotic Government.</subsection_name>
 
@@ -351,15 +308,7 @@ In this kind of government, authority must ever be wavering; nor is that of the 
 Again, as the law is only the prince’s will, and as the prince can only will what he knows, the consequence is, that there are an infinite number of people who must will for him, and make their wills keep pace with his.
 In fine, as the law is the momentary will of the prince, it is necessary that those who will for him should follow his subitaneous manner of willing.
     </sub_section>
-    
-    <sub_section>CHAP. XVIII.
-    <subsection_name>Of Rewards Conferred By The Sovereign.</subsection_name>
-
-IN despotic governments, where, as we have already observed, the principal motive of action is the hope of the conveniences of life, the prince who confers rewards has nothing to bestow but money. In monarchies, where honour alone predominates, the prince’s rewards would consist only of marks of distinction, if the distinctions established by honour were not attended with luxury, which necessarily brings on its wants: the prince, therefore, is obliged to confer such honours as lead to wealth. But, in a republic, where virtue reigns, (a motive self-sufficient, and which excludes all others,) the recompences of the state consist only of public attestations of this virtue.
-It is a general rule, that great rewards, in monarchies and republics, are a sign of their decline, because they are a proof of their principles being corrupted, and that the idea of honour has no longer the same force in monarchy, nor the title of citizen the same weight in a republic.
-The very worst Roman emperors were those who were most profuse in their largesses; for example, Caligula, Claudius, Nero, Otho, Vitellius, Commodus, Heliogabalus, and Caracalla. The best, as Augustus, Vespasian, Antoninus Pius, Marcus Aurelius, and Pertinax, were œconomists. Under good emperors the state resumed its principles; all other treasures were supplied by that of honour.
-    </sub_section>
-    
+     
     <sub_section>CHAP. XIX.
     <subsection_name>New Consequences Of The Principles Of The Three Governments.</subsection_name>
 
@@ -383,7 +332,6 @@ In monarchies there should be no censors: the former are founded on honour, and 
 Here the censors would be spoilt by the very people whom they ought to correct: they could not prevail against the corruption of a monarchy; the corruption rather would be too strong against them.
 Hence it is obvious, that there ought to be no censors in despotic governments. The example of China seems to derogate from this rule: but we shall see, in the course of this work, the particular reasons of that institution.
     </sub_section>
-    
 </section>
     
 <section>BOOK VI.
@@ -543,7 +491,6 @@ OUR ancestors, the Germans, admitted of none but pecuniary punishments. Those fr
 THE use of the law of retaliation† is very frequent in despotic countries, where they are fond of simple laws. Moderate governments admit of it sometimes; but with this difference, that the former exercise it in full rigour, whereas, among the latter, it ever receives some kind of limitation.
 The law of the twelve tables admitted two; first, it never condemned to retaliation but when the plaintiff could not be satisfied in any other manner‡ : secondly, after condemnation they might pay damages and interest? , and then the corporal was changed into a pecuniary punishment§ .
     </sub_section>
-    
 </section>
     
 <section>BOOK XI.
@@ -558,7 +505,8 @@ I make a distinction between the laws that establish political liberty, as it re
     <sub_section>CHAP. II.
     <subsection_name>Different Significations Of The Word, Liberty.</subsection_name>
 
-THERE is no word that admits of more various significations, and has made more different impressions on the human mind, than that of liberty. Some have taken it for a facility of deposing a person on whom they had conferred a tyrannical authority: others, for the power of choosing a superior whom they are obliged to obey; others, for the right of bearing arms, and of being thereby enabled to use violence: others, in fine, for the privilege of being governed by a native of their own country, or by their own laws.* A certain nation, for a long time, thought liberty consisted in the privilege of wearing a long beard.? Some have annexed this name to one form of government exclusive of others: those who had a republican taste applied it to this species of polity: those who liked a monarchical state gave it to monarchy.† Thus they have all applied the name of liberty to the government most suitable to their own customs and inclinations; and as, in republics, the people have not so constant and so present a view of the causes of their misery, and as the magistrates seem to act only in conformity to the laws, hence liberty is generally said to reside in republics, and to be banished from monarchies. In fine, as in democracies the people seem to act almost as they please, this sort of government has been deemed the most free, and the power of the people has been confounded with their liberty.
+THERE is no word that admits of more various significations, and has made more different impressions on the human mind, than that of liberty. Some have taken it for a facility of deposing a person on whom they had conferred a tyrannical authority: others, <consent_of_governed type="elections">for the power of choosing a superior whom they are obliged to obey</consent_of_governed>; others, <inherent_rights type="bear_arms">for the right of bearing arms</inherent_rights>, and of being thereby enabled to use violence: others, in fine, <consent_of_governed type="representative_government">for the privilege of being governed by a native of their own country, or by their own laws</consent_of_governed>.* 
+A certain nation, for a long time, thought liberty consisted in the privilege of wearing a long beard.? Some have annexed this name to one form of government exclusive of others: <inherent_rights type="liberty">those who had a republican taste applied it to this species of polity: those who liked a monarchical state gave it to monarchy.† Thus they have all applied the name of liberty to the government most suitable to their own customs and inclinations; and as, in republics, the people have not so constant and so present a view of the causes of their misery, and as the magistrates seem to act only in conformity to the laws, hence liberty is generally said to reside in republics, and to be banished from monarchies. In fine, as in democracies the people seem to act almost as they please, this sort of government has been deemed the most free, and the power of the people has been confounded with their liberty.</inherent_rights>
     </sub_section>
     
     <sub_section>CHAP. III.
@@ -587,7 +535,7 @@ THOUGH all governments have the same general end, which is that of preservation,
     <subsection_name>In What Manner The Distribution Of The Three Powers Began To Change, After The Expulsion Of The Kings.</subsection_name>
 
 THERE were four things that greatly prejudiced the liberty of Rome. The patricians had engrossed to themselves all public employments whatever; an exorbitant power was annexed to the consulate; the people were often insulted; and, in fine, they had scarce any influence at all left in the public suffrages. These four abuses were redressed by the people.
-1st. It was regulated, that the plebeians might aspire to some magistracies; and by degrees they were rendered capable of them all, except that of interrex. 2d. the consulate was dissolved into several other magistracies‡ : prætors were created, on whom the power was conferred of trying private causes; quæstors* were nominated for determining those of a criminal nature, ædiles were established for the civil administration; treasurers? were made for the management of the public money; and, in fine, by the creation of censors, the consuls were divested of that part of the legislative power which regulates the morals of the citizens, and the transient polity of the different bodies of the state. The chief privileges left them were, to preside in the great meetings† of the people, to assemble the senate, and to command the armies.
+1st. It was regulated, that the plebeians might aspire to some magistracies; and by degrees they were rendered capable of them all, except that of interrex. 2d. <limits_of_power type="transition_of_power">the consulate was dissolved into several other magistracies‡ : prætors were created, on whom the power was conferred of trying private causes; quæstors* were nominated for determining those of a criminal nature, ædiles were established for the civil administration; treasurers? were made for the management of the public money; and, in fine, by the creation of censors, the consuls were divested of that part of the legislative power which regulates the morals of the citizens,</limits_of_power> and the transient polity of the different bodies of the state. The chief privileges left them were, to preside in the great meetings† of the people, to assemble the senate, and to command the armies.
 3d. The sacred laws appointed tribunes, who had a power of checking the encroachments of the patricians, and prevented not only private, but likewise public, injuries. In fine, the plebeians increased their influence in the general assemblies. The people of Rome were divided in three different manners; by centuries, by curiæ, and by tribes; and, whenever they gave their votes, they were convened one of those three ways.
 In the first, the patricians, the leading men, the rich, and the senate, which was very near the same thing, had almost the whole authority; in the second they had less, and less still in the third.
 The division into centuries was a division rather of estates and fortunes than of persons. The whole people were distributed into a hundred and ninety-three centuries‡ , which had each a single vote. The patricians and leading men composed the first ninety-eight centuries; and the other ninety-five consisted of the remainder of the citizens. In this division, therefore, the patricians were masters of the suffrages.
@@ -616,32 +564,6 @@ So great was the share the senate took in the executive power, that, as Polybius
 The consuls levied the troops which they were to carry into the field; had the command of the forces by sea and land; disposed of the forces of the allies; were invested with the whole power of the republic in the provinces; gave peace to the vanquished nations, imposed conditions on them, or referred them to the senate.
 In the earliest times, when the people had some share in the affairs relating to war or peace, they exercised rather their legislative than their executive power. They scarce did any thing else but confirm the acts of the kings, and, after their expulsion, those of the consuls or senate. So far were they from being the arbiters of war, that we have instances of its having been often declared, notwithstanding the opposition of the tribunes. But, growing wanton in their prosperity, they increased their executive power. Thus they* created the military tribunes, the nomination of whom, till then, had belonged to the generals; and, some time before the first Punic war, they decreed, that only their own body should have the right† of declaring war.
     </sub_section>
-    
-    <sub_section>CHAP. XVIII.
-    <subsection_name>Of The Judiciary Power In The Roman Government.</subsection_name>
-
-THE judiciary power was given to the people, to the senate, to the magistrates, and to particular judges. We must see in what manner it was distributed, beginning with their civil affairs. The consuls had‡ the judiciary power after the expulsion of the kings, as the prætors were judges after the consuls. Servius Tullus had divested himself of the power of determining of civil causes, which was not resumed by the consuls, except in some very rare? cases, for that reason called extraordinary§ . They were satisfied with naming the judges and establishing the several tribunals. By a discourse of Appius Claudius, in Dionysius¶ Halicarnasseus, it appears, that, so early as the 259th year of Rome, this was looked upon as a settled custom among the Romans; and it is not tracing it very high to refer it to Servius Tullus.
-Every year, the prætor made a list† of such as he chose for the office of judges during his magistracy. A sufficient number was pitched upon for each cause; a custom very near the same as that now practised in England. And what was extremely favourable to liberty* was, the prætor’s fixing the judges with the? consent of the parties. The great number of exceptions, that can be made in England, amounts pretty near to this very custom.
-The judges decided only the questions* relating to matter of fact: for example, whether a sum of money had been paid or not; whether an act had been committed or not. But, as to questions of† law, as these required a certain capacity, they were always carried before the tribunal of the centumvirs§ .
-The kings reserved to themselves the judgement of criminal affairs, and in this were succeeded by the consuls. It was in consequence of this authority that Brutus put his children, and all those who were concerned in the Tarquinian conspiracy, to death. This was an exorbitant power. The consuls, already invested with the military command, extended the exercise of it even to civil affairs; and their procedures, being stripped of all forms of justice, were rather exertions of violence than legal judgements.
-This gave rise to the Valerian law, by which it was made lawful to appeal to the people from every decision of the consuls that endangered the life of a citizen. The consuls had no longer a power of pronouncing sentence in capital cases against a Roman citizen, without the consent of the people¶ .
-We see, in the first conspiracy for the restoration of the Tarquins, that the criminals were tried by Brutus the consul; in the second, the senate and comitia were assembled to try them‡ . The laws, distinguished by the name of sacred, allowed the plebeians the privilege of choosing tribunes; from whence was formed a body, whose pretensions at first were immense. It is hard to determine which was greater, the insolence of the plebeians in demanding, or the condescension of the senate in granting. The Valerian law allowed of appeals to the people; that is, to the people composed of senators, patricians, and plebeians. The plebeians made a law that appeals should be brought before their own body. A question was soon after started, whether the plebeians had a right to try a patrician: this was the subject of a dispute to which the impeachment of Coriolanus gave rise, and which ended with that affair. When Coriolanus was accused by the tribunes before the people, he insisted, contrary to the spirit of the Valerian law, that, as he was a patrician, none but the consuls had a power to try him: on the other hand, the plebeians also, contrary to the spirit of that same law, pretended, that none but their body were empowered to be his judges, and accordingly they pronounced sentence upon him.
-This was moderated by the law of the twelve tables; whereby it was ordained, that none but the great assemblies of the people† should try a citizen in capital cases. Hence the body of the plebeians, or (which amounts to the very same) the comitia by tribes, had no longer any power of hearing criminal causes, except such as were punished with fines. To inflict a capital punishment, a law was requisite; but, to condemn to a pecuniary mulct, there was occasion only for a plebiscitum.
-This regulation of the law of the twelve tables was extremely prudent. It produced an admirable balance between the body of the plebeians and the senate: for, as the full judiciary power of both depended on the greatness of the punishment and the nature of the crime, it was necessary they should both agree.
-The Valerian law abolished all the remains of the Roman government any way relative to that of the kings of the heroic times of Greece. The consuls were divested of the power to punish crimes. Though all crimes are public, yet we must distinguish between those which more nearly concern the mutual intercourse of citizens, and those which more immediately interest the state in the relation it bears to its subjects. The first are called private; the second, public. The latter were tried by the people; and, in regard to the former, they named, by particular commission, a quæstor for the prosecution of each crime. The person chosen by the people was frequently one of the magistrates, sometimes a private man. He was called the quæstor of parricide, and is mentioned in the law of the twelve tables.‡
-The quæstor nominated the judge of the question, who drew lots for the judges, and regulated the tribunal, in which he presided.? Here it is proper to observe what share the senate had in the nomination of the quæstor, that we may see how far the two powers were balanced. Sometimes the senate caused a dictator to be chosen, in order to exercise the office of quæstor§ ; at other times they ordained that the people should be convened by a tribune, with a view of proceeding to the nomination of a quæstor¶ : and, in fine, the people frequently appointed a magistrate to make his report to the senate concerning a
-particular crime, and to desire them to name a quæstor, as may be seen in the judgement upon Lucius Scipio* in Livy.† In the year of Rome 604, some of these commissions were rendered permanent.‡ All criminal causes were gradually divided into different parts; to which they gave the name of perpetual questions. Different prætors were created, to each of whom some of those questions were assigned. They had a power, conferred upon them for the term of a year, of trying such criminal causes as were any way relative to those questions, and then they were sent to govern their province.
-At Carthage the senate of the hundred was composed of judges who enjoyed that dignity for life? : But, at Rome, the prætors were annual; and the judges were not even for so long a term, but were nominated for each cause. We have already shewn, in the sixth chapter of this book, how favourable this regulation was to liberty in particular governments.
-The judges were chosen from the order of senators, till the time of the Gracchi. Tiberius Gracchus caused a law to pass, that they should be taken from the equestrian order; a change so very considerable, that the tribune boasted of having cut, by one rogation only, the sinews of the senatorian dignity.
-It is necessary to observe, that the three powers may be very well distributed in regard to the liberty of the constitution, though not so well in respect to the liberty of the subject. At Rome the people had the greatest share of the legislative, a part of the executive, and part of the judiciary, power; by which means they had so great a weight in the government, as required some other power to balance it. The senate, indeed, had part of the executive power, and some share of the legislative§ ; but this was not sufficient to counterbalance the weight of the people. It was necessary that they should partake of the judiciary power; and accordingly they had a share when the judges were chosen from among the senators. But, when the Gracchi deprived the senators of the judicial power¶ , the senate were no longer able to withstand the people. To favour, therefore, the liberty of the subject, they struck at that of the constitution: but the former perished with the latter.
-Infinite were the mischiefs that from thence arose. The constitution was changed at a time when the fire of civil discord had scarce left any such thing as a constitution. The knights ceased to be that middle order which united the people to the senate; and the chain of the constitution was broke.
-There were even particular reasons against transferring the judiciary power to the equestrian order. The constitution of Rome was founded on this principle, that none should be inlisted as soldiers but such as were men of sufficient property to answer for their conduct to the republic. The knights, as persons of the greatest property, formed the cavalry of the legions. But, when their dignity increased, they refused to serve any longer in that capacity, and another kind of cavalry was obliged to be raised. Thus Marius inlisted all sorts of people into his army, and soon after the republic was lost.*
-Besides, the knights were the farmers of the revenue; men whose great rapaciousness increased the public calamities. Instead of giving to such as those the judicial power, they ought to have been constantly under the eye of the judges. This we must say in commendation of the ancient French laws, that they have acted towards the officers of the revenue with as great a diffidence as would be observed between enemies. When the judiciary power at Rome was transferred to the publicans, there was then an end of all virtue, polity, laws, and government.
-Of this we find a very ingenuous description in some fragments of Diodorus Siculus and Dio. “Mutius Scevola (says Diodorus† ) wanted to revive the ancient manners and the laudable custom of sober and frugal living; for his predecessors, having entered into a contract with the farmers of the revenue, who at that time were possessed of the judiciary power at Rome, had infected the province with all manner of corruption. But Scevola made an example of the publicans, and imprisoned those by whom others had been confined.”
-Dio informs us‡ , that Publius Rutilius, his lieutenant, was equally obnoxious to the equestrian order, and that, upon his return, they accused him of having received some presents, and condemned him to a fine; upon which he instantly made a cession of his goods. His innocence appeared in this, that he was found to be worth a great deal less than what he was charged with having extorted, and he shewed a just title to what he possessed: but he would not live any longer in the same city with such profligate wretches.
-? The Italians, says Diodorus again, bought up whole droves of slaves in Sicily, to till their lands, and to take care of their cattle; but refused them a necessary subsistence. These wretches were then forced to go and rob on the highways, armed with lances and clubs, covered with beasts skins, and followed by large mastiffs. Thus the whole province was laid waste, and the inhabitants could not call any thing their own but what was secured by fortresses. There was neither proconsul nor prætor that could or would oppose this disorder, or that presumed to punish these slaves, because they belonged to the knights, who, at Rome, were possessed of the judiciary power§ . And yet this was one of the causes of the war of the slaves. But I shall add only one word more. A profession, deaf and inexorable, that can have no other view than lucre, that was always asking and never granting, that impoverished the rich and increased even the misery of the poor; such a profession, I say, should never have been intrusted with the judiciary power at Rome.
-    </sub_section>
-    
 </section>
     
 <section>BOOK XII.
@@ -731,8 +653,6 @@ It is useful that some particular notions should be established in those governm
 It is proper there should be some sacred book to serve for a rule; as the Koran among the Arabs, the books of Zoroaster among the Persians, the Vedam among the Indians, and the Classic Books among the Chinese. The religious code supplies the civil, and fixes the extent of arbitrary sway.
 It is not at all amiss that, in dubious cases, the judges should consult the ministers of religion† : thus, in Turkey, the Cadis consult the Mollachs. <judicial_body type="set_precedence">But, if it is a capital crime, it may be proper for the particular judge, if such there be, to take the governor’s advice, to the end that the civil and ecclesiastic power may be tempered also by the political authority.</judicial_body>
     </sub_section>
-      
 </section>
-    
 </body>
 </content>
