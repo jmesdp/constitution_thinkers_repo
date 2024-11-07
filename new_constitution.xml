@@ -8,16 +8,16 @@
     
 <body>
     
-<section number="0">
+<section number="Preamble">
     <section_name type="preamble" id="CONST">Preamble to the Constitution</section_name>
     <sub_section number="1">
-        <subsection_name type="section"></subsection_name>
+        <subsection_name type="section">Beginning</subsection_name>
 <inherent_rights type="pursuit_of_happiness">We the people of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence,
 promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</inherent_rights>
     </sub_section>
 </section>
     
-<section number="one">
+<section number="One">
     <section_name type="article" id="CONST">Article ONE</section_name>
     
     <sub_section number="1">
@@ -119,7 +119,7 @@ Agreement or Compact with another State, or with a foreign Power, or engage in W
     </sub_section>
 </section>
 
-<section number="2">
+<section number="Two">
     <section_name type="article" id="CONST">Article TWO</section_name>
 
     <sub_section number="1">
@@ -169,7 +169,7 @@ think proper; he shall receive Ambassadors and other public Ministers; he shall 
     </sub_section>
 </section>
 
-<section number="three">
+<section number="Three">
     <section_name type="article" id="CONST">Article THREE</section_name>
 
     <sub_section number="1">
@@ -196,7 +196,7 @@ but no Attainder of Treason shall work Corruption of Blood, or Forfeiture except
     </sub_section>
 </section>
 
-<section number="four">
+<section number="Four">
     <section_name type="article" id="CONST">Article FOUR</section_name>
 
     <sub_section number="1">
@@ -223,7 +223,7 @@ and Regulations respecting the Territory or other Property belonging to the Unit
     </sub_section>
 </section>
 
-<section number="five">
+<section number="Five">
     <section_name type="article" id="CONST">Article FIVE</section_name>
 <legislative_body type="amendment_process">The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of
 the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents
@@ -232,7 +232,7 @@ thereof, as the one or the other Mode of Ratification may be proposed by the Con
 Year one thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the ninth Section of the first Article</legislative_body>; and that <consent_of_governed type="state_rights">no State, without its Consent, shall be deprived of it's equal Suffrage in the Senate.</consent_of_governed>
 </section>
 
-<section number="six">
+<section number="Six">
     <section_name type="article" id="CONST">Article SIX</section_name>
 All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.
 <legal_documents type="constitution">This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme
@@ -241,7 +241,7 @@ The Senators and Representatives before mentioned, and the Members of the severa
 both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but <inherent_rights type="religion">no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States</inherent_rights>
 </section>
 
-<section number="seven">
+<section number="Seven">
     <section_name type="article" id="CONST">Article SEVEN</section_name>
 <legal_documents type="constitution">The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.</legal_documents>
 Done in Convention by the Unanimous Consent of the States present the Seventeenth Day of September in the Year of our Lord one thousand seven hundred and eighty seven and of the Independence of the United States of America the TwelfthIn Witness whereof We have

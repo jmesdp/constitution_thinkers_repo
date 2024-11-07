@@ -21,7 +21,11 @@
                 <h2 style="text-align:center;">Table of Contents</h2>
                 <hr/>
                     <ul>
-                        <xsl:apply-templates select="//section" mode="toc"/>
+                        <xsl:apply-templates select="//section" mode="toc">
+                            <xsl:sort>
+                                <xsl:value-of select="translate('','''', @number)"/>
+                            </xsl:sort>
+                        </xsl:apply-templates>
                     </ul>
                     <hr/>
                 <xsl:apply-templates select="//section"/>
@@ -32,13 +36,24 @@
     
     <xsl:template match="//section" mode="toc">
         <li>
-            <strong>
+            
+            <h2>
                 <a href="#{@number}">
-                    <!-- figure out linking -->
-                    <xsl:value-of select="section_name"/>
+                    <xsl:value-of select="@number"/>
+                    <xsl:text>:</xsl:text>
                 </a>
-            </strong>
+            </h2>
         </li>
+       
+                <xsl:for-each select="sub_section">
+                    <li>
+                        <i>
+                            <a href="#{@number}">
+                                <xsl:value-of select="subsection_name"/>
+                            </a>
+                        </i>
+                    </li>
+                </xsl:for-each>
     </xsl:template>
     <!-- table of contents, but have to link it -->
     
@@ -54,7 +69,7 @@
     <xsl:template match="//section">
         <div class="section">
             <hr/>
-            <h2 style="text-align:center;">
+            <h2 id="{@number}" style="text-align:center;">
                     <xsl:value-of select="section_name[@type='article' or @type='amendment' or @type='preamble']"/>
                 </h2>
                 <p>
