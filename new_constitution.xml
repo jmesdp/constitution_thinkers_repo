@@ -440,15 +440,17 @@ Passed by Congress December 18, 1917. Ratified January 16, 1919. Repealed by the
         </sub_section>
         <sub_section number="3">
             <subsection_name type="section">Section 3</subsection_name> 
-        This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
+        <consent_of_governed type="state_rights">This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.</consent_of_governed>
         </sub_section>
 </section>
+    <!--Consent of governed-->
 
 <section number="19">
     <section_name type="amendment" id="CONST_Amendments">Amendment XIX</section_name>
-Passed by Congress June 4, 1919. Ratified August 18, 1920. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex. Congress shall have power to enforce this article by appropriate legislation.
+Passed by Congress June 4, 1919. Ratified August 18, 1920. <consent_of_governed type="eligibility_guidelines">The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.</consent_of_governed> <legislative_body type="uphold_laws">Congress shall have power to enforce this article by appropriate legislation.</legislative_body>
 </section>
- 
+<!-- Inherent rights, legistlatvie body --> 
+    
 <section number="20">
     <section_name type="amendment" id="CONST_Amendments">Amendment XX</section_name>
 Passed by Congress March 2, 1932. Ratified January 23, 1933. (Note: Article I, sub_section 4 of the Constitution was modified by sub_section 2 of this Amendment. In addition, a portion of the 12th Amendment was superseded by sub_section 3.) 
@@ -463,15 +465,15 @@ Passed by Congress March 2, 1932. Ratified January 23, 1933. (Note: Article I, s
         </sub_section>
         <sub_section number="3">
             <subsection_name type="section">Section 3</subsection_name> 
-        If, at the time fixed for the beginning of the term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the time fixed
+        <limits_of_power type="transition_of_power">If, at the time fixed for the beginning of the term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the time fixed
         for the beginning of his term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President
         shall have qualified; and the Congress may by law provide for the case wherein neither a President elect nor a Vice President shall have qualified, declaring who
-        shall then act as President, or the manner in which one who is to act shall be selected, and such person shall act accordingly until a President or Vice President shall have qualified.
+        shall then act as President, or the manner in which one who is to act shall be selected, and such person shall act accordingly until a President or Vice President shall have qualified.</limits_of_power>
         </sub_section> 
         <sub_section number="4">
             <subsection_name type="section">Section 4</subsection_name> 
-        The Congress may by law provide for the case of the death of any of the persons from whom the House of Representatives may choose a President whenever the right of choice shall have devolved upon them, and
-        for the case of the death of any of the persons from whom the Senate may choose a Vice President whenever the right of choice shall have devolved upon them.
+        <limits_of_power type="transition_of_power">The Congress may by law provide for the case of the death of any of the persons from whom the House of Representatives may choose a President whenever the right of choice shall have devolved upon them, and
+        for the case of the death of any of the persons from whom the Senate may choose a Vice President whenever the right of choice shall have devolved upon them.</limits_of_power>
         </sub_section>
         <sub_section number="5">
             <subsection_name type="section">Section 5</subsection_name>
@@ -479,16 +481,17 @@ Passed by Congress March 2, 1932. Ratified January 23, 1933. (Note: Article I, s
         </sub_section>
         <sub_section number="6">
             <subsection_name type="section">Section 6</subsection_name> 
-        This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission.
+        <consent_of_governed type="state_rights">This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission.</consent_of_governed>
         </sub_section>
 </section>
+    <!-- Limits of power, consent of governed -->
  
 <section number="21">
     <section_name type="amendment" id="CONST_Amendments">Amendment XXI</section_name>
 Passed by Congress February 20, 1933. Ratified December 5, 933.
         <sub_section number="1">
             <subsection_name type="section">Section 1</subsection_name> 
-        The eighteenth article of amendment to the Constitution of the United States is hereby repealed.
+        <purposes_of_law type="repeal_previous_law">The eighteenth article of amendment to the Constitution of the United States is hereby repealed.</purposes_of_law>
         </sub_section> 
         <sub_section number="2">
             <subsection_name type="section">Section 2</subsection_name> 
@@ -500,6 +503,7 @@ Passed by Congress February 20, 1933. Ratified December 5, 933.
         as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
         </sub_section>
 </section>
+    <!-- Purposes of law -->
  
 <section number="22">
     <section_name type="amendment" id="CONST_Amendments">Amendment XXII</section_name>
@@ -513,24 +517,26 @@ Passed by Congress March 21, 1947. Ratified February 27, 951.
         </sub_section>
         <sub_section number="2">
             <subsection_name type="section">Section 2</subsection_name>
-        This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission to the States by the Congress.
+        <consent_of_governed type="state_rights">This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission to the States by the Congress.</consent_of_governed>
         </sub_section>
 </section>
+    <!-- Limits of power, consent of governed -->
  
 <section number="23">
     <section_name type="amendment" id="CONST_Amendments">Amendment XXIII</section_name>
 Passed by Congress June 16, 1960. Ratified March 29, 1961. 
         <sub_section number="1">
             <subsection_name type="section">Section 1</subsection_name>
-        The District constituting the seat of Government of the United States shall appoint in such manner as Congress may direct: A number of electors of President and Vice President equal to the whole number of
+        <consent_of_governed type="representative_government">The District constituting the seat of Government of the United States shall appoint in such manner as Congress may direct: A number of electors of President and Vice President equal to the whole number of
         Senators and Representatives in Congress to which the District would be entitled if it were a State, but in no event more than the least populous State; they shall be
-        in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment.
+        in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment.</consent_of_governed>
         </sub_section>
         <sub_section number="2">
             <subsection_name type="section">Section 2</subsection_name>
-        The Congress shall have power to enforce this article by appropriate legislation.
-        </sub_section>
+        <legislative_body type="uphold_laws">The Congress shall have power to enforce this article by appropriate legislation.
+        </legislative_body></sub_section>
 </section>
+    <!-- Legislative body, consent of governed -->
 
 <section number="24">
     <section_name type="amendment" id="CONST_Amendments">Amendment XXIV</section_name>
@@ -541,9 +547,10 @@ Passed by Congress August 27, 1962. Ratified January 23, 1964.
         </sub_section> 
         <sub_section number="2">
             <subsection_name type="section">Section 2</subsection_name> 
-        The Congress shall have power to enforce this article by appropriate legislation.
+        <legislative_body type="uphold_laws">The Congress shall have power to enforce this article by appropriate legislation.</legislative_body>
         </sub_section>
 </section>
+    <!-- legislative body, inherent rights -->
  
 <section number="25">
     <section_name type="amendment" id="CONST_Amendments">Amendment XXV</section_name>
@@ -563,17 +570,18 @@ Passed by Congress July 6, 1965. Ratified February 10, 1967. (Note: Article II, 
         </sub_section>
         <sub_section number="4">
             <subsection_name type="section">Section 4</subsection_name> 
-        Whenever the Vice President and a majority of either the principal officers of the executive departments or of such other body as Congress may by law provide, transmit to the President pro tempore of the Senate and the
+        <limits_of_power type="transition_of_power">Whenever the Vice President and a majority of either the principal officers of the executive departments or of such other body as Congress may by law provide, transmit to the President pro tempore of the Senate and the
         Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office, the Vice President shall
         immediately assume the powers and duties of the office as Acting President. Thereafter, when the President transmits to the President pro tempore of the Senate
         and the Speaker of the House of Representatives his written declaration that no inability exists, he shall resume the powers and duties of his office unless the
-        Vice President and a majority of either the principal officers of the executive department or of such other body as Congress may by law provide, transmit within
+        Vice President and a majority of either the principal officers of the executive department</limits_of_power> <limits_of_power type="checks_and_balances">or of such other body as Congress may by law provide, transmit within
         four days to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge
         the powers and duties of his office. Thereupon Congress shall decide the issue, assembling within forty-eight hours for that purpose if not in session. If the
         Congress, within twenty-one days after receipt of the latter written declaration, or, if Congress is not in session, within twenty-one days after Congress is required
-        to assemble, determines by two-thirds vote of both Houses that the President is unable to discharge the powers and duties of his office, the Vice President shall continue to discharge the same as Acting President; otherwise, the President shall resume the powers and duties of his office.
+        to assemble, determines by two-thirds vote of both Houses that the President is unable to discharge the powers and duties of his office, the Vice President shall continue to discharge the same as Acting President; otherwise, the President shall resume the powers and duties of his office.</limits_of_power>
         </sub_section>
 </section>
+    <!-- Limits of power, executive body -->
  
 <section number="26">
     <section_name type="amendment" id="CONST_Amendments">Amendment XXVI</section_name>
@@ -584,14 +592,16 @@ Passed by Congress March 23, 1971. Ratified July 1, 1971. (Note: Amendment 14, s
         </sub_section>
         <sub_section number="2">
             <subsection_name type="section">Section 2</subsection_name> 
-        The Congress shall have power to enforce this article by appropriate legislation.
+        <legislative_body type="uphold_laws">The Congress shall have power to enforce this article by appropriate legislation.</legislative_body>
         </sub_section>
 </section>
+    <!-- consent of governed, legislative body -->
 
 <section number="27">
     <section_name type="amendment" id="CONST_Amendments">Amendment XXVII</section_name> 
 Originally proposed Sept. 25, 1789. Ratified May 7, 1992. <limits_of_power type="protection_of_the_individual">No law, varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of representatives shall have intervened.</limits_of_power> 
 </section>  
+    <!-- limits_of_power -->
     
 </body>
 </content>
