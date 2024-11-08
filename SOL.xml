@@ -11,11 +11,11 @@
     
 <body> Spirt of Laws
     
-<section>BOOK I.    
-<section_name>OF LAWS IN GENERAL.</section_name> 
+<section>    
+    <section_name number="Book_1">BOOK I. OF LAWS IN GENERAL.</section_name> 
     
-    <sub_section>CHAP. I.
-    <subsection_name>Of The Relation Of Laws To Different Beings.</subsection_name>
+    <sub_section>
+        <subsection_name number="1.1">CHAP. I. Of The Relation Of Laws To Different Beings.</subsection_name>
 
 <inherent_rights type="liberty">LAWS, in their most general signification, are the necessary relations arising from the nature of things</inherent_rights>. In this sense, all beings have their laws; the Deity his* laws, the material world its laws, the intelligence superior to man their laws, the beasts their laws, man his laws.
 They who assert, that a blind fatality produced the various effects we behold in this world, talk very absurdly; for can any thing be more unreasonable than to pretend that a blind fatality could be productive of intelligent beings?
@@ -33,8 +33,8 @@ Man, as a physical being, is, like other bodies, governed by invariable laws. As
     </sub_section>
     <!-- Intro to work, basically saying that human laws should be based off reason and natural laws, and that laws are necessary to everyhing in existence -->
     
-    <sub_section>CHAP. II.
-    <subsection_name>Of The Laws Of Nature.</subsection_name>
+    <sub_section>
+        <subsection_name number="1.2">CHAP. II. Of The Laws Of Nature.</subsection_name>
         
 ANTECEDENT to the above-mentioned laws are those of nature; so called because they derive their force entirely from our frame and existence. In order to have a perfect knowledge of these laws, we must consider man before the establishment of society; the laws received in such a state would be those of nature.
 The law, which, impressing on our minds the idea of a Creator, inclines us toward him, is the first in importance, though not in order, of natural laws. Man, in a state of nature, would have the faculty of knowing before he had acquired any knowledge. Plain it is that his first ideas would not be of a speculative nature: he would think of the preservation of his being before he would investigate its original. Such a man would feel nothing in himself, at first, but impotency and weakness: his fears and apprehensions would be excessive; as appears from instances (were there any necessity of proving it) of savages found in forests* trembling at the motion of a leaf, and flying from every shadow.
@@ -49,11 +49,11 @@ Beside the sense or instinct which man possesses in common with brutes, he has t
     <!-- 4 primary natural laws: desire for peace, drive for nourishment, inclination for reproduction, and desire for connection -->    
 </section>
     
-<section>BOOK II.
-<section_name>OF LAWS DIRECTLY DERIVED FROM THE NATURE OF GOVERNMENT.</section_name>
+<section>
+    <section_name number="Book_2">BOOK II. OF LAWS DIRECTLY DERIVED FROM THE NATURE OF GOVERNMENT.</section_name>
 
-    <sub_section>CHAP. II.
-    <subsection_name>Of The Republican Government, And The Laws Relative To Democracy.</subsection_name>
+    <sub_section>
+        <subsection_name number="2.2">CHAP. II. Of The Republican Government, And The Laws Relative To Democracy.</subsection_name>
     
 <inherent_rights type="liberty">WHEN the body of the people is possessed of the supreme power, this is called a democracy</inherent_rights>. When the supreme power is lodged in the hands of a part of the people, it is then an aristocracy.
 <consent_of_governed type="popular_sovereignty">In a democracy the people are in some respects the sovereign, and in others the subject.</consent_of_governed> There can be no exercise of sovereignty but by their suffrages, which are their own will: now, the sovereign’s will is the sovereign himself. <consent_of_governed type="elections">The laws, therefore, which establish the right of suffrage, are fundamental to this government. And indeed it is as important to regulate, in a republic, in what manner, by whom, to whom, and concerning what, suffrages are to be given, as it is</consent_of_governed>, in a monarchy, to know who is the prince, and after what manner he ought to govern.
@@ -78,8 +78,8 @@ Intriguing in a senate is dangerous: dangerous it is also in a body of nobles; b
 becomes their predominant passion. Unconcerned about the government and every thing belonging to it, they quietly wait for their hire. It is likewise a fundamental law, in democracies, that the people should have the sole power to enact laws. And yet there are a thousand occasions on which it is necessary the senate should have a power of decreeing: nay, it is frequently proper to make some trial of a law before it is established. The constitutions of Rome and Athens were excellent. The decrees of the senate‡ had the force of laws for the space of a year, but did not become perpetual till they were ratified by the consent of the people.
     </sub_section>
     
-    <sub_section>CHAP. III.
-    <subsection_name>Of The Laws Relative To The Nature Of Aristocracy.</subsection_name>
+    <sub_section>
+        <subsection_name number="2.3">CHAP. III. Of The Laws Relative To The Nature Of Aristocracy.</subsection_name>
 
 <consent_of_governed type="representative_government">IN an aristocracy the supreme power is lodged in the hands of a certain number of persons.</consent_of_governed> These are invested both with the legislative and executive authority; and the rest of the people are, in respect to them, the same as the subjects of a monarchy in regard to the sovereign.
 They do not vote here by lot; for this would be productive of inconveniencies only. And indeed, in a government where the most mortifying distinctions are already established, though they were to be chosen by lot, still they would not cease to be odious: it is the nobleman they envy, and not the magistrate.
@@ -95,8 +95,8 @@ Aristocratical families ought, therefore, as much as possible, to level themselv
 But the most imperfect of all is that in which the part of the people that obeys is in a state of civil servitude to those who command; as the aristocracy of Poland, where the peasants are slaves to the nobility.
     </sub_section>
   
-    <sub_section>CHAP. V.
-    <subsection_name>Of The Laws Relative To The Nature Of A Despotic Government.</subsection_name>
+    <sub_section>
+        <subsection_name number="2.5">CHAP. V. Of The Laws Relative To The Nature Of A Despotic Government.</subsection_name>
 
 <executive_body type="presidential_powers">FROM the nature of despotic power it follows, that the single person, invested with this power, commits the execution of it also to a single person.</executive_body> A man, whom his senses continually inform that he himself is every thing, and his subjects nothing, is naturally lazy, voluptuous, and ignorant. In consequence of this, he neglects the management of public affairs. But, were he to commit the administration to many, there would be continual disputes among them; each would form intrigues to be his first slave, and he would be obliged to take the reins into his own hands. It is, therefore, more natural for him to resign it to a vizir,* and to invest him with the same power as himself. The creation of a vizir is a fundamental law of this government.
 It is related of a pope, that he had started an infinite number of difficulties against his election, from a thorough conviction of his incapacity. At length he was prevailed on to accept of the pontificate, and resigned the administration entirely to his nephew. He was soon struck with surprize, and said, “I should never have thought that these things were so easy.” The same may be said of the princes of the East, who, being educated in a prison, where eunuchs corrupt their hearts and debase their understandings, and where they are frequently kept ignorant of their high rank, when drawn forth in order to be placed on the throne, they are at first confounded; but, as soon as they have chosen a vizir, and abandoned themselves in their seraglio to the most brutal passions, pursuing, in the midst of a prostituted court, every capricious extravagance, they could never have dreamt to find matters so easy.
@@ -104,23 +104,24 @@ The more extensive the empire, the larger the seraglio; and consequently the mor
     </sub_section>
 </section>
     
-<section>BOOK III.
-<section_name>OF THE PRINCIPLES OF THE THREE KINDS OF GOVERNMENT.</section_name>
+<section>
+    <section_name number="Book_3">BOOK III. OF THE PRINCIPLES OF THE THREE KINDS OF GOVERNMENT.</section_name>
     
-    <sub_section>CHAP. I.
-    <subsection_name>Difference Between The Nature And Principle Of Government.</subsection_name>
+    <sub_section>
+        <subsection_name number="3.1">CHAP. I. Difference Between The Nature And Principle Of Government.</subsection_name>
+
 AFTER having examined the laws relative to the nature of each government, we must investigate those which relate to its principle. There is this difference between* the nature and principle of government, that the former is that by which it is constituted, and the latter that by which it is made to act. One is its particular structure, and the other the human passions which set it in motion.
 <purposes_of_law type="democracy">Now, laws ought to be no less relative to the principle, than to the nature, of each government.</purposes_of_law> We must therefore enquire into this principle, which shall be the subject of this third book.
     </sub_section>
     
-    <sub_section>CHAP. II.
-    <subsection_name>Of The Principle Of Different Governments.</subsection_name>
+    <sub_section>
+        <subsection_name number="3.2">CHAP. II. Of The Principle Of Different Governments.</subsection_name>
         
 I have already observed, <consent_of_governed type="representative_government">that it is the nature of a republican government, that either the collective body of the people or particular families should be possessed of the supreme power</consent_of_governed>: of a monarchy, that the prince should have this power, but, in the execution of it, should be directed by established laws: of a despotic government, <executive_body type="presidential_powers">that a single person should rule according to his own will and caprice</executive_body>. This enables me to discover their three principles, which are naturally derived from thence. I shall begin with a republican government, and in particular with that of democracy.
     </sub_section>
     
-    <sub_section>CHAP. III.
-    <subsection_name>Of The Principle Of Democracy.</subsection_name>
+    <sub_section>
+        <subsection_name number="3.3">CHAP. III. Of The Principle Of Democracy.</subsection_name>
     
 <purposes_of_law type="democracy">THERE is no great share of probity necessary to support a monarchical or despotic government: the force of laws, in one, and the prince’s arm, in the other, are sufficient to direct and maintain the whole: but, in a popular state, one spring more is necessary, namely, virtue.
 What I have here advanced is confirmed by the unanimous testimony of historians, and is extremely agreeable to the nature of things. For, it is clear, that, in a monarchy, where he, who commands the execution of the laws, generally thinks himself above them, there is less need of virtue than in a popular government, where the person, entrusted with the execution of the laws, is sensible of his being subject to their direction.
@@ -135,11 +136,11 @@ How was it possible for Carthage to maintain her ground? When Hannibal, upon his
     </sub_section>
 </section>
     
-<section>BOOK IV.
-<section_name>THAT THE LAWS OF EDUCATION OUGHT TO BE RELATIVE TO THE PRINCIPLES OF GOVERNMENT.</section_name>
+<section>
+    <section_name number="Book_4">BOOK IV. THAT THE LAWS OF EDUCATION OUGHT TO BE RELATIVE TO THE PRINCIPLES OF GOVERNMENT.</section_name>
 
-    <sub_section>CHAP. V.
-    <subsection_name>Of Education In A Republican Government.</subsection_name>
+    <sub_section>
+        <subsection_name number="4.5">CHAP. V. Of Education In A Republican Government.</subsection_name>
         
 <purposes_of_law type="democracy">IT is in a republican government that the whole power of education is required. The fear of despotic governments naturally rises of itself amidst threats and punishments: the honour of monarchies is favoured by the passions, and favours them in its turn: but virtue is a self-renunciation, which is ever arduous and painful.
 This virtue may be defined the love of the laws and of our country. As such love requires a constant preference of public to private interest, it is the source of all private virtues; for they are nothing more than this very preference itself.
@@ -150,18 +151,18 @@ It is not the young people that degenerate: they are not spoilt till those of ma
     </sub_section>
 </section>
     
-<section>BOOK V.
-<section_name>THAT THE LAWS, GIVEN BY THE LEGISLATOR, OUGHT TO BE RELATIVE TO THE PRINCIPLE OF GOVERNMENT.</section_name>
+<section>
+    <section_name number="Book_5">BOOK V. THAT THE LAWS, GIVEN BY THE LEGISLATOR, OUGHT TO BE RELATIVE TO THE PRINCIPLE OF GOVERNMENT.</section_name>
 
-    <sub_section>CHAP. II.
-    <subsection_name>What Is Meant By Virtue In A Political State.</subsection_name>
+    <sub_section>
+        <subsection_name number="5.2">CHAP. II. What Is Meant By Virtue In A Political State.</subsection_name>
         
 <inherent_rights type="liberty">VIRTUE in a republic is a most simple thing; it is a love of the republic; it is a sensation, and not a consequence of acquired knowledge; a sensation that may be felt by the meanest as well as by the highest person in the state. When the common people adopt good maxims, they adhere to them steadier than those we call gentlemen. It is very rare that corruption commences with the former: nay, they frequently derive from their imperfect light a stronger attachment to the established laws and customs.
 The love of our country is conducive to a purity of morals, and the latter is again conducive to the former. The less we are able to satisfy our private passions, the more we abandon ourselves to those of a general nature. How comes it that monks are so fond of their order? It is owing to the very cause that renders the order insupportable. Their rule debars them of all those things by which the ordinary passions are fed; there remains, therefore, only this passion for the very rule that torments them: the more austere it is, that is, the more it curbs their inclinations, the more force it gives to the only passion left them.</inherent_rights>
     </sub_section>
     
-    <sub_section>CHAP. III.
-    <subsection_name>What Is Meant By A Love Of The Republic, In A Democracy.</subsection_name>
+    <sub_section>
+        <subsection_name number="5.3">CHAP. III. What Is Meant By A Love Of The Republic, In A Democracy.</subsection_name>
 
 <purposes_of_law type="democracy">A love of the republic, in a democracy, is a love of the democracy; as the latter is that of equality. A love of the democracy is, likewise, that of frugality. Since every individual ought here to enjoy the same happiness and the same advantages, they should, consequently, taste the same pleasures and form the same hopes; which cannot be expected but from a general frugality.
 The love of equality, in a democracy, limits ambition to the sole desire, to the sole happiness, of doing greater services to our country than the rest of our fellow-citizens. They cannot all render her equal services, but they all ought to serve her with equal alacrity. At our coming into the world, we contract an immense debt to our country, which we can never discharge.</purposes_of_law>
@@ -170,16 +171,16 @@ Thus well-regulated democracies, by establishing domestic frugality, made way, a
 The good sense and happiness of individuals depend greatly on the mediocrity of their abilities and fortunes. Therefore, as a republic, where the laws have placed many in a middling station, is composed of wise men, it will be wisely governed; as it is composed of happy men, it will be extremely happy.
     </sub_section>
     
-    <sub_section>CHAP. IV.
-    <subsection_name>In What Manner The Love Of Equality And Frugality Is Inspired.</subsection_name>
+    <sub_section>
+        <subsection_name number="5.4">CHAP. IV. In What Manner The Love Of Equality And Frugality Is Inspired.</subsection_name>
 
 <inherent_rights type="equality">THE love of equality and of a frugal economy is greatly excited by equality and frugality themselves, in societies, where both these virtues are established by law. In monarchies and despotic governments, no body aims at equality; this does not so much as enter their thoughts; they all aspire to superiority. People of the very lowest condition desire to emerge from their obscurity, only to lord it over their fellow- subjects.
 It is the same with respect to frugality. To love it, we must practise and enjoy it. It is not those who are enervated with pleasure that are fond of a frugal life: were this natural and common, Alcibiades would never have been the admiration of the universe. Neither is it those who envy or admire the luxury of the great: people, that have present to their view none but rich men, or men miserable like themselves, detest their wretched condition, without loving or knowing the real term or point of misery.
 A true maxim it is, therefore, that, in order to love equality and frugality in a republic, these virtues must have been previously established by law.</inherent_rights>
     </sub_section>
     
-    <sub_section>CHAP. V.
-    <subsection_name>In What Manner The Laws Establish Equality In A Democracy.</subsection_name>
+    <sub_section>
+        <subsection_name number="5.5">CHAP. V. In What Manner The Laws Establish Equality In A Democracy.</subsection_name>
 
 SOME ancient legislators, as Lycurgus and Romulus, made an equal division of lands. A settlement of this kind can never take place but upon the foundation of a new republic, or when the old one is so corrupt, and the minds of the people are so disposed, that the poor think themselves obliged to demand, and the rich obliged to consent to, a remedy of this nature.
 <legislative_body type="uphold_laws">If the legislator, in making a division of this kind, does not enact laws, at the same time, to support it, he forms only a temporary constitution; inequality will break in where the laws have not precluded it, and the republic will be utterly undone.</legislative_body>
@@ -196,8 +197,8 @@ Though real equality be the very soul of a democracy, it is so difficult to esta
 All inequality in democracies ought to be derived from the nature of the government, and even from the principle of equality. For example, it may be apprehended that people, who are obliged to live by their labour, would be too much impoverished by a public employment, or neglect the duties attending it; that artisans would grow insolent; and that too great a number of freemen would overpower the ancient citizens. In this case the equality† in a democracy may be suppressed, for the good of the state. But this is only an apparent equality: for a man ruined by a public employment would be in a worse condition than his fellow-citizens; and this same man, being obliged to neglect his duty, would reduce the rest to a worse condition than himself; and so on.
     </sub_section>
     
-    <sub_section>CHAP. VI.
-    <subsection_name>In What Manner The Laws Ought To Maintain Frugality In A Democracy.</subsection_name>
+    <sub_section>
+        <subsection_name number="5.6">CHAP. VI. In What Manner The Laws Ought To Maintain Frugality In A Democracy.</subsection_name>
 
 <inherent_rights type="property">IT is not sufficient, in a well-regulated democracy, that the divisions of land be equal; they ought also to be small</inherent_rights>, as was customary among the Romans. “God forbid,” said Curius to his soldiers,‡ “that a citizen should look upon that as a small piece of land which is sufficient to maintain him.”
 <inherent_rights type="equality">As equality of fortunes supports frugality, so the latter maintains the former.</inherent_rights> These things, though in themselves different, are of such a nature as to be unable to subsist separately: they reciprocally act upon each other: if one withdraws itself from a democracy, the other surely follows it.
@@ -207,8 +208,8 @@ It is an excellent law, in a trading republic, to make an equal division of the 
 In Greece there were two sorts of republics; the one military, like Sparta; the other commercial, as Athens. In the former, the citizens were obliged to be idle; in the latter, endeavours were used to inspire them with the love of industry and labour. Solon made idleness a crime, and insisted that each citizen should give an account of his manner of getting a livelihood. <purposes_of_law type="democracy">And indeed, in a well-regulated democracy, where people’s expences should extend only to what is necessary, every one ought to have it; for how should their wants be otherwise supplied?</purposes_of_law>
     </sub_section>
     
-    <sub_section>CHAP. VII.
-    <subsection_name>Other Methods Of Favouring The Principle Of Democracy.</subsection_name>
+    <sub_section>
+        <subsection_name number="5.7">CHAP. VII. Other Methods Of Favouring The Principle Of Democracy.</subsection_name>
 
 AN equal division of lands cannot be established in all democracies. There are some circumstances in which a regulation of this nature would be impracticable, dangerous, and even subversive of the constitution. We are not always obliged to proceed to extremes. If it appears that this division of lands, which was designed to preserve the people’s morals, does not suit with the democracy, recourse must be had to other methods.
 If a permanent body be established, to serve as a rule and pattern of manners; a senate, to which years, virtue, gravity, and eminent services, procure admittance; <legislative_body type="uphold_laws">the senators, by being exposed to public view like the statues of the gods, must naturally inspire every family with sentiments of virtue.</legislative_body>
@@ -226,8 +227,8 @@ The Roman laws, which accustomed young people to dependence, established a long 
 This very subordination in a republic might make it necessary for the father to continue in the possession of his children’s fortune during life, as was the custom at Rome. But this is not agreeable to the spirit of monarchy.
     </sub_section>
 
-    <sub_section>CHAP. XIX.
-    <subsection_name>New Consequences Of The Principles Of The Three Governments.</subsection_name>
+    <sub_section>
+        <subsection_name number="5.19">CHAP. XIX. New Consequences Of The Principles Of The Three Governments.</subsection_name>
 
 I cannot conclude this book without making some applications of my three principles.
 Quest. 1. It is a question, whether the laws ought to oblige a subject to accept of a public employment. My opinion is, that they ought in a republic, but not in a monarchical government. In the former, public employments are attestations of virtue, depositums with which a citizen is entrusted by his country, for whose sake alone he ought to live, to act, and to think; consequently, he cannot refuse them¶ . In the latter, public offices are testimonies of honour: now, such is the capriciousness of honour, that it chooses to accept of none of these testimonies but when and in what manner it pleases.
@@ -251,11 +252,11 @@ Hence it is obvious, that there ought to be no censors in despotic governments. 
     </sub_section>
 </section>
     
-<section>BOOK VI.
-<section_name>CONSEQUENCES OF THE PRINCIPLES OF DIFFERENT GOVERNMENTS WITH RESPECT TO THE SIMPLICITY OF CIVIL AND CRIMINAL LAWS, THE FORM OF JUDGEMENTS, AND THE INFLICTING OF PUNISHMENTS.</section_name>
+<section>
+    <section_name number="Book_6">BOOK VI. CONSEQUENCES OF THE PRINCIPLES OF DIFFERENT GOVERNMENTS WITH RESPECT TO THE SIMPLICITY OF CIVIL AND CRIMINAL LAWS, THE FORM OF JUDGEMENTS, AND THE INFLICTING OF PUNISHMENTS.</section_name>
     
-    <sub_section>CHAP. II.
-    <subsection_name>Of The Simplicity Of Criminal Laws In Different Governments.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.2">CHAP. II. Of The Simplicity Of Criminal Laws In Different Governments.</subsection_name>
 
 WE hear it generally said, that justice ought to be administered with us as in Turkey. Is it possible, then, that the most ignorant of all nations should be the most clear-sighted in a point which it most behoves mankind to know?
 <purposes_of_law type="set_criminal_code">If we examine the set forms of justice, with respect to the trouble the subject undergoes, in recovering his property, or in obtaining satisfaction for an injury or affront, we shall find them doubtless too numerous: but, if we consider them in the relation they bear to the liberty and security of every individual, we shall often find them too few, and be convinced that the trouble, expence, delays, and even the very dangers, of our judiciary proceedings, are the price that each subject pays for his liberty.
@@ -267,24 +268,24 @@ In republics, it is plain, that as many formalities, at least, are necessary as 
 <inherent_rights type="equality">In republican governments, men are all equal; equal they are</inherent_rights>, also, in despotic governments: in the former, because they are every thing; in the latter, because they are nothing.
     </sub_section>
     
-    <sub_section>CHAP. III.
-    <subsection_name>In What Governments, And In What Cases, The Judges Ought To Determine According To The Express Letter Of The Law.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.3">CHAP. III. In What Governments, And In What Cases, The Judges Ought To Determine According To The Express Letter Of The Law.</subsection_name>
 
 THE nearer the government approaches towards a republic, the more the manner of judging becomes settled and fixt: hence it was a fault, in the republic of Sparta, for the Ephori to pass such arbitrary judgements, without having any laws to direct them. The first consuls, at Rome, pronounced sentence in the same manner as the Ephori; but the inconveniency of this proceeding was soon felt, and they were obliged to have recourse to express and determinate laws.
 In despotic governments there are no laws; the judge himself is his own rule. There are laws in monarchies; and, where these are explicit, the judge conforms to them; where they are otherwise, he endeavours to investigate their spirit. In republics, the very nature of the constitution requires <judicial_body type="set_precedence">the judges to follow the letter of the law; otherwise, the law might be explained to the prejudice of every citizen, in cases where their honour, property, or life, are concerned.</judicial_body>
 At Rome, the judges had no more to do than to declare that the person accused was guilty of a particular crime, and then the punishment was found in the laws, as may be seen in divers laws still extant. In England, the jury give their verdict, whether the fact, brought under their cognizance, be proved or not; if it be proved, the judge pronounces the punishment inflicted by the law, and for this he needs only to open his eyes.
     </sub_section>
     
-    <sub_section>CHAP. IV.
-    <subsection_name>Of The Manner Of Passing Judgement.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.4">CHAP. IV. Of The Manner Of Passing Judgement.</subsection_name>
 
 <judicial_body type="set_precedence">HENCE arises the different manner of passing judgement. In monarchies the judges choose the method of arbitration: they deliberate together; they communicate their sentiments for the sake of unanimity; they moderate their opinions, in order to render them conformable to those of others; and the lesser number is obliged to give way to the majority. But this is not agreeable to the nature of a republic. At Rome, and in the cities of Greece, the judges never entered into a consultation; each gave his opinion one of these three ways; I absolve; I condemn; it does not appear clear to me* : this was because the people judged, or were supposed to judge. But the people are far from being civilians; all these restrictions and methods of arbitration are above their reach; they must have only one object, and one single fact, set before them; and then they have only to see whether they ought to condemn, to acquit, or to suspend their judgement.
 The Romans introduced fet forms of actions† , after the example of the Greeks, and established a rule, that each cause should be directed by its proper action. This was necessary in their manner of judging; it was necessary to fix the state of the question, that the people might have it always before their eyes: otherwise, in a long process, this state of the question would continually change, and be no longer distinguished.
 Hence it followed, that the Roman judges granted only the simple demand, without making any addition, deduction, or limitation. But the prætors devised other forms of actions, which were called ex bona fide, where the method of pronouncing sentence was left to the disposition of the judge. This was more agreeable to the spirit of monarchy. Hence it is a saying among the French lawyers, that, in France‡ , all actions areex bona fide.</judicial_body>
     </sub_section>
     
-    <sub_section>CHAP. V.
-    <subsection_name>In What Governments The Sovereign May Be Judge.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.5">CHAP. V. In What Governments The Sovereign May Be Judge.</subsection_name>
 
 MACHIAVEL§ attributes the loss of the liberty of Florence to the people’s not judging in a body in cases of high-treason against themselves, as was customary at Rome. For this purpose they had eight judges: but the few, says Machiavel, are corrupted by a few. I should willingly adopt the maxim of this great man: but as, in those cases, the political interest prevails, in some measure, over the civil, (for it is always an inconveniency that the people should be judges in their own cause,) in order to remedy this evil, <limits_of_power type="protection_of_the_individual">the laws must provide as much as possible for the security of individuals.</limits_of_power>
 With this view, the Roman legislators did two things; they gave the persons accused permission to banish themselves? before sentence was pronounced¶ ; and they ordained, that the goods of those who were condemned should be sacred, to prevent their being confiscated to the people. We shall see, in the XIth book, the other limitations that were set to the judicatory power residing in the people.
@@ -301,29 +302,29 @@ Again, sentences passed by the prince would be an inexhaustible source of injust
 <limits_of_power type="checks_and_balances">The laws are the eye of the prince; by them he sees what would otherwise escape his observation. Should he attempt the function of a judge, he would not then labour for himself, but for impostors, whose aim is to deceive him.</limits_of_power>
     </sub_section>
     
-    <sub_section>CHAP. VI.
-    <subsection_name>That, In Monarchies, Ministers Ought Not To Sit As Judges.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.6">CHAP. VI. That, In Monarchies, Ministers Ought Not To Sit As Judges.</subsection_name>
 
 <judicial_body type="set_precedence">IT is, likewise, a very great inconveniency, in monarchies, for the ministers of the prince to sit as judges. We have still instances of states where there is a great number of judges to decide exchequer causes, and where the ministers, nevertheless, (a thing most incredible,) would fain determine them. Many are the reflections that here arise; but this single one will suffice for my purpose.
 </judicial_body>There is, in the very nature of things, a kind of contrast between a prince’s council and his courts of judicature. The king’s council ought to be composed of a few persons, and the courts of judicature of a great many. The reason is, in the former, things should be undertaken and conducted with a kind of warmth and passion, which can hardly be expected but from four or five men who make it their sole business. On the contrary, in courts of judicature, <judicial_body type="set_precedence">a certain coolness is requisite, and an indifference, in some measure, to all manner of affairs.</judicial_body>
     </sub_section>
     
-    <sub_section>CHAP. VII.
-    <subsection_name>Of A Single Magistrate.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.7">CHAP. VII. Of A Single Magistrate.</subsection_name>
 
 <executive_body type="presidential_limits">A magistracy of this kind cannot take place but in a despotic government. We have an instance, in the Roman history, how far a single magistrate may abuse his power</executive_body>. Might it not be very well expected that Appius, on his tribunal, should contemn all laws, after having violated that of his own‡ enacting? Livy has given us the iniquitous distinction of the decemvir. He had suborned a man to reclaim Virginia, in his presence, as his slave: Virginia’s relations insisted, that, by virtue of his own law, she should be consigned to them till the definitive judgement was passed. Upon which, he declared, that his law had been enacted only in favour of the father; and that, as Virginius was absent, no application could be made of it to the present case? .
     </sub_section>
     
-    <sub_section>CHAP. VIII.
-    <subsection_name>Of Accusation In Different Governments.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.8">CHAP. VIII. Of Accusation In Different Governments.</subsection_name>
 
 AT Rome§ it was lawful for one citizen to accuse another: this was agreeable to the spirit of a republic, where each citizen ought to have an unlimited zeal for the public good, and is supposed to hold all the rights of his country in his own hands. Under the emperors the republican maxims were still pursued; and instantly appeared a pernicious tribe, a swarm of informers. Crafty wicked men, who could stoop to any indignity to serve the purposes of their ambition, were sure to busy themselves in the search of criminals whose condemnation might be agreeable to the prince: this was the road to honour and preferment¶ : but luckily we are strangers to it in our country.
 We have at present an admirable law, namely, that by which the prince, who is established for the execution of the laws, <executive_body type="appointment_power">appoints an officer in each court of judicature to prosecute all sorts of crimes in his name</executive_body>: hence the profession of informers is a thing unknown to us; for, if this public avenger were suspected to abuse his office, he would soon be obliged to mention his author.
 By Plato’s laws* , those who neglect to inform or assist the magistrates are liable to punishment. This would not be so proper in our days. <legislative_body type="uphold_laws">The public prosecutor warches for the safety of the citizens; he proceeds in his office while they enjoy their quiet and ease.</legislative_body>
     </sub_section>
     
-    <sub_section>CHAP. IX.
-    <subsection_name>Of The Severity Of Punishments In Different Governments.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.9">CHAP. IX. Of The Severity Of Punishments In Different Governments.</subsection_name>
 
 THE severity of punishments is fitter for despotic governments, whose principle is terror, than for a monarchy or a republic, whose spring is honour and virtue. In moderate governments, the love of one’s country, shame, and the fear of blame, are restraining motives, capable of preventing a multitude of crimes. Here the greatest punishment of a bad action is conviction. The civil laws have, therefore, a softer way of correcting, and do not require so much force and severity.
 In those states, <purposes_of_law type="set_criminal_code">a good legislator is less bent upon punishing, than preventing, crimes; he is more attentive to inspire good morals than to inflict penalties.</purposes_of_law> It is a constant remark of the Chinese authors† , that, the more the penal laws were increased in their empire, the nearer they drew towards a revolution. This is because punishments were augmented in proportion as the public morals were corrupted.
@@ -335,16 +336,16 @@ When, in reading history, we observe the cruelty of the sultans in the administr
 another man, and to oblige him to have no company at home but virgins? In short, whatever the law calls a punishment, is such effectively.
     </sub_section>
     
-    <sub_section>CHAP. XI.
-    <subsection_name>That, When People Are Virtuous, Few Punishments Are Necessary.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.11">CHAP. XI. That, When People Are Virtuous, Few Punishments Are Necessary.</subsection_name>
 
 THE people of Rome had some share of probity. Such was the force of this probity, that the legislator had frequently no farther occasion than to point out the right road, and they were sure to follow it. One would imagine, that, <criminal_justice type="legal_representation">instead of precepts, it was sufficient to give them counsels.</criminal_justice>
 The punishments of the regal laws, and those of the twelve tables, were almost all abolished in the time of the republic, in consequence either of the Valerian§ or of the Porcian law.¶ It was never observed that this step did any manner of prejudice to the civil administration.
 This Valerian law, which restrained the magistrates from using violent methods against a citizen that had appealed to the people, inflicted no other punishment on the person who infringed it than that of being reputed a dishonest man.*
     </sub_section>
     
-    <sub_section>CHAP. XII.
-   <subsection_name>Of The Power Of Punishments.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.12">CHAP. XII. Of The Power Of Punishments.</subsection_name>
 
 EXPERIENCE shews, that, in countries remarkable for the lenity of their laws, the spirit of the inhabitants is as much affected, by slight penalties, as in other countries by severer punishments.
 <criminal_justice type="cruel_and_unusual_punishment">If an inconveniency or abuse arises in the state, a violent government endeavours suddenly to redress it; and, instead of putting the old laws in execution, it establishes some cruel punishment, which instantly puts a stop to the evil.</criminal_justice> But the spring of government hereby loses its elasticity; the imagination grows accustomed to the severe as well as the milder punishment; and, as the fear of the latter diminishes, they are soon obliged, in every case, to have recourse to the former. Robberies on the high- way were grown common in some countries. In order to remedy this evil, they invented the punishment of breaking upon the wheel; the terror of which put a stop, for a while, to this mischievous practice: but, soon after, robberies on the highways became as common as ever.
@@ -358,8 +359,8 @@ in the state, that has sprung from this severity; the minds of the people are co
 There are two sorts of corruption; one when the people do not observe the laws; the other when they are corrupted by the laws: an incurable evil, because it is in the very remedy itself.
     </sub_section>
     
-    <sub_section>CHAP. XVI.
-   <subsection_name>Of The Just Proportion Betwixt Punishments And Crimes.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.16">CHAP. XVI. Of The Just Proportion Betwixt Punishments And Crimes.</subsection_name>
 
 <purposes_of_law type="set_criminal_code">IT is an essential point, that there should be a certain proportion in punishments, because it is essential that a great crime should be avoided rather than a smaller, and that which is more pernicious to society rather than that which is less.</purposes_of_law>
 “An impostor* , who called himself Constantine Ducas, raised a great insurrection at Constantinople. He was taken and condemned to be whipt; but, upon informing against several persons of distinction, he was sentenced to be burnt as a calumniator.” It is very extraordinary that they should thus proportion the punishments betwixt the crime of high-treason and that of calumny.
@@ -371,69 +372,69 @@ Where there is no difference in the penalty, there should be some in the expecta
 Letters of grace are of excellent use in moderate governments. This power which the prince has of pardoning, exercised with prudence, is capable of producing admirable effects. The principle of despotic government, which neither grants nor receives any pardon, deprives it of these advantages.
     </sub_section>
     
-    <sub_section>CHAP. XVII.
-    <subsection_name>Of The Rack.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.17">CHAP. XVII. Of The Rack.</subsection_name>
 
 THE wickedness of mankind makes it necessary for the laws to suppose them better than they really are. <criminal_justice type="due_process">Hence the deposition of two witnesses is sufficient in the punishment of all crimes</criminal_justice>. The law believes them, as if they spoke by the mouth of truth. Thus we judge that every child conceived in wedlock is legitimate; the law having a confidence in the mother, as if she were chastity itself. But the use of the rack against criminals cannot be defended on a like plea of necessity.
 <criminal_justice type="cruel_and_unusual_punishment">We have before us the example of a nation, blessed with an excellent civil government§ , where, without any inconveniency, the practice of racking criminals is rejected. It is not, therefore, in its own nature, necessary¶ .</criminal_justice>
 So many men of learning and genius have written against the custom of torturing criminals, that after them I durst not presume to meddle with the subject. I was going to say, that it might suit despotic states, where whatever inspires fear is the properest spring of government; I was going to say, that the slaves among the Greeks and Romans — But nature cries out aloud, and asserts her rights.
     </sub_section>
     
-    <sub_section>CHAP. XVIII.
-   <subsection_name>Of Pecuniary And Corporal Punishments.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.18">CHAP. XVIII. Of Pecuniary And Corporal Punishments.</subsection_name>
 
 OUR ancestors, the Germans, admitted of none but pecuniary punishments. Those free and warlike people were of opinion, that their blood ought not to be spilt but with sword in hand. On the contrary, these punishments are rejected by the Japanese* , under pretence that the rich might elude them. But are not the rich afraid of being stripped of their property? And might not pecuniary penalties be proportioned to people’s fortunes? And, in fine, might not infamy be added to those punishments?
 <criminal_justice type="due_process">A good legislator takes a just medium; he ordains neither always pecuniary, nor always corporal, punishments.</criminal_justice>
     </sub_section>
     
-    <sub_section>CHAP. XIX.
-   <subsection_name>Of The Law Of Retaliation.</subsection_name>
+    <sub_section>
+        <subsection_name number="6.19">CHAP. XIX. Of The Law Of Retaliation.</subsection_name>
 
 <criminal_justice type="due_process">THE use of the law of retaliation† is very frequent in despotic countries, where they are fond of simple laws.</criminal_justice> Moderate governments admit of it sometimes; but with this difference, that the former exercise it in full rigour, whereas, among the latter, it ever receives some kind of limitation.
 The law of the twelve tables admitted two; first, <purposes_of_law type="set_criminal_code">it never condemned to retaliation but when the plaintiff could not be satisfied in any other manner</purposes_of_law>‡ : secondly, <criminal_justice type="due_process">after condemnation they might pay damages and interest? , and then the corporal was changed into a pecuniary punishment§ .</criminal_justice>
     </sub_section>
 </section>
     
-<section>BOOK XI.
-<section_name>OF THE LAWS WHICH ESTABLISH POLITICAL LIBERTY, WITH REGARD TO THE CONSTITUTION.</section_name>
+<section>
+    <section_name number="Book_11">BOOK XI. OF THE LAWS WHICH ESTABLISH POLITICAL LIBERTY, WITH REGARD TO THE CONSTITUTION.</section_name>
     
-    <sub_section>CHAP. I.
-   <subsection_name>A General Idea.</subsection_name>
+    <sub_section>
+        <subsection_name number="11.1">CHAP. I. A General Idea.</subsection_name>
 
 <inherent_rights type="liberty">I make a distinction between the laws that establish political liberty, as it relates to the constitution, and those by which it is established, as it relates to the citizen.</inherent_rights> The former shall be the subject of this book; the latter I shall examine in the next.
     </sub_section>
     
-    <sub_section>CHAP. II.
-    <subsection_name>Different Significations Of The Word, Liberty.</subsection_name>
+    <sub_section>
+        <subsection_name number="11.2">CHAP. II. Different Significations Of The Word, Liberty.</subsection_name>
 
 THERE is no word that admits of more various significations, and has made more different impressions on the human mind, than that of liberty. Some have taken it for a facility of deposing a person on whom they had conferred a tyrannical authority: others, <consent_of_governed type="elections">for the power of choosing a superior whom they are obliged to obey</consent_of_governed>; others, <inherent_rights type="bear_arms">for the right of bearing arms</inherent_rights>, and of being thereby enabled to use violence: others, in fine, <consent_of_governed type="representative_government">for the privilege of being governed by a native of their own country, or by their own laws</consent_of_governed>.* 
 A certain nation, for a long time, thought liberty consisted in the privilege of wearing a long beard.? Some have annexed this name to one form of government exclusive of others: <inherent_rights type="liberty">those who had a republican taste applied it to this species of polity: those who liked a monarchical state gave it to monarchy.† Thus they have all applied the name of liberty to the government most suitable to their own customs and inclinations; and as, in republics, the people have not so constant and so present a view of the causes of their misery, and as the magistrates seem to act only in conformity to the laws, hence liberty is generally said to reside in republics, and to be banished from monarchies. In fine, as in democracies the people seem to act almost as they please, this sort of government has been deemed the most free, and the power of the people has been confounded with their liberty.</inherent_rights>
     </sub_section>
     
-    <sub_section>CHAP. III.
-   <subsection_name>In What Liberty Consists.</subsection_name>
+    <sub_section>
+        <subsection_name number="11.3">CHAP. III. In What Liberty Consists.</subsection_name>
 
 IT is true that, in democracies, the people seem to act as they please; but political liberty does not consist in an unlimited freedom. In governments, that is, in societies directed by laws, <inherent_rights type="free_will">liberty can consist only in the power of doing what we ought to will, and in not being constrained to do what we ought not to will.</inherent_rights>
 We must have continually present to our minds the difference between independence and liberty. <inherent_rights type="liberty">Liberty is a right of doing whatever the laws permit</inherent_rights>; and, if a citizen could do what they forbid, he would be no longer possessed of liberty, because all his fellow-citizens would have the same power.
     </sub_section>
     
-    <sub_section>CHAP. IV.
-   <subsection_name>The Same Subject Continued.</subsection_name>
+    <sub_section>
+        <subsection_name number="11.4">CHAP. IV. The Same Subject Continued.</subsection_name>
 
 DEMOCRATIC and aristocratic states are not in their own nature free. <inherent_rights type="liberty">Political liberty is to be found only in moderate governments; and even in these it is not always found.</inherent_rights> It is there only when there is no abuse of power: but constant experience shews us that every man invested with power is apt to abuse it, and to carry his authority as far as it will go. Is it not strange, though true, to say, that virtue itself has need of limits?
 <limits_of_power type="checks_and_balances">To prevent this abuse, it is necessary, from the very nature of things, power should be a check to power</limits_of_power>. A government may be so constituted, as no man shall be compelled to do things to which the law does not oblige him, nor forced to abstain from things which the law permits.
     </sub_section>
     
-    <sub_section>CHAP. V.
-   <subsection_name>Of The End Or View Of Different Governments.</subsection_name>
+    <sub_section>
+        <subsection_name number="11.5">CHAP. V. Of The End Or View Of Different Governments.</subsection_name>
 
 THOUGH all governments have the same general end, which is that of preservation, yet each has another particular object. Increase of dominion was the object of Rome; war, that of Sparta; religion, that of the Jewish laws; commerce, that of Marseilles; public tranquillity, that of the laws of China* ; navigation, that of the laws of Rhodes; natural liberty, that of the policy of the savages; in general, the pleasures of the prince, that of despotic states; that of monarchies, the prince’s and the kingdom’s glory: the independence of individuals is the end aimed at by the laws of Poland; from thence results the oppression of the whole.†
 <inherent_rights type="liberty">One nation there is also in the world, that has, for the direct end of its constitution, political liberty</inherent_rights>. We shall presently examine the principles on which this liberty is founded: if they are sound, liberty will appear in its highest perfection.
 <inherent_rights type="liberty">To discover political liberty in a constitution, no great labour is requisite.</inherent_rights> If we are capable of seeing it where it exists, it is soon found, and we need not go far in search of it.
     </sub_section>
   
-    <sub_section>CHAP. XIV.
-    <subsection_name>In What Manner The Distribution Of The Three Powers Began To Change, After The Expulsion Of The Kings.</subsection_name>
+    <sub_section>
+        <subsection_name number="11.14">CHAP. XIV. In What Manner The Distribution Of The Three Powers Began To Change, After The Expulsion Of The Kings.</subsection_name>
 
 THERE were four things that greatly prejudiced the liberty of Rome. The patricians had engrossed to themselves all public employments whatever; an exorbitant power was annexed to the consulate; the people were often insulted; and, in fine, they had scarce any influence at all left in the public suffrages. These four abuses were redressed by the people.
 1st. It was regulated, that the plebeians might aspire to some magistracies; and by degrees they were rendered capable of them all, except that of interrex. 2d. <limits_of_power type="transition_of_power">the consulate was dissolved into several other magistracies‡ : prætors were created, on whom the power was conferred of trying private causes; quæstors* were nominated for determining those of a criminal nature, ædiles were established for the civil administration; treasurers? were made for the management of the public money; and, in fine, by the creation of censors, the consuls were divested of that part of the legislative power which regulates the morals of the citizens,</limits_of_power> and the transient polity of the different bodies of the state. The chief privileges left them were, to preside in the great meetings† of the people, to assemble the senate, and to command the armies.
@@ -446,8 +447,8 @@ Now, the people endeavoured constantly to have those meetings by curiæ which ha
 Thus, when the plebeians obtained the power of trying the patricians, a power which commenced in the affair of Coriolanus¶ , they insisted upon assembling by tribes* , and not by centuries: and, when the new magistracies† of tribunes and ædiles were established in favour of the people, the latter obtained that they should meet by curiæ, in order to nominate them; and, after their power was quite settled, they gained‡ so far their point as to assemble by tribes, to proceed to this nomination.
     </sub_section>
     
-    <sub_section>CHAP. XVI.
-    <subsection_name></subsection_name>Of The Legislative Power In The Roman Republic.
+    <sub_section>
+        <subsection_name number="11.16">CHAP. XVI. Of The Legislative Power In The Roman Republic.</subsection_name>
 
 <legislative_body type="propose_laws">THERE were no rights to contest under the decemvirs; but, upon the restoration of liberty, jealousies revived; and, so long as the patricians had any privileges left, they were sure to be stripped of them by the plebeians.
 The mischief would not have been so great had the plebeians been satisfied with this success; but they also injured the patricians as citizens. When the people assembled by curiæ, or centuries, they were composed of senators, patricians, and plebeians. In their disputes the plebeians gained this point,? that they alone, without patricians or senate, should enact the laws called plebiscita; and the assemblies, in which they were made, had the name of comitia by tribes.</legislative_body> Thus there were cases in which the patricians* had no share in the legislative power, but† were subject to the legislation of another body of the state. This was the extravagance of liberty. <purposes_of_law type="democracy">The people, to establish a democracy, acted against the very principles of that government</purposes_of_law>. One would have imagined that so exorbitant a power must have destroyed the authority of the senate. But Rome had admirable institutions. Two of these were especially remarkable; one by which the legislative power of the people was established, and the other by which it was limited.
@@ -455,8 +456,8 @@ The censors, and, before them, the consuls,‡ modelled and created, as it were,
 On the other hand, the senate had the power of rescuing, as it were, the republic out of the hands of the people, by creating a dictator, before whom the sovereign bowed his head, and the most popular laws were silent.§
     </sub_section>
     
-    <sub_section>CHAP. XVII.
-    <subsection_name>Of The Executive Power In The Same Republic.</subsection_name>
+    <sub_section>
+        <subsection_name number="11.17">CHAP. XVII. Of The Executive Power In The Same Republic.</subsection_name>
 
 <executive_body type="presidential_powers">JEALOUS as the people were of their legislative power, yet they had no great uneasiness about the executive. This they left almost intirely to the senate and to the consuls, reserving scarce any thing more to themselves than the right of choosing the magistrates, and of confirming the acts of the senate and of the generals.
 </executive_body>Rome, whose passion was to command, whose ambition was to conquer, whose commencement and progress were one continued usurpation, had constantly affairs of the greatest weight upon her hands; her enemies were ever conspiring against her, or she against her enemies.
@@ -467,11 +468,11 @@ In the earliest times, when the people had some share in the affairs relating to
     </sub_section>
 </section>
     
-<section>BOOK XII.
-<section_name>OF THE LAWS THAT FORM POLITICAL LIBERTY, AS RELATIVE TO THE SUBJECT.</section_name>
+<section>
+    <section_name number="Book_12">BOOK XII. OF THE LAWS THAT FORM POLITICAL LIBERTY, AS RELATIVE TO THE SUBJECT.</section_name>
     
-    <sub_section>CHAP. I.
-    <subsection_name>Idea Of This Book.</subsection_name>
+    <sub_section>
+        <subsection_name number="12.1">CHAP. I. Idea Of This Book.</subsection_name>
 
 IT is not sufficient to have treated of political liberty as relative to the constitution; we must examine it likewise in the relation it bears to the subject. We have observed, that, in the former case, it arises from a certain distribution of the three powers; but, in the latter, we must consider it in another light. It consists in security, or in the opinion people have of their security.
 <legal_documents type="constitution">The constitution may happen to be free, and the subject not</legal_documents>. The subject may be free, and not the constitution. In those cases the constitution will be free by right, and not in fact; the subject will be free in fact, and not by right.
@@ -479,8 +480,8 @@ It is the disposition only of the laws, and even of the fundamental laws, that c
 Farther; as, in most states, <limits_of_power type="checks_and_balances">liberty is more checked or depressed than their constitution requires, it is proper to treat of the particular laws that, in each constitution, are apt to assist or check the principle of liberty, which each state is capable of receiving.</limits_of_power>
     </sub_section>
     
-    <sub_section>CHAP. II.
-    <subsection_name>Of The Liberty Of The Subject.</subsection_name>
+    <sub_section>
+        <subsection_name number="12.2">CHAP. II. Of The Liberty Of The Subject.</subsection_name>
 
 <inherent_rights type="free_will">PHILOSOPHICAL liberty consists in the free exercise of the will; or, at least, if we must speak agreeably to all systems, in an opinion that we have the free exercise of our will</inherent_rights>. Political liberty consists in security; or, at least, in the opinion that we enjoy security.
 This security is never more dangerously attacked than in public or private accusations. <criminal_justice type="due_process">It is therefore on the goodness of criminal laws that the liberty of the subject principally depends.</criminal_justice>
@@ -489,8 +490,8 @@ The knowledge already acquired in some countries, or that may be hereafter attai
 Liberty can be founded on the practice of this knowledge only; and, supposing a state to have the best laws imaginable in this respect, a person tried under that state, and condemned to be hanged the next day, would have much more liberty than a bashaw enjoys in Turkey.
     </sub_section>
 
-    <sub_section>CHAP. IV.
-    <subsection_name>That Liberty Is Favoured By The Nature And Proportion Of Punishments.</subsection_name>
+    <sub_section>
+        <subsection_name number="12.4">CHAP. IV. That Liberty Is Favoured By The Nature And Proportion Of Punishments.</subsection_name>
 
 <inherent_rights type="liberty">LIBERTY is in its highest perfection when criminal laws derive each punishment from the particular nature of the crime</inherent_rights>. There are then no arbitrary decisions; the punishment does not flow from the capriciousness of the legislator, but from the very nature of the thing; and man uses no violence to man.
 There are four sorts of crimes. Those of the first species are prejudicial to religion; the second, to morals; <inherent_rights type="pursuit_of_happiness">the third, to the public tranquility</inherent_rights>; and <inherent_rights type="individual_protection">the fourth, to the security of the subject</inherent_rights>. <purposes_of_law type="set_criminal_code">The punishments inflicted for these crimes ought to proceed from the nature of each of these species.</purposes_of_law>
@@ -508,8 +509,8 @@ All that I have here advanced is founded in nature, and extremely favourable to 
     </sub_section>
     <!-- setting criminal codes -->
     
-    <sub_section>CHAP. XII.
-    <subsection_name>Of Indiscreet Speeches.</subsection_name>
+    <sub_section>
+        <subsection_name number="12.12">CHAP. XII. Of Indiscreet Speeches.</subsection_name>
 
 NOTHING renders the crime of high-treason more arbitrary than declaring people guilty of it for indiscreet speeches. <inherent_rights type="freedom_of_speech">Speech is so subject to interpretation; there is so great a difference between indiscretion and malice; and frequently so little is there of the latter in the freedom of expression, that the law can hardly subject people to a capital punishment for words, unless it expressly declares what words they are* </inherent_rights> .
 Words do not constitute an overt act; they remain only in idea. When considered by themselves, they have generally no determinate signification; for this depends on the tone in which they are uttered. It often happens that, in repeating the same words, they have not the same meaning: this depends on their connection with other things; and sometimes more is signified by silence than by any expression whatever. Since there can be nothing so equivocal and ambiguous as all this, how is it possible to convert it into a crime of high-treason? Wherever this law is established, there is an end, not only of liberty, but even of its very shadow.
@@ -521,8 +522,8 @@ that we may be able to judge of words by persons, and that we may duly consider 
     </sub_section>
     <!-- freedom of speech -->
     
-    <sub_section>CHAP. XIII.
-    <subsection_name>Of Writings.</subsection_name>
+    <sub_section>
+        <subsection_name number="12.13">CHAP. XIII. Of Writings.</subsection_name>
 
 IN writings there is something more permanent than in words; but, when they are no way preparative to high-treason, they cannot amount to that charge. And yet Augustus and Tiberius subjected satyrical writers to the same punishment as for having violated the law of majesty; Augustus? , because of some libels that had been written against persons of the first quality; Tiberius, because of those which he suspected to have been written against himself. Nothing was more fatal to Roman liberty. Cremutius Cordus was accused of having called Cassius, in his annals, the last of the Romans¶ .
 Satyrical writings are hardly known in despotic governments, where dejection of mind on the one hand, and ignorance on the other, afford neither abilities, nor will, to write. <inherent_rights type="freedom_of_the_press">In democracies they are not hindered, for the very same reason which causes them to be prohibited in monarchies: being generally levelled against men of power and authority, they flatter the malignancy of the people, who are the governing party</inherent_rights>. In monarchies they are forbidden; but rather as a subject of civil animadversion, than as a capital crime. They may amuse the general malevolence, please the malcontents, diminish the envy against public employments, give the people patience to suffer, and make them laugh at their sufferings.
@@ -530,8 +531,8 @@ But no government is so averse to satyrical writings as the aristocratical. Ther
     </sub_section>
     <!-- freedom of the press -->
     
-    <sub_section>CHAP. XIV.
-    <subsection_name>Breach Of Modesty In Punishing Crimes.</subsection_name>
+    <sub_section>
+        <subsection_name number="12.14">CHAP. XIV. Breach Of Modesty In Punishing Crimes.</subsection_name>
 
 THERE are rules of modesty observed by almost every nation in the world: now, it would be very absurd to infringe these rules in the punishment of crimes, <purposes_of_law type="set_criminal_code">the principal view of which ought always to be the establishment of order.</purposes_of_law>
 Was it the intent of those oriental nations who exposed women to elephants trained up for an abominable kind of punishment, was it, I say, their intent to establish one law by the breach of another?
@@ -539,15 +540,15 @@ By an ancient custom of the Romans it was not permitted to put girls to death ti
 When the magistrates of Japan caused women to be exposed naked in the market- places, and obliged them to go upon all four like beasts, modesty was shocked‡ : but, when they wanted to compel a mother --- when they wanted to force a son --- I cannot proceed: even nature herself is struck with horror.
     </sub_section>
     
-    <sub_section>CHAP. XX.
-    <subsection_name>Of Laws Favourable To The Liberty Of The Subject In A Republic.</subsection_name>
+    <sub_section>
+        <subsection_name number="12.20">CHAP. XX. Of Laws Favourable To The Liberty Of The Subject In A Republic.</subsection_name>
 
 IN popular governments it often happens that accusations are carried on in public, and every man is allowed to accuse whomsoever he pleases. This rendered it necessary to establish proper laws, <criminal_justice type="legal_representation">in order to protect the innocence of the subject</criminal_justice>. At Athens, if an accuser had not the fifth part of the votes on his side, he was obliged to pay a fine of a thousand drachms. Æschines, who accused Ctesiphon, was condemned to pay this fine§ . At Rome a false accuser was branded with infamy* , by marking the letter K on his forehead. Guards were also appointed to watch the accuser, in order to prevent his corrupting either the judges or the witnesses† .
 I have already taken notice of that Athenian and Roman law, by which the party accused was allowed to withdraw before judgement was pronounced.
     </sub_section>
     
-    <sub_section>CHAP. XXIX.
-    <subsection_name>Of The Civil Laws Proper For Mixing Some Portion Of Liberty In A Despotic Government.</subsection_name>
+    <sub_section>
+        <subsection_name number="12.29">CHAP. XXIX. Of The Civil Laws Proper For Mixing Some Portion Of Liberty In A Despotic Government.</subsection_name>
 
 THOUGH despotic governments are of their own nature every where the same, yet, from circumstances, from a religious opinion, from prejudice, from received examples, from a particular turn of mind, from manners or morals, it is possible they may admit of a considerable difference.
 It is useful that some particular notions should be established in those governments: thus, in China, the prince is considered as the father of his people; and, at the commencement of the empire of the Arabs, the prince was their preacher* .
