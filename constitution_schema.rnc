@@ -6,8 +6,9 @@ title = element title {text}
 author = element author {text}
 table_of_contents = element table_of_contents {(text | section_name | sub_section )*}
  
-body = element body {(text | section)*}
+body = element body {(text | section | preamble)*}
 
+preamble = element preamble {(text | section | section_name | sub_section | subsection_name | consent_of_governed | inherent_rights| criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power )*}
 section = element section {(text | section_name | sub_section | subsection_name | consent_of_governed | inherent_rights| criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power )*}
 section_name = element section_name {attribute number { "Preamble" | "Amendment_1" | "Amendment_2" | "Amendment_3" | "Amendment_4" | "Amendment_5" | "Amendment_6" | "Amendment_7" | "Amendment_8" | "Amendment_9" | "Amendment_10" | "Amendment_11" | "Amendment_12" | "Amendment_13" | "Amendment_14" | "Amendment_15" | "Amendment_16" | "Amendment_17" | "Amendment_18" | "Amendment_19" | "Amendment_20" | "Amendment_21" | "Amendment_22" | "Amendment_23" | "Amendment_24" | "Amendment_25" | "Amendment_26" | "Amendment_27" | "Article_1" | "Article_2" | "Article_3" | "Article_4" | "Article_5" | "Article_6" | "Article_7" }?, ( subsection_name | text )*}
 sub_section = element sub_section {(text| subsection_name | consent_of_governed | inherent_rights | criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power)*}

@@ -8,14 +8,15 @@
 </meta_data>
      
 <body> 
-<section> 
+    
+<preamble> 
     <section_name number="Preamble">Preamble to the Constitution</section_name>
     <sub_section>
         <subsection_name  number="1.0"></subsection_name>
 <inherent_rights type="pursuit_of_happiness">We the people of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence,
 promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</inherent_rights>
     </sub_section>
-</section>
+</preamble>
     
 <section>
     <section_name number="Article_1">Article One</section_name>
