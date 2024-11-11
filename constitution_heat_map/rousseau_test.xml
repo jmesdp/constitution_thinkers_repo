@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="constitution_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="constitution_heat_map/constitution_heat_map_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <content>
 <meta_data>
 <title>THE SOCIAL CONTRACT and DISCOURSES
