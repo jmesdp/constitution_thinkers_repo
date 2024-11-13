@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="constitution_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <body>
+        <!-- repeat layout with each citation -->
+        <section>
+            <section_name>Citation 1 title (ie constitution)</section_name>
+            <sub_section>
+                <subsection_name>actual citation</subsection_name>
+                text about what it's citing if needed (brief summary about ie constitution)
+            </sub_section>
+        </section>
+        <section>
+            <section_name>Citation 1 title (ie DeCive)</section_name>
+            <sub_section>
+                <subsection_name>actual citation</subsection_name>
+                text about what it's citing if needed (brief summary about ie DeCive)
+            </sub_section>
+        </section>
+        <!-- work sited -->
+    </body>
+</content>
