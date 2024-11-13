@@ -68,7 +68,7 @@
     
     <xsl:template match="//meta_data">
         <div class="meta_data">
-            <p style="text-align:center; font-family: Lucida Handwriting, cursive">
+            <p style="text-align:center;">
                 <i>
                     <xsl:value-of select="."/>
                 </i>
