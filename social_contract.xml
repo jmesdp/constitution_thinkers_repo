@@ -113,7 +113,7 @@ this is the most considerable, and, I think, the least unworthy of
 being offered to the public. The rest no longer exists.
 
 <section>
-<section_name>section I</section_name>
+<section_name number="Section_1">section I</section_name>
 
 I mean to inquire if, in the civil order, there can be any sure and legitimate rule of administration, men being taken as they are and laws as they might be. In this inquiry I shall endeavour always to unite
 what right sanctions with what is prescribed by interest, in order that justice and utility may in no case be divided. I enter upon my task without proving the importance of the subject I
@@ -122,14 +122,14 @@ should do it, or hold my peace. As I was born a citizen of a free State, and a m
 and I am happy, when I reflect upon governments, to find my inquiries always furnish me with new reasons for loving that of my own country.
 
 <sub_section>
- <subsection_name>CHAPTER I. SUBJECT OF THE FIRST </subsection_name>
+ <subsection_name number="1.1">CHAPTER I. SUBJECT OF THE FIRST </subsection_name>
 <inherent_rights type="liberty">Man is born free; and everywhere he is in chains.</inherent_rights> One thinks himself the master of others, and still remains a greater slave than they. How
 did this change come about? I do not know. What can make it legitimate? That question I think I can answer. If I took into account only force, and the effects derived from it, I should say: "As long as a people is compelled to obey, and obeys, it
 does well; <inherent_rights type="liberty">as soon as it can shake off the yoke, and shakes it off, it does still better</inherent_rights>; for, regaining its liberty by the same right as took it away, either it is justified in resuming it, or there was
 no justification for those who took it away." But <consent_of_governed type="popular_sovereignty">the social order is a sacred right which is the basis of all other rights.</consent_of_governed> Nevertheless,
 this right does not come from nature, and must therefore be founded on conventions. Before coming to that, I have to prove what I have just asserted. </sub_section>
 <sub_section>
- <subsection_name>CHAPTER II. THE FIRST SOCIETIES</subsection_name>
+ <subsection_name number="1.2">CHAPTER II. THE FIRST SOCIETIES</subsection_name>
 The most ancient of all societies, and the only one that is natural is the family: and even so the children remain attached to the father only so long as they need him for their preservation. As soon as this
 need ceases, the natural bond is dissolved. <inherent_rights type="liberty">The children, released from the obedience they owed to the father, and the father, released from the care he owed his children, return equally to independence.</inherent_rights> If they
 remain united, they continue so no longer naturally, but voluntarily; and the family itself is then maintained only by convention. <consent_of_governed type="popular_sovereignty">This common liberty results from the nature of man.</consent_of_governed> His first law is
@@ -151,7 +151,7 @@ monarch, safe on his throne, had no rebellions, wars, or conspirators to fear.</
 infatuation" (_Essay on the Interests of France in Relation to its Neighbours_, by the Marquis d'Argenson). This is exactly what Grotius has done.
 [2] See a short treatise of Plutarch's entitled "That Animals Reason."</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER III. THE RIGHT OF THE STRONGEST</subsection_name>
+  <subsection_name number="1.3">CHAPTER III. THE RIGHT OF THE STRONGEST</subsection_name>
 The strongest is never strong enough to be always the master, unless he transforms strength into right, and obedience into duty. Hence the right of the strongest, which, though to all seeming meant ironically,
 is really laid down as a fundamental principle. But are we never to have an explanation of this phrase? Force is a physical power, and I fail to see what moral effect it can have. To yield to force is an act
 of necessity, not of will--at the most, an act of prudence. In what sense can it be a duty? Suppose for a moment that this so-called "right" exists. I maintain that the sole result is a mass of inexplicable nonsense. For, if force
@@ -163,7 +163,7 @@ All power comes from God, I admit; but so does all sickness: does that mean that
 compulsion; but, even if I could withhold it, am I in conscience bound to give it up? For certainly the pistol he holds is also a power. <consent_of_governed type="popular_sovereignty">Let us then admit that force does not create right, and that we are
 obliged to obey only legitimate powers</consent_of_governed>. In that case, my original question recurs.</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER IV. SLAVERY</subsection_name>
+  <subsection_name number="1.4">CHAPTER IV. SLAVERY</subsection_name>
  <inherent_rights type="equality">Since no man has a natural authority over his fellow, and force creates no right, we must conclude that conventions form the basis of all legitimate authority among men.</inherent_rights>
 If an individual, says Grotius, can alienate his liberty and make himself the slave of a master, why could not a whole people do the same and make itself subject to a king? There are in this passage plenty
 of ambiguous words which would need explaining; but let us confine ourselves to the word _alienate_. To alienate is to give or to sell. Now, a man who becomes the slave of another does not give himself; he
@@ -209,7 +209,7 @@ his first service under Popilius having been reconstructed, the elder Cato wrote
 first having been annulled, he was no longer able to bear arms against the enemy.The same Cato wrote to his son telling him to take great care not to go into battle before taking this new oath. I know that the
 siege of Clusium and other isolated events can be quoted against me; but I am citing laws and customs. The Romans are the people that least often transgressed its laws; and no other people has had such good ones.</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER V. THAT WE MUST ALWAYS GO BACK TO A FIRST CONVENTION</subsection_name>
+  <subsection_name number="1.5">CHAPTER V. THAT WE MUST ALWAYS GO BACK TO A FIRST CONVENTION</subsection_name>
 Even if I granted all that I have been refuting, the friends of despotism would be no better off. <consent_of_governed type="elections">There will always be a great difference between subduing a multitude and ruling a society.</consent_of_governed> Even if
 scattered individuals were successively enslaved by one man, however numerous they might be, I still see no more than a master and his slaves, and certainly not a people and its ruler; I see what may be
 termed an aggregation, but not an association; there is as yet neither public good nor body politic. <consent_of_governed type="popular_sovereignty">The man in question, even if he has enslaved half the world, is still only an individual; his interest,
@@ -220,7 +220,7 @@ being necessarily prior to the other, is the true foundation of society. <consen
 were unanimous, would be the obligation on the minority to submit to the choice of the majority? How have a hundred men who wish for a master the right to vote on behalf of ten who do not?</consent_of_governed> <consent_of_governed type="elections">The law of
 majority voting is itself something established by convention, and presupposes unanimity, on one occasion at least.</consent_of_governed></sub_section>
  <sub_section>
-  <subsection_name>CHAPTER VI. THE SOCIAL COMPACT</subsection_name>
+  <subsection_name number="1.6">CHAPTER VI. THE SOCIAL COMPACT</subsection_name>
 I suppose men to have reached the point at which the obstacles in the way of their preservation in the state of nature show their power of resistance to be greater than the resources at the disposal of each
 individual for his maintenance in that state. That primitive condition can then subsist no longer; and the human race would perish unless it changed its manner of existence. <consent_of_governed type="popular_sovereignty">But, as men cannot engender new forces, but only unite and direct
 existing ones, they have no other means of preserving themselves than the formation, by aggregation, of a sum of forces great enough to overcome the resistance.</consent_of_governed> These they have to bring into play by means of
@@ -247,7 +247,7 @@ meaning; otherwise they would be guilty in usurping it, of the crime of _lèse-m
 a bad blunder in taking the one class for the other. M. d'Alembert has avoided the error, and, in his article on Geneva, has clearly distinguished the four orders of men (or even five, counting mere
 foreigners) who dwell in our town, of which two only compose the Republic. No other French writer, to my knowledge, has understood the real meaning of the word citizen.</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER VII. THE SOVEREIGN</subsection_name>
+  <subsection_name number="1.7">CHAPTER VII. THE SOVEREIGN</subsection_name>
 This formula shows us that the act of association comprises a mutual undertaking between the public and the individuals, and that <consent_of_governed type="popular_sovereignty">each individual, in making a contract, as we may say, with himself, is bound
 in a double capacity;</consent_of_governed> as a member of the Sovereign he is bound to the individuals, and as a member of the State to the Sovereign. But the maxim of civil right, that no one is bound by undertakings made to
 himself, does not apply in this case; <consent_of_governed type="popular_sovereignty">for there is a great difference between incurring an obligation to yourself and incurring one to a
@@ -272,7 +272,7 @@ to do so by the whole body</consent_of_governed>. <consent_of_governed type="pop
 citizen to his country, secures him against all personal dependence. In this lies the key to the working of the political machine; this alone legitimizes civil undertakings, which, without it, would be absurd,
 tyrannical, and liable to the most frightful abuses.</consent_of_governed></sub_section>
  <sub_section>
-  <subsection_name>CHAPTER VIII. THE CIVIL STATE</subsection_name>
+  <subsection_name number="1.8">CHAPTER VIII. THE CIVIL STATE</subsection_name>
 The passage from the state of nature to the civil state produces a very remarkable change in man, by substituting justice, for instinct in his conduct, and giving his actions the morality they had formerly lacked.
 Then only, when the voice of duty takes the place of physical impulses and right of appetite, does _man_, who so far had considered only himself, find that he is forced to act on different principles, and
 to consult his reason before listening to his inclinations.<consent_of_governed type="popular_sovereignty">Although, in this state, he deprives himself of some advantages which he got from nature, he gains in return others so great, his faculties are
@@ -285,7 +285,7 @@ of force or the right of the first occupier, from property, which can be founded
 civil state, moral liberty, which alone makes him truly master of himself;</inherent_rights> for the mere impulse of appetite is slavery, while obedience to a law which we prescribe to ourselves is liberty. But I have already
 said too much on this head, and the philosophical meaning of the word liberty does not now concern us.</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER IX. REAL PROPERTY</subsection_name>
+  <subsection_name number="1.9">CHAPTER IX. REAL PROPERTY</subsection_name>
 <inherent_rights type="property">Each member of the community gives himself to it, at the moment of its foundation, just as he is, with all the resources at his command, including the goods he possesses.</inherent_rights> <inherent_rights type="property">This act does not make possession, in
 changing hands, change its nature, and becomes property in the hands of the Sovereign; but, as the forces of the city are incomparably greater than those of an individual, public possession is also, in
 fact, stronger and more irrevocable, without being any more legitimate, at any rate from the point of view of foreigners.</inherent_rights> For the State, in relation to its members, is master of all their goods by the social
@@ -314,12 +314,13 @@ all, they enjoy it in common, or share it out among themselves, either equally o
 acquisition be made, the right which each individual has to his own estate is always subordinate to the right which the community has over all: without this, there would be neither stability in the social tie,
 nor real force in the exercise of Sovereignty.</limits_of_power> I shall end this chapter and this section by remarking on a fact on which the whole social system should rest: _i.e._ that, instead of
 destroying natural inequality, <inherent_rights type="equality">the fundamental compact substitutes, for such physical inequality as nature may have set up between men, an equality that is moral and legitimate, and that men, who may be unequal
-in strength or intelligence, become every one equal by convention and legal right.[1]</inherent_rights></sub_section></section>
+in strength or intelligence, become every one equal by convention and legal right.[1]</inherent_rights></sub_section>
+</section>
 
 <section>
- <section_name>section II</section_name>
+ <section_name number="Section_2">section II</section_name>
  <sub_section>
-  <subsection_name>CHAPTER I. THAT SOVEREIGNTY IS INALIENABLE</subsection_name>
+  <subsection_name number="2.1">CHAPTER I. THAT SOVEREIGNTY IS INALIENABLE</subsection_name>
 <consent_of_governed type="popular_sovereignty">The first and most important deduction from the principles we have so far laid down is that the general will alone can direct the State according to the object for which it was instituted, _i.e._ the
 common good:</consent_of_governed> <consent_of_governed type="popular_sovereignty">for if the clashing of particular interests made the establishment of societies necessary, the agreement of these very interests made it possible.</consent_of_governed> The common element in these different
 interests is what forms the social tie; and, were there no point of agreement between them all, no society could exist. It is solely on the basis of this common interest that every society should be governed.
@@ -335,7 +336,7 @@ imply the consent of the people.</consent_of_governed> This will be explained la
 the position he has usurped. <consent_of_governed type="laws_passed">In fact, laws are always of use to those who possess and harmful to those who have nothing: from which it follows that the social state is advantageous to men only when all have
 something and none too much.</consent_of_governed></sub_section>
  <sub_section>
-  <subsection_name>CHAPTER II. THAT SOVEREIGNTY IS INDIVISIBLE</subsection_name>
+  <subsection_name number="2.2">CHAPTER II. THAT SOVEREIGNTY IS INDIVISIBLE</subsection_name>
 Sovereignty, for the same reason as makes it inalienable, is indivisible; <consent_of_governed type="popular_sovereignty">for will either is, or is not, general;[1] it is the will either of the body of the people, or only of a part of it.</consent_of_governed> In
 the first case, the will, when declared, is an act of Sovereignty and constitutes law: in the second, it is merely a particular will, or act of magistracy--at the most a decree. But our political theorists, unable to divide Sovereignty in
 principle, divide it according to its object: into force and will; into <legislative_body type="propose_laws">legislative power</legislative_body> and executive power; into rights of taxation,
@@ -356,7 +357,7 @@ all reserve, to shuffle and to tergiversate, in order to avoid making William ou
 have been always consistent; but it would have been a sad truth for them to tell, and would have paid court for them to no-one save the people. Moreover, truth is no road to fortune, and the people dispenses
 neither ambassadorships, nor professorships, nor pensions. <consent_of_governed type="elections">[1] To be general, a will need not always be unanimous;but every vote--must be counted: any exclusion is a breach of generality.</consent_of_governed></sub_section>
  <sub_section>
-  <subsection_name>CHAPTER III. WHETHER THE GENERAL WILL IS FALLIBLE</subsection_name>
+  <subsection_name number="2.3">CHAPTER III. WHETHER THE GENERAL WILL IS FALLIBLE</subsection_name>
 <consent_of_governed type="elections">It follows from what has gone before that the general will is always right and tends to the public advantage;</consent_of_governed> <consent_of_governed type="elections">but it does not follow that
 the deliberations of the people are always equally correct.</consent_of_governed> Our will is always for our own good, but we do not always see what that is; the people is never corrupted, but it is often deceived, and on such
 occasions only does it seem to will what is bad. There is often a great deal of difference between the will of all and the general will; the latter considers only the common interest, while
@@ -375,7 +376,7 @@ would encounter no obstacle; all would go on of its own accord, and politics wou
 harmful to a Republic and some that are advantageous. Those which stir up sects and parties are harmful; those attended by neither are advantageous. Since, then, the founder of a Republic cannot help
 enmities arising, he ought at least to prevent them from growing into sects" (_History of Florence,_ section vii). Rousseau quotes the Italian.</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER IV THE LIMITS OF THE SOVEREIGN POWER</subsection_name>
+  <subsection_name number="2.4">CHAPTER IV THE LIMITS OF THE SOVEREIGN POWER</subsection_name>
 If the State is a moral person whose life is in the union of its members, and if the most important of its cares is the care for its own preservation, it must have a universal and compelling force, in
 order to move and dispose each part as may be most advantageous to the whole. <consent_of_governed type="popular_sovereignty">As nature gives each man absolute power over all his members,
 the social compact gives the body politic absolute power over all its members also;</consent_of_governed> and it is this power which, under the direction of the general will, bears, as I have said, the name of Sovereignty.
@@ -417,7 +418,7 @@ inevitably have to fight battles at the peril of their lives in defence of that 
 for himself. Do we not gain something by running, on behalf of what gives us our security, only some of the risks we should have to run for ourselves, as soon as we lost it? [1] Attentive readers, do not, I pray, be in a hurry to charge me with
 contradicting myself. The terminology made it unavoidable, considering the poverty of the language; but wait and see.</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER V. THE RIGHT OF LIFE AND DEATH</subsection_name>
+  <subsection_name number="2.5">CHAPTER V. THE RIGHT OF LIFE AND DEATH</subsection_name>
 The question is often asked how individuals, having no right to dispose of their own lives, can transfer to the Sovereign a right which they do not possess. The difficulty of answering this question seems to me
 to lie in its being wrongly stated. Every man has a right to risk his own life in order to preserve it. Has it ever, been said that a man who throws himself out of the window to escape from a fire is guilty
 of suicide? Has such a crime ever been laid to the charge of him who perishes in a storm because, when he went on board, he knew of the danger? The social treaty has for its end the preservation of the contracting
@@ -439,7 +440,7 @@ of crimes is a guarantee of impunity. Under the Roman Republic, neither the Sena
 pardons mean that crime will soon need them no longer, and no-one can help seeing whither that leads. But I feel my heart protesting and restraining my pen; let us leave these questions to the just man who
 has never offended, and would himself stand in no-need of pardon.</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER VI. LAW</subsection_name>
+  <subsection_name number="2.6">CHAPTER VI. LAW</subsection_name>
 By the social compact we have given the body politic existence and life: we have now by legislation to give it movement and will. <consent_of_governed type="popular_sovereignty">For the original act by which the body is formed and united still in no respect
 determines what it ought to do for its preservation.</consent_of_governed> What is well and in conformity with order is so by the nature of things and independently of human conventions. All justice comes from
 God, who is its sole source; but if we knew how to receive so high an inspiration, we should need neither government nor laws. Doubtless, there is a universal justice emanating from reason alone; <criminal_justice type="due_process">but this
@@ -473,7 +474,7 @@ will in the social body: the parts are made to work exactly together, and the wh
 democracy, but generally any government directed by the general will, which is the law. <consent_of_governed type="laws_passed">To be legitimate, the government must be, not one with the Sovereign, but its minister.</consent_of_governed> In such a case even a monarchy is
 a Republic. This will be made clearer in the following section.</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER VII. THE LEGISLATOR</subsection_name>
+  <subsection_name number="2.7">CHAPTER VII. THE LEGISLATOR</subsection_name>
 In order to discover the rules of society best suited to nations, a superior intelligence beholding all the passions of men without experiencing any of them would be needed. This intelligence would have
 to be wholly unrelated to our nature, while knowing it through and through; its happiness would have to be independent of us, and yet ready to occupy itself with ours; and lastly, it would have, in the
 march of time, to look forward to a distant glory, and, working in one century, to be able to enjoy in the next.[1] It would take gods to give men laws. What Caligula argued from the facts, Plato, in the dialogue called the
@@ -517,8 +518,7 @@ this great man will be for ever blessed. [4] "In truth," says Macchiavelli, "the
 fact, many useful truths of which a wise man may have knowledge without their having in themselves such clear reasons for their being so as to be able to convince others" (_Discourses on Livy_, Bk. v, ch. xi).
 (Rousseau quotes the Italian.)</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER VIII. THE PEOPLE
-</subsection_name>
+  <subsection_name number="2.8">CHAPTER VIII. THE PEOPLE</subsection_name>
 As, before putting up a large building, the architect surveys and sounds the site to see if it will bear the weight, the wise legislator does not begin by laying down laws good in themselves, but by
 investigating the fitness of the people, for which they are destined, to receive them. Plato refused to legislate for the Arcadians and the Cyrenæans, because he knew that both peoples were rich and could not
 put up with equality; and good laws and bad men were found together in Crete, because Minos had inflicted discipline on a people already burdened with vice. A thousand nations have achieved earthly greatness, that could never
@@ -538,7 +538,7 @@ ever becoming what they might have been by persuading them that they were what t
 nothing whatsoever. The empire of Russia will aspire to conquer Europe, and will itself be conquered. The Tartars, its subjects or neighbours, will become its masters and ours, by a revolution which I regard as
 inevitable. Indeed, all the kings of Europe are working in concert to hasten its coming.</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER IX. THE PEOPLE (_continued_)</subsection_name>
+  <subsection_name number="2.9">CHAPTER IX. THE PEOPLE (_continued_)</subsection_name>
 As nature has set bounds to the stature of a well-made man, and, outside those limits, makes nothing but giants or dwarfs, similarly, for the constitution of a State to be at its best, it is possible to
 fix limits that will make it neither too large for good government, nor too small for self-maintenance. In every body politic there is a _maximum_ strength which it cannot exceed and which it only loses
 by increasing in size. Every extension of the social tie means its relaxation; and, generally speaking, a small State is stronger in proportion than a great one. A thousand arguments could be advanced in favour of this principle.
@@ -563,7 +563,7 @@ strong and healthy constitution is the first thing to look for;</legal_documents
 It may be added that there have been known States so constituted that the necessity of making conquests entered into their very constitution, and that, in order to maintain themselves, they were forced to expand
 ceaselessly. It may be that they congratulated themselves greatly on this fortunate necessity, which none the less indicated to them, along with the limits of their greatness, the inevitable moment of their fall.</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER X. THE PEOPLE (_continued_)</subsection_name>
+  <subsection_name number="2.10_">CHAPTER X. THE PEOPLE (_continued_)</subsection_name>
 A body politic may be measured in two ways--either by the extent of its territory, or by the number of its people; and there is, between these two measurements, a right relation which makes the State really great.
 The men make the State, and the territory sustains the men; the right relation therefore is that the land should suffice for the maintenance of the inhabitants, and that there should be as many inhabitants as
 the land can maintain. In this proportion lies the _maximum_ strength of a given number of people; for if there is too much land, it is troublesome to guard and inadequately cultivated, produces more than is needed, and soon gives rise to wars of defence; if there is not enough,
@@ -594,7 +594,7 @@ has regained and defended its liberty well deserves that some wise man should te
 haste to free the other from dependence. The Republic of Thlascala, enclosed by the Mexican Empire, preferred doing without salt to buying from the Mexicans, or even getting it from them as a gift
 The Thlascalans were wise enough to see the snare hidden under such liberality. They kept their freedom, and that little State, shut up in that great Empire, was finally the instrument of its ruin.</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER XI. THE VARIOUS SYSTEMS OF LEGISLATION</subsection_name>
+  <subsection_name number="2.11">CHAPTER XI. THE VARIOUS SYSTEMS OF LEGISLATION</subsection_name>
 If we ask in what precisely consists the greatest good of all, which should be the end of every system of legislation, we shall find it reduce itself to two main objects, <inherent_rights type="liberty">liberty</inherent_rights> and <inherent_rights type="equality">equality</inherent_rights>--liberty,
 because all particular dependence means so much force taken from the body of the State, and equality, because liberty cannot exist without it. I have already defined civil liberty; by equality, we should
 understand, not that the degrees of power and riches are to be absolutely identical for everybody; but that <limits_of_power type="protection_of_the_individual">power shall never be great enough for violence, and shall always be exercised by virtue of rank and law;</limits_of_power> and that, in respect of riches, no citizen shall ever be wealthy enough to buy another, and none poor enough to be forced to
@@ -617,7 +617,7 @@ extremes as near to each other as possible; allow neither rich men nor beggars. 
 tyranny, and from the other tyrants. It is always between them that public liberty is put up to auction; the one buys, and the other sells. [2] "Any branch of foreign commerce," says M. d'Argenson, "creates on
 the whole only apparent advantage for the kingdom in general; it may enrich some individuals, or even some towns; but the nation as a whole gains nothing by it, and the people is no better off."</sub_section>
  <sub_section>
-  <subsection_name>CHAPTER XII. THE DIVISION OF THE LAWS</subsection_name>
+  <subsection_name number="2.12">CHAPTER XII. THE DIVISION OF THE LAWS</subsection_name>
 If the whole is to be set in order, and the commonwealth put into the best possible shape, there are various relations to be considered. First, there is the action of the complete body upon itself, the
 relation of the whole to the whole, of the Sovereign to the State; and this relation, as we shall see, is made up of the relations of the intermediate terms. The laws which regulate this relation bear the name of political laws,
 and are also called fundamental laws, not without reason if they are wise. For, if there is, in each State, only one good system, the people that is in possession of it should hold fast to this; but if
@@ -634,10 +634,10 @@ manners and morals, slower to arise, form in the end its immovable keystone. Amo
 </section>
 
 <section>
-<section_name>section III</section_name>
+<section_name number="Section_3">section III</section_name>
 Before speaking of the different forms of government, let us try to fix the exact sense of the word, which has not yet been very clearly explained.
  <sub_section>
-  <subsection_name>CHAPTER I. GOVERNMENT IN GENERAL</subsection_name>
+  <subsection_name number="3.1">CHAPTER I. GOVERNMENT IN GENERAL</subsection_name>
 I warn the reader that this chapter requires careful reading, and that I am unable to make myself clear to those who refuse to be attentive. Every free action is produced by the concurrence of two causes; one
 moral, _i.e._ the will which determines the act; the other physical, _i.e._ the power which executes it. When I walk towards an object, it is necessary first that I should will to go there, and, in the second
 place, that my feet should carry me. If a paralytic wills to run and an active man wills not to, they will both stay where they are. The body politic has the same motive powers; here too force and will are
@@ -672,344 +672,124 @@ same, and is changed accordingly. From this we see that there is not a single un
 If, ridiculing this system, any one were to say that, in order to find the mean proportional and give form to the body of the government, it is only necessary, according to me, to find the square root of
 the number of the people, I should answer that I am here taking this number only as an instance; that the relations of which I am speaking are not measured by the number of men alone, but generally by the
 amount of action, which is a combination of a multitude of causes; and that, further, if, to save words, I borrow for a moment the terms of geometry, I am none the less well aware that moral quantities do notallow of geometrical accuracy.
-
-The government is on a small scale what the body politic which includes
-it is on a great one. It is a moral person endowed with certain
-faculties, active like the Sovereign and passive like the State,
-and capable of being resolved into other similar relations. This
-accordingly gives rise to a new proportion, within which there is yet
-another, according to the arrangement of the magistracies, till an
-indivisible middle term is reached, _i.e._ a single ruler or supreme
-magistrate, who may be represented, in the midst of this progression,
-as the unity between the fractional and the ordinal series.
-
-Without encumbering ourselves with this multiplication of terms, let us
-rest content with regarding government as a new body within the State,
-distinct from the people and the Sovereign, and intermediate between
-them.
-
-<consent_of_governed type="popular_sovereignty">There is between these two bodies this essential difference, that
-the State exists by itself, and the government only through the
-Sovereign.</consent_of_governed> Thus the dominant will of the prince is, or should be,
-nothing but the general will or the law; <consent_of_governed type="representative_government">his force is only the public
-force concentrated in his hands, and, as soon as he tries to base
-any absolute and independent act on his own authority, the tie that
-binds the whole together begins to be loosened.</consent_of_governed> If finally the prince
-should come to have a particular will more active than the will of the
-Sovereign, and should employ the public force in his hands in obedience
-to this particular will, there would be, so to speak, two Sovereigns,
-one rightful and the other actual, the social union would evaporate
-instantly, and the body politic would be dissolved.
-
-However, in order that the government may have a true existence
-and a real life distinguishing it from the body of the State, and
-in order that all its members may be able to act in concert and
-fulfil the end for which it was set up, it must have a particular
-personality, a sensibility common to its members, and a force and will
-of its own making for its preservation. This particular existence
-implies assemblies, councils, power of deliberation and decision,
-rights, titles, and privileges belonging exclusively to the prince
-and making the office of magistrate more honourable in proportion
-as it is more troublesome. The difficulties lie in the manner of so
-ordering this subordinate whole within the whole, that it in no way
-alters the general constitution by affirmation of its own, and always
-distinguishes the particular force it possesses, which is destined
-to aid in its preservation, from the public force, which is destined
-to the preservation of the State; and, in a word, is always ready to
-sacrifice the government to the people, and never to sacrifice the
-people to the government.
-
-Furthermore, although the artificial body of the government is the work
-of another artificial body, and has, we may say, only a borrowed and
-subordinate life, this does not prevent it from being able to act with
-more or less vigour or promptitude, or from being, so to speak, in more
-or less robust health. <consent_of_governed type="amendment_process">Finally, without departing directly from the
-end for which it was instituted, it may deviate more or less from it,
-according to the manner of its constitution.</consent_of_governed>
-
-From all these differences arise the various relations which the
-government ought to bear to the body of the State, according to the
-accidental and particular relations by which the State itself is
-modified, for often the government that is best in itself will become
-the most pernicious, if the relations in which it stands have altered
-according to the defects of the body politic to which it belongs.
-
-[1] Thus at Venice the College, even in the absence of the Doge, is
-called "Most Serene Prince."
-</sub_section>
+The government is on a small scale what the body politic which includes it is on a great one. It is a moral person endowed with certain faculties, active like the Sovereign and passive like the State,
+and capable of being resolved into other similar relations. This accordingly gives rise to a new proportion, within which there is yet another, according to the arrangement of the magistracies, till an
+indivisible middle term is reached, _i.e._ a single ruler or supreme magistrate, who may be represented, in the midst of this progression, as the unity between the fractional and the ordinal series.
+Without encumbering ourselves with this multiplication of terms, let us rest content with regarding government as a new body within the State, distinct from the people and the Sovereign, and intermediate between
+them. <consent_of_governed type="popular_sovereignty">There is between these two bodies this essential difference, that the State exists by itself, and the government only through the
+Sovereign.</consent_of_governed> Thus the dominant will of the prince is, or should be, nothing but the general will or the law; <consent_of_governed type="representative_government">his force is only the public
+force concentrated in his hands, and, as soon as he tries to base any absolute and independent act on his own authority, the tie that binds the whole together begins to be loosened.</consent_of_governed> If finally the prince
+should come to have a particular will more active than the will of the Sovereign, and should employ the public force in his hands in obedience to this particular will, there would be, so to speak, two Sovereigns,
+one rightful and the other actual, the social union would evaporate instantly, and the body politic would be dissolved. However, in order that the government may have a true existence
+and a real life distinguishing it from the body of the State, and in order that all its members may be able to act in concert and fulfil the end for which it was set up, it must have a particular
+personality, a sensibility common to its members, and a force and will of its own making for its preservation. This particular existence implies assemblies, councils, power of deliberation and decision,
+rights, titles, and privileges belonging exclusively to the prince and making the office of magistrate more honourable in proportion as it is more troublesome. The difficulties lie in the manner of so
+ordering this subordinate whole within the whole, that it in no way alters the general constitution by affirmation of its own, and always distinguishes the particular force it possesses, which is destined
+to aid in its preservation, from the public force, which is destined to the preservation of the State; and, in a word, is always ready to sacrifice the government to the people, and never to sacrifice the
+people to the government. Furthermore, although the artificial body of the government is the work of another artificial body, and has, we may say, only a borrowed and
+subordinate life, this does not prevent it from being able to act with more or less vigour or promptitude, or from being, so to speak, in more or less robust health. <consent_of_governed type="amendment_process">Finally, without departing directly from the
+end for which it was instituted, it may deviate more or less from it, according to the manner of its constitution.</consent_of_governed> From all these differences arise the various relations which the
+government ought to bear to the body of the State, according to the accidental and particular relations by which the State itself is modified, for often the government that is best in itself will become
+the most pernicious, if the relations in which it stands have altered according to the defects of the body politic to which it belongs. [1] Thus at Venice the College, even in the absence of the Doge, is
+called "Most Serene Prince."</sub_section>
   <sub_section>
-    <subsection_name>CHAPTER II. THE CONSTITUENT PRINCIPLE IN THE VARIOUS FORMS OF GOVERNMENT</subsection_name>
-To set forth the general cause of the above differences, we must here
-distinguish between government and its principle, as we did before
-between the State and the Sovereign.
-The body of the magistrate may be composed of a greater or a less
-number of members. We said that the relation of the Sovereign to the
-subjects was greater in proportion as the people was more numerous,
-and, by a clear analogy, we may say the same of the relation of the
-government to the magistrates.
-But the total force of the government, being always that of the State,
-is invariable; so that, the more of this force it expends on its own
-members, the less it has left to employ on the whole people.
-The more numerous the magistrates, therefore, the weaker the
-government. This principle being fundamental, we must do our best to
-make it clear.
-In the person of the magistrate we can distinguish three essentially
-different wills: first, the private will of the individual, tending
-only to his personal advantage; secondly, the common will of the
-magistrates, which is relative solely to the advantage of the prince,
-and may be called corporate will, being general in relation to the
-government, and particular in relation to the State, of which the
-government forms part; and, in the third place, the will of the people
-or the sovereign will, which is general both in relation to the State
-regarded as the whole, and to the government regarded as a part of the
-whole.
-In a perfect act of legislation, the individual or particular will
-should be at zero; the corporate will belonging to the government
-should occupy a very subordinate position; and, consequently, the
-general or sovereign will should always predominate and should be the
-sole guide of all the rest.
-According to the natural order, on the other hand, these different
-wills become more active in proportion as they are concentrated. Thus,
-the general will is always the weakest, the corporate will second, and
-the individual will strongest of all: so that, in the government, each
-member is first of all himself, then a magistrate, and then a citizen
---in an order exactly the reverse of what the social system requires.
-This granted, if the whole government is in the hands of one man, the
-particular and the corporate will are wholly united, and consequently
-the latter is at its highest possible degree of intensity. But, as the
-use to which the force Is put depends on the degree reached by the
-will, and as the absolute force of the government is invariable, it
-follows that the most active government is that of one man.
-Suppose, on the other hand, we unite the government with the
-legislative authority, and make the Sovereign prince also, and all the
-citizens so many magistrates: then the corporate will, being confounded
-with the general will, can possess no greater activity than that will,
-and must leave the particular will as strong as it can possibly be.
-Thus, the government, having always the same absolute force, will be at
-the lowest point of its relative force or activity.
-These relations are incontestable, and there are other considerations
-which still further confirm them. We can see, for instance, that
-each magistrate is more active in the body to which he belongs than
-each citizen in that to which he belongs, and that consequently the
-particular will has much more influence on the acts of the government
-than on those of the Sovereign; for each magistrate is almost always
-charged with some governmental function, while each citizen, taken
-singly, exercises no function of Sovereignty. Furthermore, the bigger
-the State grows, the more its real force increases, though not in
-direct proportion to its growth; but, the State remaining the same,
-the number of magistrates may increase to any extent, without the
-government gaining any greater real force; for its force is that of the
-State, the dimension of which remains equal. Thus the relative force or
-activity of the government decreases, while its absolute or real force
-cannot increase.
-Moreover, it is a certainty that promptitude in execution diminishes
-as more people are put in charge of it: where prudence is made too
-much of, not enough is made of fortune; opportunity is let slip, and
-deliberation results in the loss of its object.
-I have just proved that the government grows remiss in proportion as
-the number of the magistrates increases; and I previously proved that,
-the more numerous the people, the greater should be the repressive
-force. From this it follows that the relation of the magistrates to the
-government should vary inversely to the relation of the subjects to the
-Sovereign; that is to say, the larger the State, the more should the
-government be tightened, so that the number of the rulers diminish in
-proportion to the increase of that of the people.
-It should be added that I am here speaking of the relative strength of
-the government, and not of its rectitude: for, on the other hand, the
-more numerous the magistracy, the nearer the corporate will comes to
-the general will; while, under a single magistrate, the corporate will
-is, as I said, merely a particular will. Thus, what may be gained on
-one side is lost on the other, and the art of the legislator is to know
-how to fix the point at which the force and the will of the government,
-which are always in inverse proportion, meet in the relation that is
-most to the advantage of the State.
-
-</sub_section><sub_section>CHAPTER III<subsection_name>THE DIVISION OF GOVERNMENTS</subsection_name>
-We saw in the last chapter what causes the various kinds or forms of
-government to be distinguished according to the number of the members
-composing them: it remains in this to discover how the division is made.
-In the first place, the Sovereign may commit the charge of the
-government to the whole people or to the majority of the people, so
-that more citizens are magistrates than are mere private individuals.
-This form of government is called _democracy_.
-Or it may restrict the government to a small number; so that there are
-more private citizens than magistrates; and this is named _aristocracy_.
-Lastly, it may concentrate the whole government in the hands of a
-single magistrate from whom all others hold their power. This third
-form is the most usual, and is called _monarchy_, or royal government.
-It should be remarked that all these forms, or at least the first two,
-admit of degree, and even of very wide differences; <consent_of_governed type="elections">for democracy may
-include the whole people, or may be restricted to half.</consent_of_governed> Aristocracy, in
-its turn, may be restricted indefinitely from half the people down to
-the smallest possible number. Even royalty is susceptible of a measure
-of distribution. Sparta always had two kings, as its constitution
-provided; and the Roman Empire saw as many as eight emperors at once,
-without it being possible to say that the Empire was split up. Thus
-there is a point at which each form of government passes into the next,
-and it becomes clear that, under three comprehensive denominations,
-government is really susceptible of as many diverse forms as the State
-has citizens.
-There are even more: for, as the government may also, in certain
-aspects, be subdivided into other parts, one administered in one
-fashion and one in another, the combination of the three forms
-may result in a multitude of mixed forms, each of which admits of
-multiplication by all the simple forms.
-There has been at all times much dispute concerning the best form of
-government, without consideration of the fact that each is in some
-cases the best, and in others the worst.
-If, in the different States, the number of supreme magistrates should
-be in inverse ratio to the number of citizens, it follows that,
-generally, democratic government suits small States, aristocratic
-government those of middle size, and monarchy great ones. This rule
-is immediately deducible from the principle laid down. But it is
-impossible to count the innumerable circumstances which may furnish
-exceptions.
-</sub_section>
- <sub_section>CHAPTER IV<subsection_name>DEMOCRACY</subsection_name>
-He who makes the law knows better than any one else how it should be
-executed and interpreted. It seems then impossible to have a better
-constitution than that in which the executive and legislative powers
-are united; but this very fact renders the government in certain
-respects inadequate, because things which should be distinguished are
-confounded, and the prince and the Sovereign, being the same person,
-form, so to speak, no more than a government without government.
-It is not good for him who makes the laws to execute them, or for the
-body of the people to turn its attention away from a general standpoint
-and devote it to particular objects. Nothing is more dangerous than
-the influence of private interests in public affairs, and the abuse of
-the laws by the government is a less evil than the corruption of the
-legislator, which is the inevitable sequel to a particular standpoint.
-In such a case, the State being altered in substance, all reformation
-becomes impossible. <consent_of_governed type="popular_sovereignty">A people that would never misuse governmental
-powers would never misuse independence; a people that would always
-govern well would not need to be governed.
-</consent_of_governed>
-If we take the term in the strict sense, there never has been a real
-democracy, and there never will be. It is against the natural order for
-the many to govern and the few to be governed. It is unimaginable that
-the people should remain continually assembled to devote their time to
-public affairs, and it is clear that they cannot set up commissions for
-that purpose without the form of administration being changed.
-In fact, I can confidently lay down as a principle that, when the
-functions of government are shared by several tribunals, the less
-numerous sooner or later acquire the greatest authority, if only
-because they are in a position to expedite affairs, and power thus
-naturally comes into their hands.
-Besides, how many conditions that are difficult to unite does such a
-government presuppose! First, a very small State, where the people can
-readily be got together and where each citizen can with ease know all
-the rest; secondly, great simplicity of manners, to prevent business
-from multiplying and raising thorny problems; next, a large measure
-of equality in rank and fortune, without which equality of rights and
-authority cannot long subsist; lastly, little or no luxury--for luxury
-either comes of riches or makes them necessary; it corrupts at once
-rich and poor, the rich by possession and the poor by covetousness; it
-sells the country to softness and vanity, and takes away from the State
-all its citizens, to make them slaves one to another, and one and all
-to public opinion.
-This is why a famous writer has made virtue the fundamental principle
-of Republics; for all these conditions could not exist without virtue.
-But, for want of the necessary distinctions, that great thinker was
-often inexact, and sometimes obscure, and did not see that, the
-sovereign authority being everywhere the same, the same principle
-should be found in every well-constituted State, in a greater or less
-degree, it is true, according to the form of the government.
-It may be added that there is no government so subject to civil wars
-and intestine agitations as democratic or popular government, because
-there is none which has so strong and continual a tendency to change
-to another form, or which demands more vigilance and courage for its
-maintenance as it is. Under such a constitution above all, the citizen
-should arm himself with strength and constancy, and say, every day of
-his life, what a virtuous Count Palatine[1] said in the Diet of Poland:
-Malo periculosam libertatem quam quietum servitium.
-Were there a people of gods, their government would be democratic. So
-perfect a government is not for men.
-[1] The Palatine of Posen, father of the King of Poland, Duke of
-Lorraine. I prefer liberty with danger to peace with slavery.
-</sub_section><sub_section>CHAPTER V<subsection_name>ARISTOCRACY
-</subsection_name>
-We have here two quite distinct moral persons, the government and
-the Sovereign, and in consequence two general wills, one general in
-relation to all the citizens, the other only for the members of the
-administration. Thus, although the government may regulate its internal
-policy as it pleases, it can never speak to the people save in the
-name of the Sovereign, that is, of the people itself, a fact which must
-not be forgotten.
-<consent_of_governed type="popular_sovereignty">The first societies governed themselves aristocratically. The heads
-of families took counsel together on public affairs. The young bowed
-without question to the authority of experience.</consent_of_governed> Hence such names
-as _priests, elders, senate_, and _gerontes_. The savages of North
-America govern themselves in this way even now, and their government is
-admirable.
-But, in proportion as artificial inequality produced by institutions
-became predominant over natural inequality, riches or power[1] were put
-before age, and aristocracy became elective. Finally, the transmission
-of the father's power along with his goods to his children, by creating
-patrician families, made government hereditary, and there came to be
-senators of twenty.
-There are then three sorts of aristocracy--natural, elective and
-hereditary. The first is only for simple peoples; the third is the
-worst of all governments; the second is the best, and is aristocracy
-properly so called.
-Besides the advantage that lies in the distinction between the two
-powers, it presents that of its members being chosen; for, in popular
-government, all the citizens are born magistrates; but here magistracy
-is confined to a few, who become such only by election.[2] By this
-means uprightness, understanding, experience and all other claims to
-pre-eminence and public esteem become so many further guarantees of
-wise government.
-Moreover, assemblies are more easily held, affairs better discussed and
-carried out with more order and diligence, and the credit of the State
-is better sustained abroad by venerable senators than by a multitude
-that is unknown or despised.
-In a word, it is the best and most natural arrangement that the wisest
-should govern the many, when it is assured that they will govern
-for its profit, and not for their own. There is no need to multiply
-instruments, or get twenty thousand men to do what a hundred picked men
-can do even better, but it must not be forgotten mat corporate interest
-here begins to direct the public power less under the regulation of the
-general will, and that a further inevitable propensity takes away from
-the laws part of the executive power.
-If we are to speak of what is individually desirable, neither should
-the State be so small, nor a people so simple and upright, that the
-execution of the laws follows immediately from the public will, as
-it does in a good democracy. Nor should the nation be so great that
-the rulers have to scatter in order to govern it and are able to play
-the Sovereign each in his own department, and, beginning by making
-themselves independent, end by becoming masters.
-But if aristocracy does not demand all the virtues needed by popular
-government, it demands others which are peculiar to itself; for
-instance, moderation on the side of the rich and contentment on that
-of the poor; for it seems that thorough-going equality would be out of
-place, as it was not found even at Sparta.
-Furthermore, if this form of government carries with it a certain
-inequality of fortune, this is justifiable in order that as a rule the
-administration of public affairs may be entrusted to those who are most
-able to give them their whole time, but not, as Aristotle maintains, in
-order that the rich may always be put first. On the contrary, it is of
-importance that an opposite choice should occasionally teach the people
-that the deserts of men offer claims to pre-eminence more important
-than those of riches.
-[1] It is clear that the word _optimates_ meant, among the ancients,
-not the best, but the most powerful.
-[2] <consent_of_governed type="elections">It is of great importance that the form of the election of
-magistrates should be regulated by law</consent_of_governed>; for if it is left at the
-discretion of the prince, k is impossible to avoid falling into
-hereditary aristocracy, as the Republics of Venice and Berne actually
-did. The first of these has therefore long been a State dissolved; the
-second, however, is maintained by the extreme wisdom of the senate, and
-forms an honourable and highly dangerous exception.
-</sub_section><sub_section>CHAPTER VI<subsection_name>MONARCHY
-</subsection_name>
-So far, we have considered the prince as a moral and collective person,
-unified by the force of the laws, and the depositary in the State of
-the executive power. We have now to consider this power when it is
-gathered together into the hands of a natural person, a rear man, who
-alone has the right to dispose of it in accordance with the laws. Such
-a person is called a monarch or king.
-In contrast with other forms of administration, in which a collective
-being stands for an individual, in this form an individual stands for a
-collective being; so that the moral unity that constituted the prince
+    <subsection_name number="3.2">CHAPTER II. THE CONSTITUENT PRINCIPLE IN THE VARIOUS FORMS OF GOVERNMENT</subsection_name>
+To set forth the general cause of the above differences, we must here distinguish between government and its principle, as we did before between the State and the Sovereign.
+The body of the magistrate may be composed of a greater or a less number of members. We said that the relation of the Sovereign to the subjects was greater in proportion as the people was more numerous,
+and, by a clear analogy, we may say the same of the relation of the government to the magistrates. But the total force of the government, being always that of the State, is invariable; so that, the more of this force it expends on its own members, the less it has left to employ on the whole people.
+The more numerous the magistrates, therefore, the weaker the government. This principle being fundamental, we must do our best to make it clear. In the person of the magistrate we can distinguish three essentially
+different wills: first, the private will of the individual, tending only to his personal advantage; secondly, the common will of the magistrates, which is relative solely to the advantage of the prince,
+and may be called corporate will, being general in relation to the government, and particular in relation to the State, of which the government forms part; and, in the third place, the will of the people
+or the sovereign will, which is general both in relation to the State regarded as the whole, and to the government regarded as a part of the whole.
+In a perfect act of legislation, the individual or particular will should be at zero; the corporate will belonging to the government should occupy a very subordinate position; and, consequently, the
+general or sovereign will should always predominate and should be the sole guide of all the rest. According to the natural order, on the other hand, these different
+wills become more active in proportion as they are concentrated. Thus, the general will is always the weakest, the corporate will second, and the individual will strongest of all: so that, in the government, each
+member is first of all himself, then a magistrate, and then a citizen --in an order exactly the reverse of what the social system requires. This granted, if the whole government is in the hands of one man, the
+particular and the corporate will are wholly united, and consequently the latter is at its highest possible degree of intensity. But, as the use to which the force Is put depends on the degree reached by the
+will, and as the absolute force of the government is invariable, it follows that the most active government is that of one man. Suppose, on the other hand, we unite the government with the
+legislative authority, and make the Sovereign prince also, and all the citizens so many magistrates: then the corporate will, being confounded with the general will, can possess no greater activity than that will,
+and must leave the particular will as strong as it can possibly be. Thus, the government, having always the same absolute force, will be at the lowest point of its relative force or activity.
+These relations are incontestable, and there are other considerations which still further confirm them. We can see, for instance, that each magistrate is more active in the body to which he belongs than
+each citizen in that to which he belongs, and that consequently the particular will has much more influence on the acts of the government than on those of the Sovereign; for each magistrate is almost always
+charged with some governmental function, while each citizen, taken singly, exercises no function of Sovereignty. Furthermore, the bigger the State grows, the more its real force increases, though not in
+direct proportion to its growth; but, the State remaining the same, the number of magistrates may increase to any extent, without the government gaining any greater real force; for its force is that of the
+State, the dimension of which remains equal. Thus the relative force or activity of the government decreases, while its absolute or real force cannot increase.
+Moreover, it is a certainty that promptitude in execution diminishes as more people are put in charge of it: where prudence is made too much of, not enough is made of fortune; opportunity is let slip, and deliberation results in the loss of its object.
+I have just proved that the government grows remiss in proportion as the number of the magistrates increases; and I previously proved that, the more numerous the people, the greater should be the repressive
+force. From this it follows that the relation of the magistrates to the government should vary inversely to the relation of the subjects to the Sovereign; that is to say, the larger the State, the more should the
+government be tightened, so that the number of the rulers diminish in proportion to the increase of that of the people. It should be added that I am here speaking of the relative strength of
+the government, and not of its rectitude: for, on the other hand, the more numerous the magistracy, the nearer the corporate will comes to the general will; while, under a single magistrate, the corporate will
+is, as I said, merely a particular will. Thus, what may be gained on one side is lost on the other, and the art of the legislator is to know how to fix the point at which the force and the will of the government,
+which are always in inverse proportion, meet in the relation that is most to the advantage of the State.</sub_section>
+  <sub_section>
+    <subsection_name number="3.3">CHAPTER III. THE DIVISION OF GOVERNMENTS</subsection_name>
+We saw in the last chapter what causes the various kinds or forms of government to be distinguished according to the number of the members composing them: it remains in this to discover how the division is made.
+In the first place, the Sovereign may commit the charge of the government to the whole people or to the majority of the people, so that more citizens are magistrates than are mere private individuals.
+This form of government is called _democracy_. Or it may restrict the government to a small number; so that there are more private citizens than magistrates; and this is named _aristocracy_.
+Lastly, it may concentrate the whole government in the hands of a single magistrate from whom all others hold their power. This third form is the most usual, and is called _monarchy_, or royal government.
+It should be remarked that all these forms, or at least the first two, admit of degree, and even of very wide differences; <consent_of_governed type="elections">for democracy may
+include the whole people, or may be restricted to half.</consent_of_governed> Aristocracy, in its turn, may be restricted indefinitely from half the people down to
+the smallest possible number. Even royalty is susceptible of a measure of distribution. Sparta always had two kings, as its constitution provided; and the Roman Empire saw as many as eight emperors at once,
+without it being possible to say that the Empire was split up. Thus there is a point at which each form of government passes into the next, and it becomes clear that, under three comprehensive denominations,
+government is really susceptible of as many diverse forms as the State has citizens. There are even more: for, as the government may also, in certain
+aspects, be subdivided into other parts, one administered in one fashion and one in another, the combination of the three forms may result in a multitude of mixed forms, each of which admits of
+multiplication by all the simple forms. There has been at all times much dispute concerning the best form of government, without consideration of the fact that each is in some
+cases the best, and in others the worst. If, in the different States, the number of supreme magistrates should be in inverse ratio to the number of citizens, it follows that,
+generally, democratic government suits small States, aristocratic government those of middle size, and monarchy great ones. This rule is immediately deducible from the principle laid down. But it is
+impossible to count the innumerable circumstances which may furnish exceptions.</sub_section>
+  <sub_section>
+    <subsection_name number="3.4">CHAPTER IV. DEMOCRACY</subsection_name>
+He who makes the law knows better than any one else how it should be executed and interpreted. It seems then impossible to have a better constitution than that in which the executive and legislative powers
+are united; but this very fact renders the government in certain respects inadequate, because things which should be distinguished are confounded, and the prince and the Sovereign, being the same person,
+form, so to speak, no more than a government without government. It is not good for him who makes the laws to execute them, or for the body of the people to turn its attention away from a general standpoint
+and devote it to particular objects. Nothing is more dangerous than the influence of private interests in public affairs, and the abuse of the laws by the government is a less evil than the corruption of the
+legislator, which is the inevitable sequel to a particular standpoint. In such a case, the State being altered in substance, all reformation becomes impossible. <consent_of_governed type="popular_sovereignty">A people that would never misuse governmental
+powers would never misuse independence; a people that would always govern well would not need to be governed. </consent_of_governed>If we take the term in the strict sense, there never has been a real
+democracy, and there never will be. It is against the natural order for the many to govern and the few to be governed. It is unimaginable that the people should remain continually assembled to devote their time to
+public affairs, and it is clear that they cannot set up commissions for that purpose without the form of administration being changed. In fact, I can confidently lay down as a principle that, when the
+functions of government are shared by several tribunals, the less numerous sooner or later acquire the greatest authority, if only because they are in a position to expedite affairs, and power thus
+naturally comes into their hands. Besides, how many conditions that are difficult to unite does such a government presuppose! First, a very small State, where the people can
+readily be got together and where each citizen can with ease know all the rest; secondly, great simplicity of manners, to prevent business from multiplying and raising thorny problems; next, a large measure
+of equality in rank and fortune, without which equality of rights and authority cannot long subsist; lastly, little or no luxury--for luxury either comes of riches or makes them necessary; it corrupts at once
+rich and poor, the rich by possession and the poor by covetousness; it sells the country to softness and vanity, and takes away from the State
+all its citizens, to make them slaves one to another, and one and all to public opinion. This is why a famous writer has made virtue the fundamental principle
+of Republics; for all these conditions could not exist without virtue. But, for want of the necessary distinctions, that great thinker was
+often inexact, and sometimes obscure, and did not see that, the sovereign authority being everywhere the same, the same principle should be found in every well-constituted State, in a greater or less
+degree, it is true, according to the form of the government. It may be added that there is no government so subject to civil wars and intestine agitations as democratic or popular government, because
+there is none which has so strong and continual a tendency to change to another form, or which demands more vigilance and courage for its maintenance as it is. Under such a constitution above all, the citizen
+should arm himself with strength and constancy, and say, every day of his life, what a virtuous Count Palatine[1] said in the Diet of Poland: Malo periculosam libertatem quam quietum servitium.
+Were there a people of gods, their government would be democratic. So perfect a government is not for men. [1] The Palatine of Posen, father of the King of Poland, Duke of Lorraine. I prefer liberty with danger to peace with slavery.</sub_section>
+  <sub_section>
+    <subsection_name number="3.5">CHAPTER V ARISTOCRACY</subsection_name>
+We have here two quite distinct moral persons, the government and the Sovereign, and in consequence two general wills, one general in relation to all the citizens, the other only for the members of the
+administration. Thus, although the government may regulate its internal policy as it pleases, it can never speak to the people save in the name of the Sovereign, that is, of the people itself, a fact which must
+not be forgotten. <consent_of_governed type="popular_sovereignty">The first societies governed themselves aristocratically. The heads of families took counsel together on public affairs. The young bowed
+without question to the authority of experience.</consent_of_governed> Hence such names as _priests, elders, senate_, and _gerontes_. The savages of North
+America govern themselves in this way even now, and their government is admirable. But, in proportion as artificial inequality produced by institutions
+became predominant over natural inequality, riches or power[1] were put before age, and aristocracy became elective. Finally, the transmission of the father's power along with his goods to his children, by creating
+patrician families, made government hereditary, and there came to be senators of twenty. There are then three sorts of aristocracy--natural, elective and
+hereditary. The first is only for simple peoples; the third is the worst of all governments; the second is the best, and is aristocracy properly so called.
+Besides the advantage that lies in the distinction between the two powers, it presents that of its members being chosen; for, in popular government, all the citizens are born magistrates; but here magistracy
+is confined to a few, who become such only by election.[2] By this means uprightness, understanding, experience and all other claims to pre-eminence and public esteem become so many further guarantees of
+wise government. Moreover, assemblies are more easily held, affairs better discussed and carried out with more order and diligence, and the credit of the State
+is better sustained abroad by venerable senators than by a multitude that is unknown or despised. In a word, it is the best and most natural arrangement that the wisest
+should govern the many, when it is assured that they will govern for its profit, and not for their own. There is no need to multiply instruments, or get twenty thousand men to do what a hundred picked men
+can do even better, but it must not be forgotten mat corporate interest here begins to direct the public power less under the regulation of the general will, and that a further inevitable propensity takes away from
+the laws part of the executive power. If we are to speak of what is individually desirable, neither should the State be so small, nor a people so simple and upright, that the
+execution of the laws follows immediately from the public will, as it does in a good democracy. Nor should the nation be so great that the rulers have to scatter in order to govern it and are able to play
+the Sovereign each in his own department, and, beginning by making themselves independent, end by becoming masters. But if aristocracy does not demand all the virtues needed by popular
+government, it demands others which are peculiar to itself; for instance, moderation on the side of the rich and contentment on that of the poor; for it seems that thorough-going equality would be out of
+place, as it was not found even at Sparta. Furthermore, if this form of government carries with it a certain inequality of fortune, this is justifiable in order that as a rule the
+administration of public affairs may be entrusted to those who are most able to give them their whole time, but not, as Aristotle maintains, in order that the rich may always be put first. On the contrary, it is of
+importance that an opposite choice should occasionally teach the people that the deserts of men offer claims to pre-eminence more important than those of riches.
+[1] It is clear that the word _optimates_ meant, among the ancients, not the best, but the most powerful. [2] <consent_of_governed type="elections">It is of great importance that the form of the election of magistrates should be regulated by law</consent_of_governed>; for if it is left at the
+discretion of the prince, k is impossible to avoid falling into hereditary aristocracy, as the Republics of Venice and Berne actually did. The first of these has therefore long been a State dissolved; the
+second, however, is maintained by the extreme wisdom of the senate, and forms an honourable and highly dangerous exception.</sub_section>
+  <sub_section>
+    <subsection_name number="3.6">CHAPTER VI MONARCHY</subsection_name>
+So far, we have considered the prince as a moral and collective person, unified by the force of the laws, and the depositary in the State of the executive power. We have now to consider this power when it is
+gathered together into the hands of a natural person, a rear man, who alone has the right to dispose of it in accordance with the laws. Such a person is called a monarch or king.
+In contrast with other forms of administration, in which a collective being stands for an individual, in this form an individual stands for a collective being; so that the moral unity that constituted the prince
 is at the same time a physical unity, and all the qualities, which in
 the other case are only with difficulty brought together by the law,
 are found naturally united.
@@ -1185,8 +965,9 @@ way of finding out what is good and what is bad is to consider what you
 would have wished to happen or not to happen, had another than you been
 Emperor."
 [3] In the _Politicus_.
-</sub_section><sub_section>CHAPTER VII<subsection_name>MIXED GOVERNMENTS
-</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="3.7">CHAPTER VII MIXED GOVERNMENTS</subsection_name>
 Strictly speaking, there is no such thing as a simple government. An
 isolated ruler must have subordinate magistrates; a popular government
 must have a head. There is therefore, in the distribution of the
@@ -1222,8 +1003,7 @@ _maxima_ of both strength and weakness are found in simple governments,
 while the mixed forms result in a mean strength.
 </sub_section>
   <sub_section>
-    <subsection_name>CHAPTER VIII. THAT ALL FORMS OF GOVERNMENT DO NOT SUIT ALL COUNTRIES
-</subsection_name>
+    <subsection_name number="3.8">CHAPTER VIII. THAT ALL FORMS OF GOVERNMENT DO NOT SUIT ALL COUNTRIES</subsection_name>
 Liberty not being a fruit of all climates, is not within the reach of
 all peoples. The more this principle, laid down by Montesquieu, is
 considered, the more its truth is felt; the more it is combated, the
@@ -1400,8 +1180,9 @@ rallying-points for action against the people at a distance, but it has
 no rallying-point for direct action on its members themselves. Thus the
 length of the lever is its weakness in the one case, and its strength
 in the other.
-</sub_section><sub_section>CHAPTER IX<subsection_name>THE MARKS OF A GOOD GOVERNMENT
-</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="3.9">CHAPTER IX THE MARKS OF A GOOD GOVERNMENT</subsection_name>
 The question "What absolutely is the best government?" is unanswerable
 as well as indeterminate; or rather, there are as many good answers as
 there are possible combinations in the absolute and relative situations
@@ -1468,7 +1249,9 @@ our republic only throve: the virtue, morality and independence of the
 citizens did more to strengthen it than all their dissensions had done
 to enfeeble it A little disturbance gives the soul elasticity; what
 makes the race truly prosperous is not so much peace as liberty.
-</sub_section><sub_section>CHAPTER X<subsection_name>THE ABUSE OF GOVERNMENT AND ITS TENDENCY TO DEGENERATE</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="3.10_">CHAPTER X THE ABUSE OF GOVERNMENT AND ITS TENDENCY TO DEGENERATE</subsection_name>
 
 As the particular will acts constantly in opposition to the general
 will, the government continually exerts itself against the Sovereignty.
@@ -1593,7 +1376,9 @@ _tyrant_ in a different sense, as appears most clearly in Xenophon's
 _Hiero_, but also it would follow from Aristotle's distinction that,
 from the very beginning of the world, there has not yet been a single
 king.
-</sub_section><sub_section>CHAPTER XI<subsection_name>THE DEATH OF THE BODY POLITIC</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="3.11">CHAPTER XI THE DEATH OF THE BODY POLITIC</subsection_name>
 Such is the natural and inevitable tendency of the best constituted
 governments. If Sparta and Rome perished, what State can hope to endure
 for ever? If we would set up a long-lived form of government, let us
@@ -1634,8 +1419,9 @@ strength in any well constituted State; the precedent of antiquity
 makes them daily more venerable: while wherever the laws grow weak as
 they become old, this proves that there is no longer a legislative
 power, and that the State is dead.
-</sub_section><sub_section>CHAPTER XII<subsection_name>HOW THE SOVEREIGN AUTHORITY MAINTAINS ITSELF
-</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="3.12">CHAPTER XII HOW THE SOVEREIGN AUTHORITY MAINTAINS ITSELF</subsection_name>
 The Sovereign, having no force other than the legislative power, acts
 only by means of the laws; and the laws being solely the authentic acts
 of the general will, the Sovereign cannot act save when the people is
@@ -1670,9 +1456,9 @@ most ancient governments, even those of monarchical form, such as the
 Macedonian and the Frankish, had similar councils. In any case, the one
 incontestable fact I have given is an answer to all difficulties; it is
 good logic to reason from the actual to the possible.
-</sub_section><sub_section>CHAPTER XIII<subsection_name>
-THE SAME (_continued_)
-</subsection_name>
+  </sub_section>
+  <sub_section>
+    <subsection_name number="3.13">CHAPTER XIII THE SAME (_continued_)</subsection_name>
 It is not enough for the assembled people to have once fixed the
 constitution of the State by giving its sanction to a body of law;
 it is not enough for it to have set up a perpetual government, or
@@ -1726,10 +1512,9 @@ become at once as strong and as well governed as possible. Remember
 that the walls of towns are built of the ruins of the houses of the
 countryside. For every palace I see raised in the capital, my mind's
 eye sees a whole country made desolate.
-</sub_section><sub_section>CHAPTER XIV<subsection_name>
-
-THE SAME (continued)
-</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="3.14">CHAPTER XIV THE SAME (continued)</subsection_name>
 The moment the people is legitimately assembled as a sovereign body,
 the jurisdiction of the government wholly lapses, the executive power
 is suspended, and the person of the meanest citizen is as sacred and
@@ -1759,7 +1544,9 @@ sometimes intervenes a mean power of which something must be said.
 Parliament. The similarity of these functions would have brought the
 consuls and the tribunes into conflict, even had all jurisdiction been
 suspended.
-</sub_section><sub_section>CHAPTER XV<subsection_name>DEPUTIES OR REPRESENTATIVES</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="3.15">CHAPTER XV DEPUTIES OR REPRESENTATIVES</subsection_name>
 As soon as public service ceases to be the chief business of the
 citizens, and they would rather serve with their money than with their
 persons, the State is not far from its fall. When it is necessary
@@ -1886,8 +1673,9 @@ inevitably in our case than in theirs.
 in dealing with external relations I came to the subject of
 confederations. The subject is quite new, and its principles have still
 to be laid down.
-</sub_section><sub_section>CHAPTER XVI<subsection_name>THAT THE INSTITUTION OF GOVERNMENT IS NOT A CONTRACT
-</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="3.16">CHAPTER XVI THAT THE INSTITUTION OF GOVERNMENT IS NOT A CONTRACT</subsection_name>
 The legislative power once well established, the next thing is to
 establish similarly the executive power;<consent_of_governed type="elections"> for this latter, which
 operates only by particular acts, not being of the essence of the
@@ -1934,7 +1722,8 @@ There is only one contract in the State, and that is the act of
 association, which in itself excludes the existence of a second. It
 is impossible to conceive of any public contract that would not be a
 violation of the first.
-</sub_section><sub_section>CHAPTER XVII<subsection_name>THE INSTITUTION OF GOVERNMENT</subsection_name>
+  </sub_section><sub_section>
+    <subsection_name number="3.17">CHAPTER XVII THE INSTITUTION OF GOVERNMENT</subsection_name>
 
 Under what general idea then should the act by which government is
 instituted be conceived as falling? I will begin by stating that the
@@ -1978,8 +1767,9 @@ form is adopted, or else establishes in the name of the Sovereign the
 government that is prescribed by law; and thus the whole proceeding
 is regular. It is impossible to set up government in any other manner
 legitimately and in accordance with the principles so far laid down.
-</sub_section><sub_section>CHAPTER XVIII<subsection_name>HOW TO CHECK THE USURPATIONS OF GOVERNMENT
-</subsection_name>
+  </sub_section>
+  <sub_section>
+    <subsection_name number="3.18">CHAPTER XVIII HOW TO CHECK THE USURPATIONS OF GOVERNMENT</subsection_name>
 What we have just said confirms XVI, and makes it clear that
 the institution of government is not a contract, but a law; that the
 depositaries of the executive power are not the people's masters, but
@@ -2050,13 +1840,13 @@ citizens in assembly could not do what each can do by himself.
 [1] Provided, of course, he does not leave to escape his obligations
 and avoid having to serve his country in the hour of need. Flight
 in such a case would be criminal and punishable, and would be, not
-withdrawal, but desertion.
-</sub_section></section>
+withdrawal, but desertion.</sub_section>
+</section>
 
 <section>
-section IV
-<sub_section>CHAPTER I<subsection_name>THAT THE GENERAL WILL IS INDESTRUCTIBLE
-</subsection_name>
+<section_name number="Section_4">section IV</section_name>
+  <sub_section>
+    <subsection_name number="4.1">CHAPTER I THAT THE GENERAL WILL IS INDESTRUCTIBLE</subsection_name>
 <consent_of_governed type="popular_sovereignty">As long as several men in assembly regard themselves as a single body,
 they have only a single will which is concerned with their common
 preservation and general well-being</consent_of_governed>. In this case, all the springs of
@@ -2127,8 +1917,9 @@ dividing and discussing, which the government is always most careful
 to leave solely to its members; but this important subject would need a
 treatise to itself, and it is impossible to say everything in a single
 work.
-</sub_section><sub_section>CHAPTER II<subsection_name>VOTING
-</subsection_name>
+  </sub_section>
+  <sub_section>
+    <subsection_name number="4.2">CHAPTER II VOTING</subsection_name>
 It may be seen, from the last chapter, that the way in which general
 business is managed may give a clear enough indication of the actual
 state of morals and the health of the body politic. The more concert
@@ -2237,8 +2028,9 @@ device is good and just It is indeed only malefactors of all estates
 who prevent the citizen from being free. In the country in which
 all such men were in the galleys, the most perfect liberty would be
 enjoyed.
-</sub_section><sub_section>CHAPTER III<subsection_name>ELECTIONS
-</subsection_name>
+  </sub_section>
+  <sub_section>
+    <subsection_name number="4.3">CHAPTER III ELECTIONS</subsection_name>
 <consent_of_governed type="elections">In the elections of the prince and the magistrates, which are, as I
 have said, complex acts, there are two possible methods of procedure,
 choice and lot.</consent_of_governed> Both have been employed in various republics, and a
@@ -2308,8 +2100,9 @@ the Roman constitution will more forcibly illustrate all the rules I
 could lay down. It is worth the while of a judicious reader to follow
 in some detail the working of public and private affairs in a Council
 consisting of two hundred thousand men.
-</sub_section><sub_section>CHAPTER IV<subsection_name>THE ROMAN COMITIA
-</subsection_name>
+  </sub_section>
+  <sub_section>
+    <subsection_name number="4.4">CHAPTER IV THE ROMAN COMITIA</subsection_name>
 We are without well-certified records of the first period of Rome's
 existence; it even appears very probable that most of the stories told
 about it are fables; indeed, generally speaking, the most instructive
@@ -2669,7 +2462,9 @@ in the _forum_ or elsewhere; and then the _capite censi_ had as much
 influence and authority as the foremost citizens.
 
 [2] Custodes, diribitores, rogatores suffragiorum.
-</sub_section><sub_section><subsection_name>CHAPTER V THE TRIBUNATE</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="4.5">CHAPTER V THE TRIBUNATE</subsection_name>
 
 When an exact proportion cannot be established between the constituent
 parts of the State, or when causes that cannot be removed continually
@@ -2736,8 +2531,9 @@ said, the tribunate, which forms no part of the constitution, can be
 removed without the constitution being affected. It seems to be also
 efficacious, because a newly restored magistrate starts not with the
 power his predecessor exercised, but with that which the law allows him.
-</sub_section><sub_section><subsection_name>CHAPTER VI THE DICTATORSHIP
-</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="4.6">CHAPTER VI THE DICTATORSHIP</subsection_name>
 The inflexibility of the laws, which prevents them from adapting
 themselves to circumstances, may, in certain cases, render them
 disastrous, and make them bring about, at a time of crisis, the ruin
@@ -2848,8 +2644,9 @@ something shameful in setting a man above the laws.
 [2] That is what he could not be sure of, if he proposed a dictator;
 for he dared not nominate himself, and could not be certain that his
 colleague would nominate him.
-</sub_section><sub_section><subsection_name>CHAPTER VII THE CENSORSHIP
-</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="4.7">CHAPTER VII THE CENSORSHIP</subsection_name>
 As the law is the declaration of the general will, the censorship is
 the declaration of the public judgment: public opinion is the form of
 law which the censor administers, and, like the prince, only applies to
@@ -2913,8 +2710,9 @@ have dealt at greater length in my _Letter to M. d'Alembert_.
 
 [2] They were from another island, which the delicacy of our language
 forbids me to name on this occasion.
-</sub_section><sub_section>CHAPTER VIII<subsection_name>CIVIL RELIGION
-</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="4.8">CHAPTER VIII CIVIL RELIGION</subsection_name>
 At first men had no kings save the gods, and no government save
 theocracy. They reasoned like Caligula, and, at that period, reasoned
 aright. It takes a long time for feeling so to change that men can make
@@ -3309,8 +3107,9 @@ will not say courage, but sense it has, will take no notice and go its
 way: it will quietly allow appeals, summonses, decrees and seizures,
 and, in the end, will remain the master. It is not, I think, a great
 sacrifice to give up a part, when one is sure of securing all.
-</sub_section><sub_section><subsection_name>CHAPTER IX. CONCLUSION
-</subsection_name>
+</sub_section>
+  <sub_section>
+    <subsection_name number="4.9">CHAPTER IX. CONCLUSION</subsection_name>
 Now that I have laid down the true principles of political right, and
 tried to give the State a basis of its own to rest on, I ought next
 to strengthen it by its external relations, which would include the
