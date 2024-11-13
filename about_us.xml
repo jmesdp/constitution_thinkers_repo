@@ -14,7 +14,14 @@
         <section>
             <section_name>Title</section_name>
             <sub_section>
-                <subsection_name>Person name</subsection_name>
+                <subsection_name>Person name (ie Montisque)</subsection_name>
+                text about whatever
+            </sub_section>
+        </section>
+        <section>
+            <section_name>Title</section_name>
+            <sub_section>
+                <subsection_name>Person name (ie Locke)</subsection_name>
                 text about whatever
             </sub_section>
         </section>
