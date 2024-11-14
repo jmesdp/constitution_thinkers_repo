@@ -57,6 +57,7 @@
                         </xsl:sort>
                     </xsl:apply-templates>
                 </ul>
+                <xsl:apply-templates select="//section" mode="toc"> 
                 <label for="thinkerSelector">Select Thinker: </label>
                 <select id="thinkerSelector" onchange="changeThinkerSelection()">
                     <option value="None">None</option>
@@ -68,14 +69,11 @@
                 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
                     <rect x="10" y="10" width="280" height="40" fill="white" stroke="black" stroke-width="2"/>
                     <text x="20" y="30" font-family="Arial" font-size="14" fill="black">Significance Range</text>
-                    
                     <!-- Color Bar -->
                     <rect x="10" y="50" width="280" height="20" fill="url(#gradient)" />
                     <text x="20" y="85" font-family="Arial" font-size="12" fill="black">Low</text>
                     <text x="230" y="85" font-family="Arial" font-size="12" fill="black">High</text>
-                    
-                    <!-- Color Gradient Definition -->
-                    <defs>
+                   <defs>
                         <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
                             <stop offset="0%" style="stop-color: #ff9e2c; stop-opacity: 1" />
                             <stop offset="25%" style="stop-color: #eaf200; stop-opacity: 1" />
@@ -84,33 +82,14 @@
                             <stop offset="100%" style="stop-color: #8100d0; stop-opacity: 1" />
                         </linearGradient>
                     </defs>
-                    
-                    <!-- Label for Low and High -->
-                    <text x="10" y="150" font-family="Arial" font-size="12" fill="black">Low Significance</text>
-                    <text x="10" y="170" font-family="Arial" font-size="12" fill="black">High Significance</text>
-                    
-                    <!-- Horizontal bars indicating significance of thinkers -->
-                    <rect x="10" y="130" width="50" height="10" fill="#ff9e2c"/>
-                    <text x="70" y="137" font-family="Arial" font-size="12" fill="black">Rousseau</text>
-                    
-                    <rect x="10" y="145" width="50" height="10" fill="#eaf200"/>
-                    <text x="70" y="152" font-family="Arial" font-size="12" fill="black">Montesquieu</text>
-                    
-                    <rect x="10" y="160" width="50" height="10" fill="#2ee400"/>
-                    <text x="70" y="167" font-family="Arial" font-size="12" fill="black">DeCive</text>
-                    
-                    <rect x="10" y="175" width="50" height="10" fill="#0099ff"/>
-                    <text x="70" y="182" font-family="Arial" font-size="12" fill="black">Locke</text>
                 </svg>
+                </xsl:apply-templates>
                 <hr/>
-               
-                <xsl:apply-templates select="//section"/>
-                
             </body>
         </html>
     </xsl:template>
     <!-- template for the doc -->
-    
+  
     <xsl:template match="//section" mode="toc">
         <li>  
             <h2 style="font-style:italic;">
@@ -220,17 +199,17 @@
             <!-- Iterate over sub-sections within this section -->
             <xsl:for-each select="sub_section">
                 <div class="sub_section">
-                    <!-- Display the subsection name -->
-                    <h3 style="text-align:center;">
-                        <xsl:value-of select="subsection_name"/>
-                    </h3>
-                    
-                    <!-- Display subsection content -->
-                    <p>
-                        <xsl:value-of select="text() | (consent_of_governed | inherent_rights | criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power)"/>
-                    </p>
-                    
-                    <!-- Output the subsection significance -->
+\                        <h3 style="text-align:center;">
+                            <xsl:value-of select="subsection_name"/>
+                        </h3>
+                        <xsl:for-each select="subsection_name">
+                            <h3 id="{@number}">
+                                <xsl:value-of select="subsection_name"/>
+                            </h3>
+                        </xsl:for-each>
+                        <p>
+                            <xsl:value-of select="text() | (consent_of_governed | inherent_rights | criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power)"/>
+                        </p>
                 </div>
             </xsl:for-each>
             
