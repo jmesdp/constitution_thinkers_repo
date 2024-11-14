@@ -12,14 +12,14 @@
     <xsl:template match="/">
         <html xmlns="http://www.w3.org/1999/xhtml">
             <head>
-                <title>Spirit of Laws</title>
+                <title>Second Treatise</title>
                 <link rel="stylesheet" type="text/css" href="constitutionstyle.css"/>
             </head>
             <body>
-                <h1 style="text-align:center;">The Spirit of Laws</h1>
+                <h1 style="text-align:center;">Second Treatise</h1>
                 
                 <xsl:apply-templates select="//meta_data"/>
-                By: Zellie Winterich
+                By: Ryan Pavlone
                 <hr/>
                 <xsl:apply-templates select="//preamble"/>
                 <h2 style="text-align:left;">Table of Contents</h2>
@@ -52,13 +52,13 @@
         <xsl:for-each select="sub_section">
             <li>
                 <i style="font-weight:bold;">
-                    Chapter:
+                    Section:
                 </i>
                 <xsl:for-each select="subsection_name">
                     <i>
                         <a href="#{@number}">
                             <xsl:value-of select="@number"/>
-                        </a> 
+                        </a>
                     </i>
                 </xsl:for-each>
             </li>
@@ -68,7 +68,7 @@
     
     <xsl:template match="//meta_data">
         <div class="meta_data">
-            <p style="text-align:center; font-family: Lucida Handwriting, cursive">
+            <p style="text-align:center;">
                 <i>
                     <xsl:value-of select="."/>
                 </i>
@@ -76,6 +76,7 @@
         </div>
     </xsl:template> 
     <!-- this is for the metadata text -->
+    
     <xsl:template match="preamble">
         <div class="preamble">
             <hr/>
@@ -84,7 +85,7 @@
             </h2>
             <xsl:for-each select="section_name">
                 <h2>
-                   <xsl:value-of select="section_name[@type='article' or @type='amendment' or @type='preamble']"/>
+                    <xsl:value-of select="section_name[@type='article' or @type='amendment' or @type='preamble']"/>
                 </h2>
             </xsl:for-each>
             <xsl:for-each select="sub_section">
@@ -107,7 +108,6 @@
     </xsl:template>
     <!-- this is for the preamble text -->
     
-   
     <xsl:template match="//section">
         <div class="section">
             <hr/>
