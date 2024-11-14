@@ -3,8 +3,7 @@
 /* General styles for the page */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    color: black;
     margin: 20px;
     line-height: 1.6;
 }
@@ -12,7 +11,7 @@ body {
 /* Style for the main heading */
 h1 {
     text-align: center;
-    color: #444;
+    color: black;
     margin-bottom: 20px;
 }
 
@@ -20,20 +19,26 @@ h1 {
 label {
     font-weight: bold;
     margin-right: 10px;
+    color: black;
+    margin-top: 10px; /* Move the selection box up */
+
 }
 
 select {
     padding: 5px;
     font-size: 16px;
+
 }
 
 /* Styles for each section */
 .section {
     border: 1px solid #ddd;
     border-radius: 5px;
+    border-color: black;
     padding: 15px;
     margin-bottom: 15px;
-    background-color: rgba(0, 0, 255, 0.1); /* Default light blue color with low opacity */
+    background-color: white;
+    margin-top: 10px;/* Default light blue color with low opacity */
     transition: background-color 0.3s ease; /* Smooth transition for background color changes */
 }
 
@@ -41,7 +46,7 @@ select {
 .section h2 {
     font-size: 20px;
     margin-bottom: 10px;
-    color: #555;
+    color: black;
 }
 
 /* Style for the significance paragraphs */
@@ -50,5 +55,5 @@ select {
 }
 
 strong {
-    color: #666;
+    color: black;
 }

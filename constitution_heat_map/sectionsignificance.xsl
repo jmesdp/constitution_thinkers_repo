@@ -8,20 +8,23 @@
     <xsl:variable name="rousseauDocument" select="document('/Users/jamespaul/desktop/James-Paul-Repo_1/constitution_thinkers_repo/social_contract.xml')" />
     <xsl:variable name="montesquieuDocument" select="document('/Users/jamespaul/desktop/James-Paul-Repo_1/constitution_thinkers_repo/SOL.xml')" />
     <xsl:variable name="deciveDocument" select="document('/Users/jamespaul/desktop/James-Paul-Repo_1/constitution_thinkers_repo/DeCive_comp.xml')" />
+    <xsl:variable name="lockeDocument" select="document('/Users/jamespaul/desktop/James-Paul-Repo_1/constitution_thinkers_repo/Locke_Second-Treatise.xml')" />
     <xsl:variable name="constitutionDocument" select="document('/Users/jamespaul/desktop/James-Paul-Repo_1/constitution_thinkers_repo/new_constitution.xml')" />
     <xsl:variable name="testDocument" select="document('/Users/jamespaul/desktop/digital humanities/thinker_test/Untitled1.xml')" />
-    <!-- Define the function to calculate significance -->
+    <!-- This function computes the relative significance of elements in the thinker documents compared to the Constitution -->
+    
     <xsl:function name="my:calculateSignificance" as="xs:decimal">
         <xsl:param name="thinkerDocument" />
         <xsl:param name="elementAttributePair" />
         
-        <!-- Count the number of matches in the thinker's document -->
+        <!-- Count the number of occurrences of the element-attribute pair in the thinker's document -->
         <xsl:variable name="thinkerCount" select="count($thinkerDocument//*[name() = substring-before($elementAttributePair, ', ') and @type = substring-after($elementAttributePair, ', ')])" />
         
-        <!-- Count the number of matches in the Constitution document -->
+        <!-- Count the number of occurrences of the element-attribute pair in the constitution document -->
         <xsl:variable name="constitutionCount" select="count($constitutionDocument//*[name() = substring-before($elementAttributePair, ', ') and @type = substring-after($elementAttributePair, ', ')])" />
         
-        <!-- Calculate relative significance -->
+        <!-- Calculate the relative significance by dividing the thinker count by the constitution count -->
+        
         <xsl:variable name="significance" select="if ($constitutionCount > 0) then ($thinkerCount div $constitutionCount) else 0" />
         
         <!-- Return the significance -->
@@ -43,10 +46,12 @@
                             <th>Rousseau Count</th>
                             <th>Montesquieu Count</th>
                             <th>DeCive Count</th>
+                            <th>Locke Count</th>
                             <th>Constitution Count</th>
                             <th>Relative Significance (Rousseau)</th>
                             <th>Relative Significance (Montesquieu)</th>
                             <th>Relative Significance (DeCive)</th>
+                            <th>Relative Significance (Locke)</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -69,13 +74,16 @@
                                 <!-- Count occurrences in the DeCive document -->
                                 <td><xsl:value-of select="count($deciveDocument//*[name() = substring-before($elementAttributePair, ', ') and @type = substring-after($elementAttributePair, ', ')])" /></td>
                                 
+                                <td><xsl:value-of select="count($lockeDocument//*[name() = substring-before($elementAttributePair, ', ') and @type = substring-after($elementAttributePair, ', ')])" /></td>
+                                
                                 <!-- Count occurrences in the Constitution document -->
                                 <td><xsl:value-of select="count($constitutionDocument//*[name() = substring-before($elementAttributePair, ', ') and @type = substring-after($elementAttributePair, ', ')])" /></td>
                                 
-                                <!-- Calculate relative significance for each thinker using the defined function -->
+                                <!-- Calls the function from above to calculate the relative significance for each thinker -->
                                 <td><xsl:value-of select="my:calculateSignificance($rousseauDocument, $elementAttributePair)" /></td>
                                 <td><xsl:value-of select="my:calculateSignificance($montesquieuDocument, $elementAttributePair)" /></td>
                                 <td><xsl:value-of select="my:calculateSignificance($deciveDocument, $elementAttributePair)" /></td>
+                                <td><xsl:value-of select="my:calculateSignificance($lockeDocument, $elementAttributePair)" /></td>
                             </tr>
                         </xsl:for-each>
                     </tbody>
@@ -95,7 +103,7 @@
                         <xsl:variable name="totalRousseauSignificance" select="sum(for $element in document('/Users/jamespaul/desktop/digital humanities/thinker_test/Untitled1.xml')//* return my:calculateSignificance($rousseauDocument, concat(name($element), ', ', $element/@type)))" />
                         <xsl:variable name="totalMontesquieuSignificance" select="sum(for $element in document('/Users/jamespaul/desktop/digital humanities/thinker_test/Untitled1.xml')//* return my:calculateSignificance($montesquieuDocument, concat(name($element), ', ', $element/@type)))" />
                         <xsl:variable name="totalDeCiveSignificance" select="sum(for $element in document('/Users/jamespaul/desktop/digital humanities/thinker_test/Untitled1.xml')//* return my:calculateSignificance($deciveDocument, concat(name($element), ', ', $element/@type)))" />
-                        
+                        <xsl:variable name="totalLockeSignificance" select="sum(for $element in document('/Users/jamespaul/desktop/digital humanities/thinker_test/Untitled1.xml')//* return my:calculateSignificance($lockeDocument, concat(name($element), ', ', $element/@type)))" />
                         <!-- Count the number of element-attribute pairs -->
                         <xsl:variable name="pairCount" select="count(document('/Users/jamespaul/desktop/digital humanities/thinker_test/Untitled1.xml')//*)" />
                         
@@ -103,6 +111,7 @@
                         <xsl:variable name="averageRousseauSignificance" select="$totalRousseauSignificance div $pairCount" />
                         <xsl:variable name="averageMontesquieuSignificance" select="$totalMontesquieuSignificance div $pairCount" />
                         <xsl:variable name="averageDeCiveSignificance" select="$totalDeCiveSignificance div $pairCount" />
+                        <xsl:variable name="averageLockeSignificance" select="$totalLockeSignificance div $pairCount" />
                         
                         <tr>
                             <td>Rousseau</td>
@@ -116,6 +125,10 @@
                             <td>DeCive</td>
                             <td><xsl:value-of select="$averageDeCiveSignificance" /></td>
                         </tr>
+                        <tr>
+                            <td>Locke</td>
+                            <td><xsl:value-of select="$averageLockeSignificance" /></td>
+                        </tr>
                     </tbody>
                 </table>
                 
@@ -128,6 +141,7 @@
                             <th>Rousseau Significance</th>
                             <th>Montesquieu Significance</th>
                             <th>DeCive Significance</th>
+                            <th>Locke Significance</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -139,6 +153,7 @@
                             <xsl:variable name="totalRousseauSignificance" select="sum(for $element in .//* return my:calculateSignificance($rousseauDocument, concat(name($element), ', ', $element/@type)))" />
                             <xsl:variable name="totalMontesquieuSignificance" select="sum(for $element in .//* return my:calculateSignificance($montesquieuDocument, concat(name($element), ', ', $element/@type)))" />
                             <xsl:variable name="totalDeCiveSignificance" select="sum(for $element in .//* return my:calculateSignificance($deciveDocument, concat(name($element), ', ', $element/@type)))" />
+                            <xsl:variable name="totalLockeSignificance" select="sum(for $element in .//* return my:calculateSignificance($lockeDocument, concat(name($element), ', ', $element/@type)))" />
                             
                             <!-- Count the number of element-attribute pairs in this section -->
                             <xsl:variable name="pairCount" select="count(.//*)" />
@@ -147,13 +162,14 @@
                             <xsl:variable name="averageRousseauSignificance" select="$totalRousseauSignificance div $pairCount" />
                             <xsl:variable name="averageMontesquieuSignificance" select="$totalMontesquieuSignificance div $pairCount" />
                             <xsl:variable name="averageDeCiveSignificance" select="$totalDeCiveSignificance div $pairCount" />
-                            
+                            <xsl:variable name="averageLockeSignificance" select="$totalLockeSignificance div $pairCount" />
                             <!-- Output the section name and average significance for each thinker -->
                             <tr>
                                 <td><xsl:value-of select="$sectionName" /></td>
                                 <td><xsl:value-of select="$averageRousseauSignificance" /></td>
                                 <td><xsl:value-of select="$averageMontesquieuSignificance" /></td>
                                 <td><xsl:value-of select="$averageDeCiveSignificance" /></td>
+                                <td><xsl:value-of select="$averageLockeSignificance" /></td>
                             </tr>
                         </xsl:for-each>
                     </tbody>
