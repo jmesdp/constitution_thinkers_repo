@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="constitution_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <body>
+        <!-- repeat layout -->
+        <section>
+            <section_name>Project</section_name>
+            <sub_section>
+                <subsection_name>Why</subsection_name>
+                text about why we chose our project, our process, etc
+            </sub_section>
+        </section>
+        <section>
+            <section_name>Title</section_name>
+            <sub_section>
+                <subsection_name>Person name (ie Montisque)</subsection_name>
+                text about whatever
+            </sub_section>
+        </section>
+        <section>
+            <section_name>Title</section_name>
+            <sub_section>
+                <subsection_name>Person name (ie Locke)</subsection_name>
+                text about whatever
+            </sub_section>
+        </section>
+        <!-- about us/project -->
+    </body>
+</content>

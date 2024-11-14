@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="constitution_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<content>
+    <body>
+        <!-- repeat layout with each citation -->
+        <section>
+            <section_name>Citation 1 title (ie constitution)</section_name>
+            <sub_section>
+                <subsection_name>Constitution of the United States of America-1787. US Code, House.Gov, 2020, https://uscode.house.gov/static/constitution.pdf.  </subsection_name>
+                This document contains the Preamble and Aritcles created by the United States' founding fathers in 1787. The Constitution protects the rights of U.S. citizens, and regulates the government's power over them.
+            </sub_section>
+        </section>
+        <section>
+            <section_name>DeCive</section_name>
+            <sub_section>
+                <subsection_name>Hobbes, Thomas. De Cive. J.C, Public Library UK, 2011, http://www.public-library.uk/ebooks/27/57.pdf.</subsection_name>
+                In 1642, English philospher Thomas Hobbes published De Cive. This document title translates to "On the Citizen" in reference to Hobbes' defense of citizen rights within the United States. He argues that humans are naturally flawed, and these flaws should be reflected within the social contract of the country. By creating this contract, the sovereign establishes order among citizens, and ensures individual peace and security. 
+            </sub_section>
+        </section>
+        <!-- work cited -->
+    </body>
+</content>
