@@ -1,11 +1,11 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = element content {meta_data?, table_of_contents?, body, text}
-meta_data = element meta_data {(text | title | author | table_of_contents | section)*}
+meta_data = element meta_data {(text | title | author | table_of_contents | section | html)?}
 title = element title {text}
 author = element author {text}
 table_of_contents = element table_of_contents {(text | section_name | sub_section )*}
- 
+html = element html {(text)}
 body = element body {(text | section | preamble)*}
 
 preamble = element preamble {(text | section | section_name | sub_section | subsection_name | consent_of_governed | inherent_rights| criminal_justice | purposes_of_law | legal_documents | legislative_body | judicial_body | executive_body | limits_of_power )*}
