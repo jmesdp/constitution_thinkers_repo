@@ -58,7 +58,7 @@
                     <i>
                         <a href="#{@number}">
                             <xsl:value-of select="@number"/>
-                        </a>
+                        </a> 
                     </i>
                 </xsl:for-each>
             </li>
