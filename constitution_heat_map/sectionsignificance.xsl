@@ -74,7 +74,7 @@
                                 <!-- Count occurrences in the DeCive document -->
                                 <td><xsl:value-of select="count($deciveDocument//*[name() = substring-before($elementAttributePair, ', ') and @type = substring-after($elementAttributePair, ', ')])" /></td>
                                 
-                                <td><xsl:value-of select="count($lockeDocument//*[name() = substring-before($elementAttributePair, ', ') and @type = substring-after($elementAttributePair, ', ')])" /></td>
+                                <!--  <td><xsl:value-of select="count($lockeDocument//*[name() = substring-before($elementAttributePair, ', ') and @type = substring-after($elementAttributePair, ', ')])" /></td> -->
                                 
                                 <!-- Count occurrences in the Constitution document -->
                                 <td><xsl:value-of select="count($constitutionDocument//*[name() = substring-before($elementAttributePair, ', ') and @type = substring-after($elementAttributePair, ', ')])" /></td>
@@ -83,7 +83,7 @@
                                 <td><xsl:value-of select="my:calculateSignificance($rousseauDocument, $elementAttributePair)" /></td>
                                 <td><xsl:value-of select="my:calculateSignificance($montesquieuDocument, $elementAttributePair)" /></td>
                                 <td><xsl:value-of select="my:calculateSignificance($deciveDocument, $elementAttributePair)" /></td>
-                                <td><xsl:value-of select="my:calculateSignificance($lockeDocument, $elementAttributePair)" /></td>
+                                <td><xsl:value-of select="my:calculateSignificance($lockeDocument, $elementAttributePair)" /></td> 
                             </tr>
                         </xsl:for-each>
                     </tbody>
@@ -103,7 +103,7 @@
                         <xsl:variable name="totalRousseauSignificance" select="sum(for $element in document('/Users/jamespaul/desktop/digital humanities/thinker_test/Untitled1.xml')//* return my:calculateSignificance($rousseauDocument, concat(name($element), ', ', $element/@type)))" />
                         <xsl:variable name="totalMontesquieuSignificance" select="sum(for $element in document('/Users/jamespaul/desktop/digital humanities/thinker_test/Untitled1.xml')//* return my:calculateSignificance($montesquieuDocument, concat(name($element), ', ', $element/@type)))" />
                         <xsl:variable name="totalDeCiveSignificance" select="sum(for $element in document('/Users/jamespaul/desktop/digital humanities/thinker_test/Untitled1.xml')//* return my:calculateSignificance($deciveDocument, concat(name($element), ', ', $element/@type)))" />
-                        <xsl:variable name="totalLockeSignificance" select="sum(for $element in document('/Users/jamespaul/desktop/digital humanities/thinker_test/Untitled1.xml')//* return my:calculateSignificance($lockeDocument, concat(name($element), ', ', $element/@type)))" />
+                        <xsl:variable name="totalLockeSignificance" select="sum(for $element in document('/Users/jamespaul/desktop/digital humanities/thinker_test/Untitled1.xml')//* return my:calculateSignificance($lockeDocument, concat(name($element), ', ', $element/@type)))" /> -->
                         <!-- Count the number of element-attribute pairs -->
                         <xsl:variable name="pairCount" select="count(document('/Users/jamespaul/desktop/digital humanities/thinker_test/Untitled1.xml')//*)" />
                         
@@ -126,9 +126,9 @@
                             <td><xsl:value-of select="$averageDeCiveSignificance" /></td>
                         </tr>
                         <tr>
-                            <td>Locke</td>
+                             <td>Locke</td>
                             <td><xsl:value-of select="$averageLockeSignificance" /></td>
-                        </tr>
+                         </tr> 
                     </tbody>
                 </table>
                 
@@ -153,7 +153,7 @@
                             <xsl:variable name="totalRousseauSignificance" select="sum(for $element in .//* return my:calculateSignificance($rousseauDocument, concat(name($element), ', ', $element/@type)))" />
                             <xsl:variable name="totalMontesquieuSignificance" select="sum(for $element in .//* return my:calculateSignificance($montesquieuDocument, concat(name($element), ', ', $element/@type)))" />
                             <xsl:variable name="totalDeCiveSignificance" select="sum(for $element in .//* return my:calculateSignificance($deciveDocument, concat(name($element), ', ', $element/@type)))" />
-                            <xsl:variable name="totalLockeSignificance" select="sum(for $element in .//* return my:calculateSignificance($lockeDocument, concat(name($element), ', ', $element/@type)))" />
+                            <xsl:variable name="totalLockeSignificance" select="sum(for $element in .//* return my:calculateSignificance($lockeDocument, concat(name($element), ', ', $element/@type)))" /> 
                             
                             <!-- Count the number of element-attribute pairs in this section -->
                             <xsl:variable name="pairCount" select="count(.//*)" />
@@ -166,10 +166,10 @@
                             <!-- Output the section name and average significance for each thinker -->
                             <tr>
                                 <td><xsl:value-of select="$sectionName" /></td>
-                                <td><xsl:value-of select="$averageRousseauSignificance" /></td>
-                                <td><xsl:value-of select="$averageMontesquieuSignificance" /></td>
-                                <td><xsl:value-of select="$averageDeCiveSignificance" /></td>
-                                <td><xsl:value-of select="$averageLockeSignificance" /></td>
+                                <td><xsl:value-of select="format-number($averageRousseauSignificance, '0.00')" /></td>
+                                <td><xsl:value-of select="format-number($averageMontesquieuSignificance, '0,0')" /></td>
+                                <td><xsl:value-of select="format-number($averageDeCiveSignificance, '0,0')" /></td>
+                                <td><xsl:value-of select="format-number($averageLockeSignificance, '0,0')" /></td>
                             </tr>
                         </xsl:for-each>
                     </tbody>
