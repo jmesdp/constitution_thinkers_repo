@@ -8,7 +8,7 @@
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" 
         include-content-type="no" indent="yes"/>
     <!-- basic XSLT info -->
-    
+     
     <xsl:template match="/">
         <html xmlns="http://www.w3.org/1999/xhtml">
             <head>
@@ -17,9 +17,9 @@
             </head>
             <body>
                 <h1 style="text-align:center;">The Constitution</h1>
-                <img src="american-flag.jpg" alt="flag" class="center" width="350" height="200"/>
+                <img src="https://cdn.britannica.com/81/4481-004-660915ED/flag-Stars-and-Stripes-July-4-1912.jpg" alt="flag" class="center" width="350" height="200"/>
                 <xsl:apply-templates select="//meta_data"/>
-                By: Zellie Winterich, Anna Costello, James Paul, Ryan Pavlone, and Cole Belling
+                By: Zellie Winterich, Anna Costello, James Paul, and Ryan Pavlone
                     <hr/>
                 <xsl:apply-templates select="//preamble"/>
                 <h2 style="text-align:left;">Table of Contents</h2>
