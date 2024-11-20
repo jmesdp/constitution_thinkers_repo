@@ -1,4 +1,4 @@
-/* Universal Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,11 +6,11 @@
 }
 
 body {
-    background-color: lightBlue;
+    background-image: url("https://www.archives.gov/files/founding-docs/downloads/Constitution_Pg1of4_AC.jpg");
     font-family: Arial, sans-serif;
 }
 
-/* Headings */
+
 h1, h2, h3, p {
     text-align: center;
     text-decoration: underline;
@@ -21,7 +21,7 @@ h1, h2, h3, p {
     padding-bottom: 5px;
 }
 
-/* Table Styling */
+
 table, th, td {
     border: 1px solid black;
     padding: 10px;
@@ -37,7 +37,7 @@ table, th, td {
 }
 
 .navbar a, .dropdown {
-    float: none; /* Remove float */
+    float: none; 
     display: block;
     color: white;
     text-align: center;
@@ -45,10 +45,10 @@ table, th, td {
     text-decoration: none;
 }
 
-/* Remove borders and outlines from all navbar items */
+
 .navbar a {
-    border: none;    /* No borders */
-    outline: none;   /* No outlines */
+    border: none;    
+    outline: none;   
 }
 
 .navbar a:hover {
@@ -56,15 +56,15 @@ table, th, td {
     color: black;
 }
 
-/* Dropdown Styling */
+
 .dropdown {
     position: relative;
 }
 
 .dropdown .dropbtn {
-    background-color: #333; /* Same background color as navbar */
-    border: none;           /* Remove border */
-    outline: none;          /* Remove outline */
+    background-color: #333; 
+    border: none;           
+    outline: none;          
     color: white;
     padding: 14px 16px;
     font-size: 16px;
