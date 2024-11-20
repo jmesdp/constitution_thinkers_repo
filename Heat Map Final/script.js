@@ -5,13 +5,13 @@ function changeThinkerSelection() {
     // Logic to handle the "None" selection
     if (selectedValue === "None") {
         // Remove color effects or reset styling
-        document.querySelectorAll('.section').forEach(function(section) {
-            section.style.backgroundColor = "white"; // Clear the background color
-            section.style.boxShadow = "none"; // Remove the glow effect
+        document.querySelectorAll('.section').forEach(function(element) {
+            element.style.backgroundColor = "white"; // Clear the background color
+            element.style.boxShadow = "none"; // Remove the glow effect
         });
     } else {
         var selectedThinker = selectedValue;
-        var sections = document.getElementsByClassName('section');
+        var sections = document.querySelectorAll('.section'); // Select both section and sub_section elements
         for (var i = 0; i < sections.length; i++) {
             var section = sections[i];
             var significanceValue = parseFloat(section.getAttribute('data-' + selectedThinker)) || 0; // Default to 0 if NaN
@@ -39,9 +39,9 @@ function getGlowForSignificance(significance) {
     var normalizedSignificance = Math.min(Math.max(significance, 0), 1);
 
     // Set the intensity and spread of the glow effect, increase brightness
-    var glowIntensity = 20 + (normalizedSignificance * 50); // Stronger glow effect for more significance
+    var glowIntensity = 20 + (normalizedSignificance * 15); // Stronger glow effect for more significance
     var color = getColorForSignificance(significance); // Use the same color for the glow
 
     // Return a box-shadow with a bold and pronounced glow effect
-    return `0 0 ${glowIntensity}px ${color}, 0 0 ${glowIntensity / 2}px ${color}`;
+    return `0 0 ${glowIntensity}px ${glowIntensity}px ${color}`;
 }

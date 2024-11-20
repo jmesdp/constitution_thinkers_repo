@@ -9,16 +9,18 @@ h1 {
 
 h2 {
     text-decoration: underline;
+    margin: 0;
+    padding: 0;
 }
 h3 {
     text-decoration: underline;
 }
 
-.section {
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
+.section * {
+    margin: 0;
+    padding: 0;
 }
+
 a:link {
     color:darkblue;
 }
@@ -29,19 +31,19 @@ a:visited {
     color:CornflowerBlue;
 }
 
-hr { 
-  display: block;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  margin-left: auto;
-  margin-right: auto;
-  border-style: inset;
-  border: 6px solid black;
-  border-radius: 4px;
+#thinkerSelector {
+    height: 30px;  /* Adjust the height to match the height of the SVG */
+    font-size: 14px; /* Ensure consistency with the font size */
+    vertical-align: middle; /* Align the select box vertically in relation to the SVG */
+    padding: 0 10px; /* Adjust padding if necessary to match proportions */
 }
 
+svg {
+    transform: translateY(300px); /* Slightly adjust the position to align with the select box */
+}
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
+
