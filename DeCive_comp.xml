@@ -2,8 +2,8 @@
 <?xml-model href="constitution_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <content>
     <meta_data>
-        <title>De Cive Philosophicall Elements of a true Citizen. Liberty</title>
-        by Thomas Hobbes
+        <title>De Cive Philosophicall Elements of a true Citizen. Liberty by Thomas Hobbes</title>
+        
     </meta_data>
     
 <body> De Cive text
