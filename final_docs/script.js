@@ -24,13 +24,9 @@ function changeThinkerSelection() {
 function getColorForSignificance(significance) {
     // Ensure significance is a number and within the range of 0 to 1
     var normalizedSignificance = Math.min(Math.max(significance, 0), 1);
-
-    // Enhance the low end of the scale to avoid dark colors
     var red = Math.round(255 * (1 - normalizedSignificance) + 50); // Increase the red component for a brighter effect
     var green = Math.round(255 * normalizedSignificance + 50); // Increase the green component for more vibrance
     var blue = 0; // Blue stays constant to focus the transition between red and green
-
-    // Return the RGB color, transitioning from light red to yellow to green
     return `rgb(${red}, ${green}, ${blue})`;
 }
 
